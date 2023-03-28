@@ -12,16 +12,16 @@ class Trainer():
 
         super().__init__()
 
-    def _batchify(self, x, y, batch_size, random_split=True):
+    def _batchify(self, X, y, batch_size, random_split=True):
         if random_split:
-            indices = torch.randperm(x.size(0), device=x.device)
-            x = torch.index_select(x, dim=0, index=indices)
+            indices = torch.randperm(X.size(0), device=X.device)
+            X = torch.index_select(X, dim=0, index=indices)
             y = torch.index_select(y, dim=0, index=indices)
 
-        x = x.split(batch_size, dim=0)
+        X = X.split(batch_size, dim=0)
         y = y.split(batch_size, dim=0)
 
-        return x, y
+        return X, y
 
     def _train(self, x, y, config):
         self.model.train()
