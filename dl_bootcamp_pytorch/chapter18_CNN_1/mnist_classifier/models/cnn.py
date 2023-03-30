@@ -14,15 +14,16 @@ class ConvolutionBlock(nn.Module):
             nn.Conv2d(in_channels, out_channels, (3, 3), padding=1),
             nn.ReLU(),
             nn.BatchNorm2d(out_channels),
+            # why out_channels, out_channels? change to in_channels and try it. → in_channels Error!
             nn.Conv2d(out_channels, out_channels, (3, 3), stride=2, padding=1),
             nn.ReLU(),
             nn.BatchNorm2d(out_channels),
         )
 
-    def forward(self, x):
-        # |x| = (batch_size, in_channels, h, w)
+    def forward(self, X):
+        # |X| = (batch_size, in_channels, h, w)
 
-        y = self.layers(x)
+        y = self.layers(X)
         # |y| = (batch_size, out_channels, h, w)
 
         return y
@@ -50,15 +51,15 @@ class ConvolutionalClassifier(nn.Module):
             nn.LogSoftmax(dim=-1),
         )
 
-    def forward(self, x):
-        assert x.dim() > 2
+    def forward(self, X):
+        assert X.dim() > 2
 
-        if x.dim() == 3:
-            # |x| = (batch_size, h, w)
-            x = x.view(-1, 1, x.size(-2), x.size(-1))
-        # |x| = (batch_size, 1, h, w)
+        if X.dim() == 3:
+            # |X| = (batch_size, h, w)
+            X = X.view(-1, 1, X.size(-2), X.size(-1))
+        # |X| = (batch_size, 1, h, w)
 
-        z = self.blocks(x)
+        z = self.blocks(X)
         # |z| = (batch_size, 512, 1, 1)
 
         y = self.layers(z.squeeze())

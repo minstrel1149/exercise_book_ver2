@@ -25,10 +25,8 @@ class Block(nn.Module):
             get_regularizer(use_batch_norm, output_size),
         )
         
-    def forward(self, x):
-        # |x| = (batch_size, input_size)
-        y = self.block(x)
-        # |y| = (batch_size, output_size)
+    def forward(self, X):
+        y = self.block(X)
         
         return y
 
@@ -63,9 +61,7 @@ class ImageClassifier(nn.Module):
             nn.LogSoftmax(dim=-1),
         )
         
-    def forward(self, x):
-        # |x| = (batch_size, input_size)        
-        y = self.layers(x)
-        # |y| = (batch_size, output_size)
+    def forward(self, X):
+        y = self.layers(X)
         
         return y
