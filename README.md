@@ -1071,4 +1071,4 @@
 1. Chapter 18. CNN(합성곱신경망)
 
 ### 2023년 3월 31일
-1. Chapter 19. RNN(순환신경망)(~ing)
+1. Chapter 19. RNN(순환신경망)

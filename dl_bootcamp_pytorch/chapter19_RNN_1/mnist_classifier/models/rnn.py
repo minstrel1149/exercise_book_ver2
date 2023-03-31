@@ -35,10 +35,10 @@ class SequenceClassifier(nn.Module):
             nn.LogSoftmax(dim=-1),
         )
 
-    def forward(self, x):
-        # |x| = (batch_size, h, w)
+    def forward(self, X):
+        # |X| = (batch_size, h, w)
 
-        z, _ = self.rnn(x)
+        z, _ = self.rnn(X)
         # |z| = (batch_size, h, hidden_size * 2)
         z = z[:, -1]
         # |z| = (batch_size, hidden_size * 2)
