@@ -25,11 +25,6 @@ class Block(nn.Module):
     
 class ImageClassifier(nn.Module):
     def __init__(self, input_size, output_size, hidden_sizes=[300, 200, 100], use_batch_norm=True, dropout_p=0.3):
-        self.input_size = input_size
-        self.output_size = output_size
-        self.use_batch_norm = use_batch_norm
-        self.dropout_p = dropout_p
-
         super().__init__()
 
         assert len(hidden_sizes) > 0, 'You need to specify hidden layers'

@@ -3,7 +3,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 
-class Trainer(nn.Module):
+class Trainer():
     def __init__(self, model, optimizer, crit):
         self.model = model
         self.optimizer = optimizer
