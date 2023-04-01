@@ -1,9 +1,9 @@
 import torch
 
-def load_mnist(is_train=True, flatten=True):
+def load_mnist(is_train=True, download=False, flatten=True):
     from torchvision import datasets, transforms
 
-    dataset = datasets.MNIST('../../data', train=is_train, transform=transforms.Compose([transforms.ToTensor()]))
+    dataset = datasets.MNIST('../../data', train=is_train, download=download, transform=transforms.Compose([transforms.ToTensor()]))
 
     X = dataset.data.float() / 255
     y = dataset.targets

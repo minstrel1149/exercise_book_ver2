@@ -23,7 +23,7 @@ class Block(nn.Module):
         y = self.block(X)
         return y
     
-class ImageClassification(nn.Module):
+class ImageClassifier(nn.Module):
     def __init__(self, input_size, output_size, hidden_sizes=[300, 200, 100], use_batch_norm=True, dropout_p=0.3):
         self.input_size = input_size
         self.output_size = output_size
