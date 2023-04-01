@@ -943,6 +943,10 @@
 ### 2023년 3월 25일
 1. Part A. Understanding Reading Question Type
 
+### 2023년 4월 1일
+1. Part B. Building Background Knowledge of TOEFL Topics
+    - Chapter 1. History
+
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
 ### 2023년 3월 12일
