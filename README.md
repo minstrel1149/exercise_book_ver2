@@ -940,12 +940,11 @@
 
 
 ## TOEFL MAP Reading Intermediate
-### 2023년 3월 25일
+### 2023년 3월 말 ~ 
 1. Part A. Understanding Reading Question Type
-
-### 2023년 4월 1일
-1. Part B. Building Background Knowledge of TOEFL Topics
+2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
+    - Chapter 2. The Arts
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
@@ -1091,3 +1090,5 @@
 4. Chapter 3.1 - 퍼셉트론: 가장 간단한 신경망
 5. Chapter 3.2 - 활성화 함수
 6. Chapter 3.3 - 손실 함수
+7. Chapter 3.4 - 지도학습 훈련 알아보기, 부가적인 훈련 개념
+8. Chapter 3.6 - 예제: 레스토랑 리뷰 감성 분류하기(~ing)
