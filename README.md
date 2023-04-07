@@ -945,6 +945,7 @@
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
     - Chapter 2. The Arts
+    - Chapter 3. Archaeology and Anthropology
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
