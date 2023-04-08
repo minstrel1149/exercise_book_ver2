@@ -1116,3 +1116,4 @@
 2. Chapter 2-1. 데이터베이스 모델링
 3. Chapter 2-2. 데이터베이스 시작부터 끝까지
 4. Chapter 2-3. 데이터베이스 개체
+5. Chapter 3-1. SELECT ~ FROM ~ WHERE 문
