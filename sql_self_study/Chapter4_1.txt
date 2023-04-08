@@ -1,0 +1,20 @@
+CREATE TABLE hongong4 (
+tinyint_col TINYINT, smallint_col SMALLINT, int_col INT, bigint_col BIGINT);
+
+CREATE TABLE movie (
+movie_id INT, movie_title VARCHAR(30), movie_director VARCHAR(20), movie_star VARCHAR(20), movie_script LONGTEXT, movie_film LONGBLOB);
+
+SET @myVal1 = 5 ; -- 변수 설정 / LIMIT에는 원칙적으로 변수 사용 불가
+SET @myVal2 = 4.25 ;
+SET @txt = '가수이름: ' ;
+SET @height = 162 ;
+SELECT @myVal1, @myVal2, @myVal1 + @myVal2;
+SELECT @txt , mem_name FROM member WHERE height > @height;
+
+SET @count = 3;
+PREPARE mySQL FROM 'SELECT mem_name, height FROM member ORDER BY height LIMIT ?';
+EXECUTE mySQL USING @count;
+
+SELECT CAST(AVG(price) AS UNSIGNED) '평균 가격' FROM buy;
+
+SELECT num, CONCAT(CAST(price AS CHAR), 'X', CAST(amount AS CHAR), '=' ) '가격x수량', price*amount '구매액' FROM buy;

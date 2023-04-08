@@ -5,11 +5,11 @@ USE market_db;
 CREATE TABLE member -- 회원 테이블
 ( mem_id  		CHAR(8) NOT NULL PRIMARY KEY, -- 사용자 아이디(PK)
   mem_name    	VARCHAR(10) NOT NULL, -- 이름
-  mem_number    INT NOT NULL,  -- 인원수
+  mem_number    TINYINT UNSIGNED NOT NULL,  -- 인원수
   addr	  		CHAR(2) NOT NULL, -- 지역(경기,서울,경남 식으로 2글자만입력)
   phone1		CHAR(3), -- 연락처의 국번(02, 031, 055 등)
   phone2		CHAR(8), -- 연락처의 나머지 전화번호(하이픈제외)
-  height    	SMALLINT,  -- 평균 키
+  height    	TINYINT UNSIGNED,  -- 평균 키
   debut_date	DATE  -- 데뷔 일자
 );
 CREATE TABLE buy -- 구매 테이블
