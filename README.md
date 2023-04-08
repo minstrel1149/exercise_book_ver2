@@ -1117,3 +1117,4 @@
 3. Chapter 2-2. 데이터베이스 시작부터 끝까지
 4. Chapter 2-3. 데이터베이스 개체
 5. Chapter 3-1. SELECT ~ FROM ~ WHERE 문
+6. Chapter 3-2. 좀 더 깊게 알아보는 SELECT 문

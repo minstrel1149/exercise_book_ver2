@@ -52,13 +52,40 @@ SELECT * FROM buy;
 ------------------------------------------------------------------------------------------------------------
 
 SELECT * FROM member;
+
 SELECT addr 주소, debut_date 데뷔일자, mem_name 이름 FROM member; -- Alias 지정
+
 SELECT * FROM member WHERE mem_name='블랙핑크';
+
 SELECT * FROM member WHERE mem_number=4;
+
 SELECT mem_id, mem_name FROM member WHERE height <= 162;
+
 SELECT mem_id, mem_name, height, mem_number FROM member WHERE height >= 165 AND mem_number >= 6;
+
 SELECT mem_id, mem_name, height, mem_number FROM member WHERE height BETWEEN 163 AND 165;
+
 SELECT mem_id, mem_name, addr FROM member WHERE addr IN ('경기', '전남', '경남');
+
 SELECT mem_id, mem_name, addr FROM member WHERE mem_name LIKE '우%'; -- %는 글자 수 상관없이 무엇이든 허용
+
 SELECT mem_id, mem_name, addr FROM member WHERE mem_name LIKE '__핑크'; -- _는 한 글자와 매치
+
 SELECT mem_id, mem_name FROM member WHERE height >= (SELECT height FROM member WHERE mem_name = '에이핑크');
+
+SELECT mem_id, mem_name, debut_date FROM member
+ORDER BY debut_date LIMIT 5;
+
+SELECT mem_id, mem_name, debut_date, height FROM member
+WHERE height >= 162
+ORDER BY height DESC, debut_date ASC;
+
+SELECT DISTINCT addr FROM member;
+
+SELECT mem_id 회원아이디, SUM(amount) 총구매개수 FROM buy
+GROUP BY mem_id
+ORDER BY mem_id;
+
+SELECT mem_id 회원아이디, SUM(price * amount) 총구매금액 FROM buy
+GROUP BY mem_id
+HAVING SUM(price * amount) >= 1000;
