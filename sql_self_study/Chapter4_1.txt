@@ -18,3 +18,17 @@ EXECUTE mySQL USING @count;
 SELECT CAST(AVG(price) AS UNSIGNED) '평균 가격' FROM buy;
 
 SELECT num, CONCAT(CAST(price AS CHAR), 'X', CAST(amount AS CHAR), '=' ) '가격x수량', price*amount '구매액' FROM buy;
+
+SELECT * FROM buy JOIN member ON buy.mem_id = member.mem_id
+WHERE buy.mem_id = 'GRL';
+
+SELECT B.mem_id, mem_name, prod_name, addr, CONCAT(phone1, phone2) '연락처'
+FROM buy B JOIN member M ON B.mem_id = M.mem_id;
+
+SELECT M.mem_id, M.mem_name, B.prod_name, M.addr
+FROM member M LEFT JOIN buy B USING (mem_id);
+
+SELECT DISTINCT M.mem_id, B.prod_name, M.mem_name, M.addr
+FROM member M LEFT JOIN buy B USING (mem_id)
+WHERE B.prod_name IS NULL
+ORDER BY M.mem_id;
