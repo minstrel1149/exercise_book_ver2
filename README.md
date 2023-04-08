@@ -1118,3 +1118,4 @@
 4. Chapter 2-3. 데이터베이스 개체
 5. Chapter 3-1. SELECT ~ FROM ~ WHERE 문
 6. Chapter 3-2. 좀 더 깊게 알아보는 SELECT 문
+7. Chapter 3-3. 데이터 변경을 위한 SQL 문
