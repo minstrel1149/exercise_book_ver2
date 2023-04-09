@@ -9,11 +9,11 @@ CREATE TABLE member -- 회원 테이블
   addr	  		CHAR(2) NOT NULL, -- 지역(경기,서울,경남 식으로 2글자만입력)
   phone1		CHAR(3), -- 연락처의 국번(02, 031, 055 등)
   phone2		CHAR(8), -- 연락처의 나머지 전화번호(하이픈제외)
-  height    	TINYINT UNSIGNED,  -- 평균 키
+  height    	TINYINT UNSIGNED CHECK (height >= 100),  -- 평균 키
   debut_date	DATE  -- 데뷔 일자
 );
 CREATE TABLE buy -- 구매 테이블
-(  num 		INT AUTO_INCREMENT NOT NULL PRIMARY KEY, -- 순번(PK)
+(  num 		INT AUTO_INCREMENT NOT NULL PRIMARY KEY, -- 순번(PK), AUTO_INCREMENT는 PK나 UNIQUE로 꼭 지정해야
    mem_id  	CHAR(8) NOT NULL, -- 아이디(FK)
    prod_name 	CHAR(6) NOT NULL, --  제품이름
    group_name 	CHAR(4)  , -- 분류
