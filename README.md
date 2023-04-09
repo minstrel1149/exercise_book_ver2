@@ -946,6 +946,7 @@
     - Chapter 1. History
     - Chapter 2. The Arts
     - Chapter 3. Archaeology and Anthropology
+    - Chapter 4. Education, Sociology, and Psychology
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
