@@ -14,3 +14,21 @@ CHECK (phone1 IN ('02', '031', '032', '054', '055', '061'));
 
 ALTER TABLE member
 ALTER COLUMN phone SET DEFAULT '02';
+
+CREATE VIEW v_member AS
+SELECT mem_id, mem_name, addr FROM member;
+
+CREATE VIEW v_memberbuy AS
+SELECT B.mem_id, M.mem_name, B.prod_name, M.addr, CONCAT(M.phone1, M.phone2) '연락처'
+FROM buy B JOIN member M USING (mem_id);
+
+ALTER VIEW v_viewtest1 AS
+SELECT B.mem_id 'Member ID', M.mem_name 'Member Name', B.prod_name 'Product Name', M.addr 'Address', CONCAT(M.phone1, M.phone2) 'Office Phone'
+FROM buy B JOIN member M USING (mem_id);
+
+DESCRIBE v_viewtest1;
+
+CREATE VIEW v_height167 AS
+SELECT * FROM member WHERE height >= 167 WITH CHECK OPTION;
+
+CHECK TABLE v_height167;
