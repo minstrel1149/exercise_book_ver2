@@ -1,0 +1,2 @@
+SHOW INDEX FROM member;
+
