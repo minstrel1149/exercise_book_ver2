@@ -1,0 +1,35 @@
+DROP PROCEDURE IF EXISTS user_proc; -- DROP PROCEDURE에는 괄호가 붙지 않아야
+DELIMITER //
+CREATE PROCEDURE user_proc()
+BEGIN
+SELECT * FROM member;
+END //
+DELIMITER ;
+CALL user_proc();
+
+DELIMITER //
+CREATE PROCEDURE user_proc(IN userName VARCHAR(10))
+BEGIN
+SELECT * FROM member WHERE mem_name = userName;
+END //
+DELIMITER ;
+CALL user_proc('에이핑크');
+
+DELIMITER //
+CREATE PROCEDURE user_proc(IN txtValue CHAR(10), OUT outValue INT)
+BEGIN
+INSERT INTO noTable VALUES (NULL, txtValue);
+SELECT MAX(id) INTO outValue FROM noTable;
+END //
+DELIMITER ;
+
+DELIMITER //
+CREATE PROCEDURE user_proc(IN tableName VARCHAR(20))
+BEGIN
+SET @sqlQuery = CONCAT('SELECT * FROM ', tableName);
+PREPARE myQuery FROM @sqlQuery;
+EXECUTE myQuery;
+DEALLOCATE PREPARE myQuery;
+END //
+DELIMITER ;
+CALL user_proc('member');
