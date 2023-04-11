@@ -33,3 +33,42 @@ DEALLOCATE PREPARE myQuery;
 END //
 DELIMITER ;
 CALL user_proc('member');
+
+SET GLOBAL log_bin_trust_function_creators = 1; -- stored function 생성 권한 허용
+
+DELIMITER //
+CREATE FUNCTION func(dYear INT)
+RETURNS INT
+BEGIN
+DECLARE runYear INT;
+SET runYear = YEAR(CURDATE()) - dYear;
+RETURN runYear;
+END //
+DELIMITER ;
+
+SELECT mem_id, mem_name, func(YEAR(debut_date)) '활동 햇수' FROM member;
+
+DELIMITER //
+CREATE PROCEDURE cursor_proc()
+BEGIN
+DECLARE memNumber INT;
+DECLARE cnt INT DEFAULT 0;
+DECLARE totNumber INT DEFAULT 0;
+DECLARE endOfRow BOOLEAN DEFAULT FALSE;
+DECLARE memberCursor CURSOR
+FOR SELECT mem_number FROM member;
+DECLARE CONTINUE HANDLER
+FOR NOT FOUND SET endOfRow = TRUE;
+OPEN memberCursor;
+cursor_loop: LOOP
+FETCH memberCursor INTO memNumber;
+IF endOfRow THEN
+LEAVE cursor_loop;
+END IF;
+SET cnt = cnt + 1;
+SET totNumber = totNumber + memNumber;
+END LOOP cursor_loop;
+SELECT (totNumber/cnt) '평균 인원';
+CLOSE memberCursor;
+END //
+DELIMITER ;
