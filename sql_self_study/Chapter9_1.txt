@@ -1,0 +1,51 @@
+SELECT *, product_id FROM product; -- 애스터리스크는 꼭 앞에 와야
+
+a <=> b 는 NULL 대응하는 a와 b는 같다 의미
+<=> 이외의 연산자로 NULL을 비교대상으로 할 경우 결과는 모두 NULL을 반환
+NOT NULL도 NULL 반환
+= 연산자는 TRUE를 1로, FALSE를 0으로 변환하여 비교대상으로
+IS의 경우 0만 FALSE로 판정하고, 그 밖의 수치는 모두 TRUE로 판정
+
+SELECT customer_id FROM customer WHERE customer_name IS NULL;
+
+문자열에서 비교 연산자를 사용하면 대소문자 구별 x, 끝의 공백은 무시 → BINARY 이용
+SELECT * FROM search WHERE val = BINARY 'A';
+
+LIKE를 사용하면 문자열 끝에 붙은 공백이 무시되지 않음
+SELECT * FROM searh WHERE val LIKE 'A';
+
+LIKE는 문자열 일부만 일치하는지 여부 판정 가능. 이스케이프 처리는 \로 진행
+SELECT * FROM product WHERE product_name LIKE '약용%';
+
+SELECT * FROM customer WHERE NOT (membertype_id = 1);
+
+연산자 우선순위 : BINARY > 산술 연산자 > 비교 연산자 > BETWEEN, CASE, WHEN, THEN > NOT > AND, XOR, OR
+괄호를 붙여 먼저 연산 시행 가능
+
+집계함수를 적을 수 있는 곳은 SELECT 구, HAVING 구, ORDER BY 구 이렇게 3개
+그룹화를 시행했을 때 SELECT 구, HAVING 구에 지정할 수 있는 것은 상수, 집계함수, 집계키의 컬럼명
+
+정렬키에는 연산자, 함수 등도 사용 가능 SELECT 구에 없는 것도 지정 가능
+SELECT product_name, stock, price FROM product ORDER BY stock * price;
+
+SELECT * FROM product ORDER BY price IS NULL ASC, price ASC; -- NULL이면 1이 되므로 마지막으로 배치
+
+SELECT
+customer, quantity,
+CASE
+WHEN quantity <= 3 THEN 1000
+WHEN quantity <= 7 THEN 1200
+WHEN quantity <= 10 THEN 1500
+ELSE 2000
+END AS delivery_fee
+FROM delivery;
+
+SELECT
+customer,
+CASE delivery_time
+WHEN 1 THEN '오전'
+WHEN 2 THEN '오후'
+WHEN 3 THEN '야간'
+ELSE '지정 없음'
+END AS delivery_time2
+FROM delivery;
