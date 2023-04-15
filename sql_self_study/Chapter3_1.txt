@@ -51,6 +51,9 @@ SELECT * FROM buy;
 
 ------------------------------------------------------------------------------------------------------------
 
+SELECT 문의 실행 순서
+ : FROM WHERE GROUP BY HAVING SELECT DISTINCT ORDER BY OFFSET LIMIT
+
 SELECT * FROM member;
 
 SELECT addr 주소, debut_date 데뷔일자, mem_name 이름 FROM member; -- Alias 지정
