@@ -19,7 +19,7 @@ CREATE TABLE buy -- 구매 테이블
    group_name 	CHAR(4)  , -- 분류
    price     	INT  NOT NULL, -- 가격
    amount    	SMALLINT  NOT NULL, -- 수량
-   FOREIGN KEY (mem_id) REFERENCES member(mem_id)
+   FOREIGN KEY (mem_id) REFERENCES member (mem_id)
 );
 
 INSERT INTO member VALUES('TWC', '트와이스', 9, '서울', '02', '11111111', 167, '2015.10.19');
