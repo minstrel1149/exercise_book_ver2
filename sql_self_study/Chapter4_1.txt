@@ -1,9 +1,15 @@
+CHAR는 255자, VARCHAR는 16383자까지 가능
+TEXT, LONGTEXT 등을 활용하여 더 큰 데이터 저장 가능
+BLOB(Binary Long Object), LONGBLOB 등을 활용하여 이미지, 동영상 등 데이터 저장 가능
+FLOAT은 소수점 7자리, DOUBLE은 소수점 15자리
+
 CREATE TABLE hongong4 (
 tinyint_col TINYINT, smallint_col SMALLINT, int_col INT, bigint_col BIGINT);
 
 CREATE TABLE movie (
 movie_id INT, movie_title VARCHAR(30), movie_director VARCHAR(20), movie_star VARCHAR(20), movie_script LONGTEXT, movie_film LONGBLOB);
 
+변수는 MySQL 워크벤치를 재시작할 때까지만 유지
 SET @myVal1 = 5 ; -- 변수 설정 / LIMIT에는 원칙적으로 변수 사용 불가
 SET @myVal2 = 4.25 ;
 SET @txt = '가수이름: ' ;
@@ -16,6 +22,7 @@ PREPARE mySQL FROM 'SELECT mem_name, height FROM member ORDER BY height LIMIT ?'
 EXECUTE mySQL USING @count;
 
 SELECT CAST(AVG(price) AS UNSIGNED) '평균 가격' FROM buy;
+SELECT CAST('2022/12/12' AS DATE);
 
 SELECT num, CONCAT(CAST(price AS CHAR), 'X', CAST(amount AS CHAR), '=' ) '가격x수량', price*amount '구매액' FROM buy;
 
