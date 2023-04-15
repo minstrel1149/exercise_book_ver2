@@ -40,6 +40,13 @@ FROM member M LEFT JOIN buy B USING (mem_id)
 WHERE B.prod_name IS NULL
 ORDER BY M.mem_id;
 
+CREATE TABLE cross_table
+SELECT * FROM sakila.actor CROSS JOIN world.country;
+
+SELECT A.emp AS '직원', B.emp AS '직속상관', B.phone AS '상관연락처'
+FROM emp_table AS A JOIN emp_table AS B ON A.manager = B.emp
+WHERE A.emp = '경리부장';
+
 DROP PROCEDURE IF EXISTS ifProc1;
 DELIMITER //
 CREATE PROCEDURE ifProc1()
