@@ -17,6 +17,9 @@ CHECK (phone1 IN ('02', '031', '032', '054', '055', '061'));
 ALTER TABLE member
 ALTER COLUMN phone SET DEFAULT '02';
 
+ALTER TABLE member
+DROP INDEX mem_name; -- 유니크 키 제거
+
 CREATE VIEW v_member AS
 SELECT mem_id, mem_name, addr FROM member;
 
@@ -26,7 +29,9 @@ FROM buy B JOIN member M USING (mem_id);
 
 ALTER VIEW v_viewtest1 AS
 SELECT B.mem_id 'Member ID', M.mem_name 'Member Name', B.prod_name 'Product Name', M.addr 'Address', CONCAT(M.phone1, M.phone2) 'Office Phone'
-FROM buy B JOIN member M USING (mem_id);
+FROM buy B JOIN member M USING (mem_id); -- Complex 뷰는 읽기 전용
+
+SELECT `Member ID`, `Member Name` FROM v_viewtest; -- 백쿼테이션 사용
 
 DESCRIBE v_viewtest1;
 
