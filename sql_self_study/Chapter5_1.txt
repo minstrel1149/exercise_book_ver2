@@ -8,6 +8,8 @@ FOREIGN KEY (mem_id) REFERENCES member(mem_id)
 ON UPDATE CASCADE
 ON DELETE CASCADE;
 
+UPDATE member SET mem_id = 'PINK' WHERE mem_id = 'BLK';
+
 ALTER TABLE member
 ADD CONSTRAINT
 CHECK (phone1 IN ('02', '031', '032', '054', '055', '061'));
