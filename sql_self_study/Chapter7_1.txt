@@ -28,11 +28,13 @@ CREATE PROCEDURE user_proc(IN tableName VARCHAR(20))
 BEGIN
 SET @sqlQuery = CONCAT('SELECT * FROM ', tableName);
 PREPARE myQuery FROM @sqlQuery;
-EXECUTE myQuery;
+EXECUTE myQuery; -- 동적 SQL은 USING 예약어 활용 가능
 DEALLOCATE PREPARE myQuery;
 END //
 DELIMITER ;
 CALL user_proc('member');
+
+YEAR(), MONTH(), DAY(), CURDATE(), DATEDIFF() 등
 
 SET GLOBAL log_bin_trust_function_creators = 1; -- stored function 생성 권한 허용
 
