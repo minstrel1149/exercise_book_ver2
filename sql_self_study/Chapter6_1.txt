@@ -3,13 +3,13 @@ SHOW INDEX FROM member;
 SHOW TABLE STATUS LIKE 'member';
 
 CREATE INDEX idx_member_addr ON member (addr);
-ANALYZE TABLE member;
+ANALYZE TABLE member; -- 생성한 인덱스를 실제로 적용시키기 위해서 필요
 
 DROP INDEX idx_member_addr ON member;
 ANALYZE TABLE member;
 
 SELECT table_name, constraint_name FROM information_schema.referential_constraints
-WHERE constraint_schema = 'market_db';
+WHERE constraint_schema = 'market_db'; -- FK의 이름을 알아내기 위한 Query
 ALTER TABLE buy
 DROP FOREIGN KEY buy_ibfk_1;
 ALTER TABLE member
