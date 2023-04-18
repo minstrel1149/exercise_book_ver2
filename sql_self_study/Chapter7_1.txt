@@ -102,7 +102,7 @@ DELIMITER //
 CREATE TRIGGER singer_updateTrg
 AFTER UPDATE ON singer FOR EACH ROW
 BEGIN
-INSERT INTO backup_singer VALUES (OLD.mem_id, OLD.mem_name, OLD.mem_number, OLD.addr, '수정', CURDATE(), CURRENT_USER());
+INSERT INTO backup VALUES (OLD.mem_id, OLD.mem_name, OLD.mem_number, OLD.addr, '수정', CURDATE(), CURRENT_USER());
 END //
 DELIMITER ;
 

@@ -52,9 +52,9 @@ FROM delivery;
 
 SELECT AVG(COALESCE(star, 0)) FROM inquiry; -- star 컬럼의 NULL값을 0으로 변환
 SELECT * FROM product ORDER BY IFNULL(price, 999999) ASC; -- price 컬럼의 NULL 값을 999999로 변환
-SE:ECT AVG(NULLIF(star, 0)) FROM inquiry; -- star 컬럼의 0 값을 NULL로 변환
+SELECT AVG(NULLIF(star, 0)) FROM inquiry; -- star 컬럼의 0 값을 NULL로 변환
 
-CAST 함수의 변환하는 데이터형 : CHAR, DATE, DATETIME, TIME, DECEMAL(a, b), SIGNED, UNSIGNED 등
+CAST 함수의 변환하는 데이터형 : CHAR, DATE, DATETIME, TIME, DECIMAL(a, b), SIGNED, UNSIGNED 등
 SELECT * FROM ranking ORDER BY CAST(rank_value AS SIGNED);
 
 Sub Query에서 ALL과 ANY는 모든 비교 연산자를 지정할 수 있는 것이 특징
@@ -66,7 +66,7 @@ WHERE stock < ANY(
 복수행 Sub Query 결과 등 일시적인 테이블에는 AS(Alias)로 별명을 붙여줘야
 
 상관 Sub Query : Main Query 안에서 1 레코드씩 Sub Query를 실행
-SELECT product.product_id, product.product_name
+SELECT p.product_id, p.product_name
 FROM product AS p
 WHERE 3 < (
     SELECT SUM(quantity) FROM productorder AS po WHERE p.product_id = po.product_id
