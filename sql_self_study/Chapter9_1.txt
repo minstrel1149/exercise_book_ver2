@@ -76,7 +76,7 @@ SELECT p.product_id, p.product_name FROM product AS p
 WHERE
 EXISTS (
     SELECT * FROM productorder AS po WHERE p.product_id = po.product_id
-);
+); -- JOIN과 연관?
 
 UNION은 중복을 허락하지 않음 → 중복을 허용하려면 UNION ALL 활용해야
 (SELECT * FROM inquiry) UNION (SELECT * FROM inquiry_2019);
