@@ -949,6 +949,7 @@
     - Chapter 4. Education, Sociology, and Psychology
     - Chapter 5. Economics
     - Chapter 6. Life Sciences
+    - Chapter 7. Physical Sciences
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
