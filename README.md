@@ -950,6 +950,7 @@
     - Chapter 5. Economics
     - Chapter 6. Life Sciences
     - Chapter 7. Physical Sciences
+    - Chapter 8. Environmental Sciences
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
