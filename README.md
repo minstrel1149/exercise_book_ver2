@@ -1212,3 +1212,6 @@
 1. Chapter 1. 재귀 함수
 2. Chapter 2. 성능 분석
 3. Chapter 3. 배열(array list): 변수가 한 곳에 모여있으면 빠르다
+
+### 2023년 4월 25일
+1. Chapter 4. 연결 리스트(linked list): 삽입과 삭제를 빠르게 할 수 없을까?
