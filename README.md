@@ -940,7 +940,7 @@
 
 
 ## TOEFL MAP Reading Intermediate
-### 2023년 3월 말 ~ 
+### 2023년 3월 말 ~ 4월 말
 1. Part A. Understanding Reading Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
@@ -951,6 +951,10 @@
     - Chapter 6. Life Sciences
     - Chapter 7. Physical Sciences
     - Chapter 8. Environmental Sciences
+
+## TOEFL MAP Listening Intermediate
+### 2023년 4월 말 ~ 
+1. Part A. Understanding Listening Question Type
 
 
 ## 김기현의 딥러닝 부트캠프 with 파이토치
