@@ -894,6 +894,8 @@
 3. Section 6.3 - 부분분수법
 4. Section 6.4 - 근사 적분
 5. Section 6.5 - 이상적분
+6. Section 7.1 - 곡선 사이의 넓이
+7. Section 7.2 - 부피
 
 
 ## 다면평가 가이드북
