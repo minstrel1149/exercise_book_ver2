@@ -892,7 +892,8 @@
 1. Section 6.1 - 부분적분법
 2. Section 6.2 - 삼각함수 적분과 삼각치환법
 3. Section 6.3 - 부분분수법
-4. Section 6.4 - 근사 적분(~ing)
+4. Section 6.4 - 근사 적분
+5. Section 6.5 - 이상적분
 
 
 ## 다면평가 가이드북
