@@ -900,6 +900,9 @@
 9. Section 7.4 - 호의 길이
 10. Section 7.5 - 회전체의 곡면 넓이
 
+### 2023년 5월 6일
+1. Chapter 3. 도함수 복습
+
 
 ## 다면평가 가이드북
 ### 2023년 2월 18일
@@ -944,51 +947,9 @@
 
 
 ## 텝스 공식 기출 문제집
-### 2023년 3월 2일
-1. Test 1. Voca and Grammar 문제 풀이
-2. Test 2. Voca and Grammar 문제 풀이
-
-### 2023년 3월 3일
-1. Test 3. Voca and Grammar 문제 풀이
-
-### 2023년 3월 4일
-1. Test 1. Voca and Grammar 복습
-2. Test 1. Listening 문제 풀이
-3. Test 1. Reading 문제 풀이
-4. Test 1. Listening 복습
-5. Test 1. Reading 복습(~ing, Q.20)
-
-### 2023년 3월 5일
-1. Test 2. Voca and Grammar 복습
-2. Test 2. Listening 문제 풀이
-3. Test 2. Reading 문제 풀이
-4. Test 2. Listening 복습
-
-### 2023년 3월 6일
-1. Test 3. Voca and Grammar 복습
-
-### 2023년 3월 7일
-1. Test 3. Listening 문제 풀이
-2. Test 4. Voca and Grammar 문제 풀이
-
-### 2023년 3월 8일
-1. Test 3. Listening 복습
-
-### 2023년 3월 9일
-1. Test 4. Voca and Grammar 복습
-
-### 2023년 3월 10일
-1. Test 1 ~ Test 4 Voca and Grammar 파트 단어 복습
-2. Test 1 ~ Test 3 Listening 파트 단어 복습
-
-### 2023년 3월 11일
-1. Test 1 ~ Test 3 Voca and Grammar, Listening 파트 단어 복습
-
-### 2023년 3월 18일
-1. Test 4. Listening 복습
-
-### 2023년 3월 20일
-1. Test 5. Listening 복습
+### 2023년 3월 초 ~ 3월 말
+1. Test 1 ~ 5 Grammar, Voca 문제 풀이
+2. Listening 복습
 
 
 ## TOEFL MAP Reading Intermediate
