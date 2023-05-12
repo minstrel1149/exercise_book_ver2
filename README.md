@@ -947,7 +947,7 @@
 1. Chapter 8. 급수 복습
 2. Chapter 9. 매개변수 방정식과 벡터 복습
 3. Chapter 10. 편도함수 복습
-4. Chapter 11. 중적분 복습(~ing)
+4. Chapter 11. 중적분 복습
 
 
 ## 다면평가 가이드북
