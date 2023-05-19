@@ -41,3 +41,5 @@
 ## 혼자 공부하는 SQL - Programming
 
 ## 파이썬으로 배우는 자료 구조 핵심 원리 - Programming
+
+## 최적화 이론 - Math_and_Statistics
