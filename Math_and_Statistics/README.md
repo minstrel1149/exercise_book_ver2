@@ -598,3 +598,4 @@
 1. Section 2.1 - 다변수 함수의 정의
 2. Section 2.2 - 다변수 함수의 미분
 3. Section 2.3 - R^n→R의 테일러 급수
+4. Section 2.4 - R^m→R^n의 테일러 급수
