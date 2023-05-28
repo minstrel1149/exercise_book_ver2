@@ -47,6 +47,7 @@
 3. 미분적분학 에센스 - Math_and_Statistics
 4. 최적화 이론 - Math_and_Statistics
     * 다른 책으로 바꿔서 학습 예정
+5. 머신러닝을 위한 수학(최적화 이론) - Math_and Statistics
 
 
 ## Machine_learning
