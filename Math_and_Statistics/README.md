@@ -606,3 +606,4 @@
 1. Section 2.1 - 다변수 함수
 2. Section 2.2 - 다변수 함수의 미분
 3. Section 2.3 - 다변수 벡터 함수
+4. Section 3.1 - 볼록 함수(~ing)
