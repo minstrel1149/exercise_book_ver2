@@ -607,3 +607,4 @@
 2. Section 2.2 - 다변수 함수의 미분
 3. Section 2.3 - 다변수 벡터 함수
 4. Section 3.1 - 볼록 함수
+5. Section 3.2 - 볼록 최적화(~ing)
