@@ -614,3 +614,6 @@
 2. Section 3.3 - 경사하강법
 3. Section 3.4 - 응용: 선형 회귀 분석
 4. Chapter.3 Convex Optimization 복습(~ing)
+
+### 2023년 5월 30일
+1. Chapter.3 Convex Optimization 복습(~ing)
