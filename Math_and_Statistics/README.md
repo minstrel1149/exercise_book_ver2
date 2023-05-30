@@ -616,4 +616,4 @@
 4. Chapter.3 Convex Optimization 복습(~ing)
 
 ### 2023년 5월 30일
-1. Chapter.3 Convex Optimization 복습(~ing)
+1. Chapter.3 Convex Optimization 복습
