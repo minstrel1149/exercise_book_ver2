@@ -617,3 +617,6 @@
 
 ### 2023년 5월 30일
 1. Chapter.3 Convex Optimization 복습
+
+### 2023년 5월 31일
+1. Section 4.1 - 라그랑주 쌍대함수
