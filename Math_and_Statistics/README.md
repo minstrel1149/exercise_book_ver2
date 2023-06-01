@@ -622,3 +622,6 @@
 1. Section 4.1 - 라그랑주 쌍대함수
 2. Section 4.2 - 라그랑주 쌍대성
 3. Section 4.3 - 응용: 서포트 벡터 머신
+
+### 2023년 6월 1일
+1. Chapter.4 Duality 복습(~ing)
