@@ -634,4 +634,4 @@
 1. Section 5.4 - 응용: 주성분 분석
 2. Chapter.5 고급 수학 이론 복습
 3. Section 1.1 - 행렬
-4. Section 1.2 - 선형변환(~ing)
+4. Section 1.2 - 선형변환
