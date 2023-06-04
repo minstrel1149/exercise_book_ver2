@@ -640,3 +640,4 @@
 1. Section 1.3 - 고윳값과 고유벡터
 2. Section 1.4 - 이차형식
 3. Chapter.1 - Matrix 복습
+4. Section 2.1 - 다변수 함수
