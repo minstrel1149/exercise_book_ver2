@@ -613,10 +613,10 @@
 1. Section 3.2 - 볼록 최적화
 2. Section 3.3 - 경사하강법
 3. Section 3.4 - 응용: 선형 회귀 분석
-4. Chapter.3 Convex Optimization 복습(~ing)
+4. Chapter.3 - Convex Optimization 복습(~ing)
 
 ### 2023년 5월 30일
-1. Chapter.3 Convex Optimization 복습
+1. Chapter.3 - Convex Optimization 복습
 
 ### 2023년 5월 31일
 1. Section 4.1 - 라그랑주 쌍대함수
@@ -624,7 +624,7 @@
 3. Section 4.3 - 응용: 서포트 벡터 머신
 
 ### 2023년 6월 1일
-1. Chapter.4 Duality 복습
+1. Chapter.4 - Duality 복습
 
 ### 2023년 6월 2일
 1. Section 5.1 - 특잇값 분해와 반복법
@@ -632,10 +632,11 @@
 
 ### 2023년 6월 3일
 1. Section 5.4 - 응용: 주성분 분석
-2. Chapter.5 고급 수학 이론 복습
+2. Chapter.5 - 고급 수학 이론 복습
 3. Section 1.1 - 행렬
 4. Section 1.2 - 선형변환
 
 ### 2023년 6월 4일
 1. Section 1.3 - 고윳값과 고유벡터
 2. Section 1.4 - 이차형식
+3. Chapter.1 - Matrix 복습
