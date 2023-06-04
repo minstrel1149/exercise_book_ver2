@@ -641,3 +641,4 @@
 2. Section 1.4 - 이차형식
 3. Chapter.1 - Matrix 복습
 4. Section 2.1 - 다변수 함수
+5. Section 2.2 - 다변수 함수의 미분
