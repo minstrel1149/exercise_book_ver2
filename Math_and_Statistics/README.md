@@ -642,3 +642,6 @@
 3. Chapter.1 - Matrix 복습
 4. Section 2.1 - 다변수 함수
 5. Section 2.2 - 다변수 함수의 미분
+
+### 2023년 6월 5일
+1. Section 2.3 - 다변수 벡터함수
