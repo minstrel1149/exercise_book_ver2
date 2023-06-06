@@ -648,4 +648,5 @@
 2. Chapter.2 - Multivariate Function 복습
 
 ### 2023년 6월 6일
-1. Section 3.1 - 볼록함수(~ing)
+1. Section 3.1 - 볼록함수
+2. Section 3.2 - 볼록 최적화(~ing)
