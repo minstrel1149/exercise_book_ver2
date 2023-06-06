@@ -651,3 +651,4 @@
 1. Section 3.1 - 볼록함수
 2. Section 3.2 - 볼록 최적화
 3. Section 3.3 - 경사하강법
+4. Section 3.4 - 응용: 선형 회귀 분석
