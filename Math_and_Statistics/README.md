@@ -646,3 +646,6 @@
 ### 2023년 6월 5일
 1. Section 2.3 - 다변수 벡터함수
 2. Chapter.2 - Multivariate Function 복습
+
+### 2023년 6월 6일
+1. Section 3.1 - 볼록함수(~ing)
