@@ -652,3 +652,6 @@
 2. Section 3.2 - 볼록 최적화
 3. Section 3.3 - 경사하강법
 4. Section 3.4 - 응용: 선형 회귀 분석
+
+### 2023년 6월 7일
+1. Chapter 3. Convex Optimization 복습(~ing)
