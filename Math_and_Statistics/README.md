@@ -654,4 +654,4 @@
 4. Section 3.4 - 응용: 선형 회귀 분석
 
 ### 2023년 6월 7일
-1. Chapter 3. Convex Optimization 복습(~ing)
+1. Chapter 3. Convex Optimization 복습
