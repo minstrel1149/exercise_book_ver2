@@ -657,3 +657,4 @@
 1. Chapter.3 - Convex Optimization 복습
 2. Section 4.1 - 라그랑주 쌍대 함수
 3. Section 4.2 - 라그랑주 쌍대성
+4. Section 4.3 - 응용: 서포트 벡터 머신
