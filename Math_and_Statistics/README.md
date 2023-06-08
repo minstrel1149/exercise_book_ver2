@@ -660,4 +660,4 @@
 4. Section 4.3 - 응용: 서포트 벡터 머신
 
 ### 2023년 6월 8일
-1. Chapter.4 - Duality 복습(~ing)
+1. Chapter.4 - Duality 복습
