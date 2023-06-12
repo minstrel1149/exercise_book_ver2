@@ -95,7 +95,7 @@
 
 
 ## TOEFL MAP Listening Intermediate
-### 2023년 4월 말 ~ 
+### 2023년 4월 말 ~ 6월 초
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. Life Sciences 1
@@ -108,3 +108,8 @@
     - Chapter 8. Arts 2
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test 2 / Test 3
+
+
+## Cambridge IELTS 10
+### 2023년 6월 초 ~ 
+1. Test 1. Section 1, Section 2, 

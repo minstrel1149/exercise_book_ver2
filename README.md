@@ -18,6 +18,7 @@
 5. 텝스 공식 기출 문제집 - HR_etc
 6. TOEFL MAP Reading Intermediate - HR_etc
 7. TOEFL MAP Listening Intermediate - HR_etc
+8. Cambridge IELTS 10
 
 
 ## Programming
