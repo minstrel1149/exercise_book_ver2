@@ -18,7 +18,7 @@
 5. 텝스 공식 기출 문제집 - HR_etc
 6. TOEFL MAP Reading Intermediate - HR_etc
 7. TOEFL MAP Listening Intermediate - HR_etc
-8. Cambridge IELTS 10
+8. Cambridge IELTS 10 - HR_etc
 
 
 ## Programming
@@ -48,7 +48,8 @@
 3. 미분적분학 에센스 - Math_and_Statistics
 4. 최적화 이론 - Math_and_Statistics
     * 다른 책으로 바꿔서 학습 예정
-5. 머신러닝을 위한 수학(최적화 이론) - Math_and Statistics
+5. 머신러닝을 위한 수학(최적화 이론) - Math_and_Statistics
+6. 김우철 수리통계학 - Math_and_Statistics
 
 
 ## Machine_learning
