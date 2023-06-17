@@ -704,3 +704,4 @@
 2. Section 3-4. 포아송분포
 3. Section 3-5. 지수분포와 감마분포
 4. Section 3-6. 정규분포
+5. Chapter. 1 - 확률분포 복습(~ing)
