@@ -733,4 +733,4 @@
 1. Section 7-1. 검정의 형식 논리
 2. Section 7-2. 최대가능도 검정법
 3. Section 7-3. 최대가능도 검정법의 근사
-4. Chapter.6 - 추정 복습(~ing)
+4. Chapter.6 - 추정 복습
