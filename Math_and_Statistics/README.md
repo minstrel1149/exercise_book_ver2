@@ -736,3 +736,4 @@
 4. Chapter.6 - 추정 복습
 5. Chapter.7 - 검정 복습
 6. Section 8-1. 추정량 비교의 기준
+7. Section 8-2. 충분통계량
