@@ -780,3 +780,4 @@
 7. Section 3-4. 포아송 분포
 8. Section 3-5. 지수분포와 감마분포
 9. Section 3-6. 정규분포
+10. Section 4-1. 통계량의 분포(~ing)
