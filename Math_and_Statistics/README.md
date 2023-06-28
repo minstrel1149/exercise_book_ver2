@@ -798,4 +798,4 @@
 1. Chapter.4 - 표본분포 복습
 2. Chapter.5 - 표본분포의 근사 복습
 3. Section 6.1 - 적률이용 추정법
-4. Section 6.2 - 최대가능도 추정법(~ing)
+4. Section 6.2 - 최대가능도 추정법
