@@ -819,4 +819,4 @@
 1. Chapter.6 - 추정 복습
 2. Chapter.7 - 검정 복습
 3. Chapter.8 - 추정량의 비교 복습
-4. Chapter.9 - 검정의 비교 복습(~ing)
+4. Chapter.9 - 검정의 비교 복습
