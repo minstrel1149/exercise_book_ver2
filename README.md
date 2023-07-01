@@ -51,6 +51,7 @@
     * 다른 책으로 바꿔서 학습 예정
 5. 머신러닝을 위한 수학(최적화 이론) - Math_and_Statistics
 6. 김우철 수리통계학 - Math_and_Statistics
+7. 김창진 계량경제학 I - Math_and_Statistics
 
 
 ## Machine_learning
