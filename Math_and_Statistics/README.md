@@ -864,4 +864,4 @@
 4. Section 1-1. 통계학의 개념과 용어 정리
 5. Section 1-2. 확률변수, 기대치, 분산
 6. Section 1-3. 추정
-7. Section 1-4. 기본 분포이론(~ing)
+7. Section 1-4. 기본 분포이론
