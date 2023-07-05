@@ -878,3 +878,4 @@
 8. Section 3-5. 다중회귀모형과 여러가지 변수
 9. Section 4-1. 이분산 모형(Heteroscedasticity)
 10. Section 4-2. 자기상관 모형(Auto-correlation)
+11. Chapter.2 - 단순회귀모형 복습
