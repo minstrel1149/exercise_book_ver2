@@ -876,3 +876,5 @@
 6. Section 3-3. 다중회귀모형에서의 추정과 분포
 7. Section 3-4. 다중회귀모형에서의 가설검정
 8. Section 3-5. 다중회귀모형과 여러가지 변수
+9. Section 4-1. 이분산 모형(Heteroscedasticity)
+10. Section 4-2. 자기상관 모형(Auto-correlation)
