@@ -879,3 +879,5 @@
 9. Section 4-1. 이분산 모형(Heteroscedasticity)
 10. Section 4-2. 자기상관 모형(Auto-correlation)
 11. Chapter.2 - 단순회귀모형 복습
+12. Chapter.3 - 다중회귀모형 복습
+13. Chapter.4 - 고전적 가정의 붕괴 복습
