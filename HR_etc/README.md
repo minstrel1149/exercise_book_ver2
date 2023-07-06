@@ -120,4 +120,4 @@
 
 ## TOEFL MAP Listening Advance
 ### 2023년 7월 초 ~
-1. Part A. Understanding Listening Question Type(~ing2)
+1. Part A. Understanding Listening Question Type
