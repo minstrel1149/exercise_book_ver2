@@ -890,3 +890,6 @@
 3. Chapter.3 - 분포
 4. Chapter.4 - 비율 추정
 5. Chapter.5 - 수량 추정
+
+### 2023년 7월 7일
+1. Chapter.6 - Odds와 Addends(~ing)
