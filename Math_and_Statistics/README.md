@@ -895,4 +895,4 @@
 1. Chapter.6 - Odds와 Addends
 2. Chapter.7 - 최솟값, 최댓값, 그리고 혼합분포
 3. Chapter.8 - 포아송 과정
-4. Chapter.9 - 의사결정분석(~ing)
+4. Chapter.9 - 의사결정분석
