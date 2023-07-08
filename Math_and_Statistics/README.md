@@ -904,3 +904,5 @@
 3. Chapter.2 - 베이즈 정리 간단 복습
 4. Chapter.3 - 분포 간단 복습
 5. Chapter.4 - 비율 추정 간단 복습
+6. Chapter.5 - 수량 추정 간단 복습
+7. Chapter.6 - Odds와 Addends 간단 복습
