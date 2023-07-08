@@ -906,3 +906,5 @@
 5. Chapter.4 - 비율 추정 간단 복습
 6. Chapter.5 - 수량 추정 간단 복습
 7. Chapter.6 - Odds와 Addends 간단 복습
+8. Chapter.7 - 최솟값, 최댓값, 그리고 혼합분포 간단 복습
+9. Chapter.8 - 포아송 과정 간단 복습(~ing)
