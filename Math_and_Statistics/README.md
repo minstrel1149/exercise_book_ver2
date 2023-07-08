@@ -902,3 +902,5 @@
 1. Chapter.10 - 검정
 2. Chapter.1 - 확률 간단 복습
 3. Chapter.2 - 베이즈 정리 간단 복습
+4. Chapter.3 - 분포 간단 복습
+5. Chapter.4 - 비율 추정 간단 복습
