@@ -912,4 +912,5 @@
 
 ### 2023년 7월 9일
 1. Chapter.10 - 검정 간단 복습
-2. Chapter.11 - 비교(~ing)
+2. Chapter.11 - 비교
+3. Chapter.12 - 분류(~ing)
