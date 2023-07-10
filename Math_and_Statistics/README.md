@@ -917,4 +917,5 @@
 4. Chapter.13 - 추론
 
 ### 2023년 7월 10일
-1. Chapter.14 - 생존 분석(~ing)
+1. Chapter.14 - 생존 분석
+2. Chapter.15 - 표식과 재포획(~ing)
