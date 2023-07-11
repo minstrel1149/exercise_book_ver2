@@ -923,4 +923,5 @@
 4. Chapter.17 - 회귀
 
 ### 2023년 7월 11일
-1. Chapter.18 - 켤레사전분포(~ing)
+1. Chapter.18 - 켤레사전분포
+2. Chapter.19 - MCMC(Markov Chain Monte Carlo)(~ing)
