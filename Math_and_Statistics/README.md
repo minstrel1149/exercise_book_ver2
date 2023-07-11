@@ -926,3 +926,5 @@
 1. Chapter.18 - 켤레사전분포
 2. Chapter.19 - MCMC(Markov Chain Monte Carlo)
 3. Chapter.20 - 근사 베이지안 계산
+4. Chapter.11 - 비교 간단 복습
+5. Chapter.12 - 분류 간단 복습
