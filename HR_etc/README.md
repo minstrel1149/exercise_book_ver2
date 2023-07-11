@@ -123,4 +123,4 @@
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. Life Sciences 1
-    - Chapter 2. Life Sciences 2(~ing3)
+    - Chapter 2. Life Sciences 2
