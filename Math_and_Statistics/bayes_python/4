@@ -1,0 +1,52 @@
+Collecting pymc
+  Using cached pymc-5.6.0-py3-none-any.whl (450 kB)
+Collecting pytensor<2.13,>=2.12.0
+  Using cached pytensor-2.12.3-cp310-cp310-win_amd64.whl (1.4 MB)
+Requirement already satisfied: cachetools>=4.2.1 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pymc) (5.3.1)
+Collecting arviz>=0.13.0
+  Using cached arviz-0.15.1-py3-none-any.whl (1.6 MB)
+Requirement already satisfied: fastprogress>=0.2.0 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pymc) (1.0.3)
+Requirement already satisfied: scipy>=1.4.1 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pymc) (1.7.3)
+Requirement already satisfied: numpy>=1.15.0 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pymc) (1.22.1)
+Requirement already satisfied: typing-extensions>=3.7.4 in c:\users\admin\anaconda3\lib\site-packages (from pymc) (4.4.0)
+Requirement already satisfied: pandas>=0.24.0 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pymc) (1.4.3)
+Requirement already satisfied: cloudpickle in c:\users\admin\anaconda3\lib\site-packages (from pymc) (2.0.0)
+Requirement already satisfied: packaging in c:\users\admin\appdata\roaming\python\python310\site-packages (from arviz>=0.13.0->pymc) (21.3)
+Requirement already satisfied: xarray-einstats>=0.3 in c:\users\admin\appdata\roaming\python\python310\site-packages (from arviz>=0.13.0->pymc) (0.6.0)
+Requirement already satisfied: setuptools>=60.0.0 in c:\users\admin\anaconda3\lib\site-packages (from arviz>=0.13.0->pymc) (65.6.3)
+Collecting scipy>=1.4.1
+  Using cached scipy-1.11.1-cp310-cp310-win_amd64.whl (44.0 MB)
+Requirement already satisfied: xarray>=0.21.0 in c:\users\admin\anaconda3\lib\site-packages (from arviz>=0.13.0->pymc) (2022.11.0)
+Collecting h5netcdf>=1.0.2
+  Using cached h5netcdf-1.2.0-py3-none-any.whl (43 kB)
+Requirement already satisfied: matplotlib>=3.2 in c:\users\admin\appdata\roaming\python\python310\site-packages (from arviz>=0.13.0->pymc) (3.5.3)
+Requirement already satisfied: python-dateutil>=2.8.1 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pandas>=0.24.0->pymc) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in c:\users\admin\appdata\roaming\python\python310\site-packages (from pandas>=0.24.0->pymc) (2022.1)
+Collecting logical-unification
+  Using cached logical_unification-0.4.6-py3-none-any.whl
+Collecting etuples
+  Using cached etuples-0.3.9-py3-none-any.whl
+Collecting miniKanren
+  Using cached miniKanren-1.0.3-py3-none-any.whl
+Collecting cons
+  Using cached cons-0.4.6-py3-none-any.whl
+Requirement already satisfied: filelock in c:\users\admin\anaconda3\lib\site-packages (from pytensor<2.13,>=2.12.0->pymc) (3.9.0)
+Requirement already satisfied: h5py in c:\users\admin\anaconda3\lib\site-packages (from h5netcdf>=1.0.2->arviz>=0.13.0->pymc) (3.7.0)
+Requirement already satisfied: pyparsing>=2.2.1 in c:\users\admin\appdata\roaming\python\python310\site-packages (from matplotlib>=3.2->arviz>=0.13.0->pymc) (3.0.9)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\admin\appdata\roaming\python\python310\site-packages (from matplotlib>=3.2->arviz>=0.13.0->pymc) (1.4.4)
+Requirement already satisfied: fonttools>=4.22.0 in c:\users\admin\appdata\roaming\python\python310\site-packages (from matplotlib>=3.2->arviz>=0.13.0->pymc) (4.37.1)
+Requirement already satisfied: pillow>=6.2.0 in c:\users\admin\appdata\roaming\python\python310\site-packages (from matplotlib>=3.2->arviz>=0.13.0->pymc) (9.2.0)
+Requirement already satisfied: cycler>=0.10 in c:\users\admin\appdata\roaming\python\python310\site-packages (from matplotlib>=3.2->arviz>=0.13.0->pymc) (0.11.0)
+Requirement already satisfied: six>=1.5 in c:\users\admin\appdata\roaming\python\python310\site-packages (from python-dateutil>=2.8.1->pandas>=0.24.0->pymc) (1.16.0)
+Requirement already satisfied: toolz in c:\users\admin\anaconda3\lib\site-packages (from logical-unification->pytensor<2.13,>=2.12.0->pymc) (0.12.0)
+Requirement already satisfied: multipledispatch in c:\users\admin\anaconda3\lib\site-packages (from logical-unification->pytensor<2.13,>=2.12.0->pymc) (0.6.0)
+Installing collected packages: scipy, logical-unification, h5netcdf, cons, etuples, miniKanren, arviz, pytensor, pymc
+  Attempting uninstall: scipy
+    Found existing installation: scipy 1.7.3
+    Uninstalling scipy-1.7.3:
+      Successfully uninstalled scipy-1.7.3
+  Attempting uninstall: arviz
+    Found existing installation: arviz 0.12.1
+    Uninstalling arviz-0.12.1:
+      Successfully uninstalled arviz-0.12.1
+Successfully installed arviz-0.15.1 cons-0.4.6 etuples-0.3.9 h5netcdf-1.2.0 logical-unification-0.4.6 miniKanren-1.0.3 pymc-5.6.0 pytensor-2.12.3 scipy-1.11.1
