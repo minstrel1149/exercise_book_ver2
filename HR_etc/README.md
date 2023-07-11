@@ -110,8 +110,8 @@
     - Test 1 / Test 2 / Test 3
 
 
-## Cambridge IELTS LISTENING
-### 2023년 6월 초 ~ 
+## Cambridge IELTS LISTENING(10, 11)
+### 2023년 6월 초 ~ 7월 초
 1. IELTS 10 : Listening Part
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 11 : Listening Part
@@ -124,3 +124,4 @@
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. Life Sciences 1
     - Chapter 2. Life Sciences 2
+    - Chapter 3. Social Sciences 1(~ing)
