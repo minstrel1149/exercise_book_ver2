@@ -937,4 +937,4 @@
 5. Chapter.17 - 회귀 간단 복습
 6. Chapter.18 - 켤레사전분포 간단 복습
 7. Chapter.19 - MCMC(Markov Chain Monte Carlo) 간단 복습
-8. Chapter.20 - 근사 베이지안 계산 간단 복습(~ing)
+8. Chapter.20 - 근사 베이지안 계산 간단 복습
