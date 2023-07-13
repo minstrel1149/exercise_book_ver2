@@ -29,9 +29,9 @@ def update_dice(pmf, data):
     likelihood = 1 / hypos
     impossible = (data > hypos)
     likelihood[impossible] = 0
-    pmf *= likelihood
-    pmf.normalize()
-    return pmf
+    posterior = pmf * likelihood
+    posterior.normalize()
+    return posterior
 
 # Chapter.4
 def make_binomial(n, p):
@@ -39,3 +39,27 @@ def make_binomial(n, p):
     ps = ss.binom(n, p).pmf(ks)
     return Pmf(ps, ks)
 
+def update_euro(pmf, likelihood, dataset):
+    posterior = pmf.copy()
+    for data in dataset:
+        posterior *= likelihood[data]
+    posterior.normalize()
+    return posterior
+
+def update_binomial(pmf, data):
+    k, n = data
+    xs = pmf.qs
+    likelihood = ss.binom(n, xs).pmf(k)
+    posterior = pmf * likelihood
+    posterior.normalize()
+    return posterior
+
+# Chapter.5
+def update_train(pmf, data):
+    hypos = pmf.qs
+    likelihood = 1 / hypos
+    impossible = (data > hypos)
+    likelihood[impossible] = 0
+    posterior = pmf * likelihood
+    posterior.normalize()
+    return posterior
