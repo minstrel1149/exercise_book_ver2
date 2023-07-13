@@ -63,3 +63,21 @@ def update_train(pmf, data):
     posterior = pmf * likelihood
     posterior.normalize()
     return posterior
+
+# Chapter.6
+def odds(p):
+    return p / (1-p)
+
+def prob(o):
+    return o / (o+1)
+
+def make_dice(sides):
+    outcomes = np.arange(1, sides + 1)
+    dice = Pmf(1/sides, outcomes)
+    return dice
+
+def add_dist_seq(seq):
+    total = seq[0]
+    for other in seq[1:]:
+        total = total.add_dist(other)
+    return total

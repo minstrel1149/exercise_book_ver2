@@ -944,4 +944,5 @@
 2. Chapter.2 - 베이즈 정리
 3. Chapter.3 - 분포
 4. Chapter.4 - 비율 추정
-5. Chapter.5 - 수량 추정(~ing)
+5. Chapter.5 - 수량 추정
+6. Chapter.6 - Odds와 Addends(~ing)
