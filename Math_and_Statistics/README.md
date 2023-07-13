@@ -942,4 +942,5 @@
 ### 2023년 7월 13일
 1. Chapter.1 - 확률
 2. Chapter.2 - 베이즈 정리
-3. Chapter.3 - 분포(~ing)
+3. Chapter.3 - 분포
+4. Chapter.4 - 비율 추정(~ing)
