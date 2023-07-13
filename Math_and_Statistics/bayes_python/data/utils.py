@@ -82,3 +82,10 @@ def add_dist_seq(seq):
         total = Pmf.add_dist(total, other)
     return total
 
+# Chapter.8
+def make_mixture(pmf, pmf_seq):
+    df = pd.DataFrame(pmf_seq).fillna(0).T
+    df *= np.array(pmf)
+    total = df.sum(axis=1)
+    return Pmf(total)
+
