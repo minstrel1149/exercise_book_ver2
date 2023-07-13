@@ -945,4 +945,5 @@
 3. Chapter.3 - 분포
 4. Chapter.4 - 비율 추정
 5. Chapter.5 - 수량 추정
-6. Chapter.6 - Odds와 Addends(~ing)
+6. Chapter.6 - Odds와 Addends
+7. Chapter.7 - 최솟값, 최댓값, 그리고 혼합분포(~ing)

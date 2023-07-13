@@ -79,5 +79,6 @@ def make_dice(sides):
 def add_dist_seq(seq):
     total = seq[0]
     for other in seq[1:]:
-        total = total.add_dist(other)
+        total = Pmf.add_dist(total, other)
     return total
+
