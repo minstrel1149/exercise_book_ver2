@@ -954,4 +954,4 @@
 3. Chapter.10 - 검정
 4. Chapter.11 - 비교
 5. Chapter.12 - 분류
-6. Chapter.13 - 추론(~ing)
+6. Chapter.13 - 추론

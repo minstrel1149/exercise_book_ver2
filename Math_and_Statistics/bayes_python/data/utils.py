@@ -236,3 +236,24 @@ def update_norm(prior, data):
     normalize(posterior)
 
     return posterior
+
+def kde_from_pmf(pmf, n=101):
+    kde = ss.gaussian_kde(pmf.qs, weights=pmf.ps)
+    qs = np.linspace(pmf.qs.min(), pmf.qs.max(), n)
+    ps = kde.evaluate(qs)
+    kde_pmf = Pmf(ps, qs)
+    kde_pmf.normalize()
+    return kde_pmf
+
+def update_norm_summary(prior, data):
+    n, m, s = data
+    mu_mesh, sigma_mesh = np.meshgrid(prior.columns, prior.index)
+
+    like1 = ss.norm(mu_mesh, sigma_mesh/np.sqrt(n)).pdf(m)
+    like2 = ss.chi2(n-1).pdf((n-1) * s**2 / sigma_mesh**2)
+
+    posterior = prior * like1 * like2
+    normalize(posterior)
+
+    return posterior
+
