@@ -175,3 +175,47 @@ def normalize(joint):
     prob_data = joint.to_numpy().sum()
     joint /= prob_data
     return prob_data
+
+# Chapter.12
+def make_cdf_map(df, colname, by='Species'):
+    fig, ax = plt.subplots(1, 1, figsize=(12, 3))
+    cdf_map = {}
+    grouped = df.groupby(by)[colname]
+    for name, group in grouped:
+        cdf_map[name] = Cdf.from_seq(group, name=name)
+        ax.plot(cdf_map[name], label=name)
+    plt.legend()
+    return cdf_map
+
+def make_norm_map(df, colname, by='Species'):
+    norm_map = {}
+    grouped = df.groupby(by)[colname]
+    for name, group in grouped:
+        mean = group.mean()
+        std = group.std()
+        norm_map[name] = ss.norm(mean, std)
+    return norm_map
+
+def update_penguin(prior, data, norm_map):
+    hypos = prior.qs
+    likelihood = [norm_map[hypo].pdf(data) for hypo in hypos]
+    posterior = prior * likelihood
+    posterior.normalize()
+    return posterior
+
+def update_naive(prior, data_seq, norm_maps):
+    posterior = prior.copy()
+    for data, norm_map in zip(data_seq, norm_maps):
+        posterior = update_penguin(posterior, data, norm_map)
+    return posterior
+
+def make_multinorm_map(df, colnames, by='Species'):
+    multinorm_map = {}
+    grouped = df.groupby(by)
+    for name, group in grouped:
+        features = group[colnames]
+        mean = features.mean()
+        cov = features.cov()
+        multinorm_map[name] = ss.multivariate_normal(mean, cov)
+    return multinorm_map
+
