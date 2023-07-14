@@ -82,10 +82,28 @@ def add_dist_seq(seq):
         total = Pmf.add_dist(total, other)
     return total
 
-# Chapter.8
+# Chapter.7
 def make_mixture(pmf, pmf_seq):
     df = pd.DataFrame(pmf_seq).fillna(0).T
     df *= np.array(pmf)
     total = df.sum(axis=1)
     return Pmf(total)
+
+# Chapter.8
+def make_poisson_pmf(lam, qs):
+    ps = ss.poisson(lam).pmf(qs)
+    pmf = Pmf(ps, qs)
+    pmf.normalize()
+    return pmf
+
+def update_poisson(pmf, data):
+    k = data
+    lams = pmf.qs
+    likelihood = ss.poisson(lams).pmf(k)
+    posterior = pmf * likelihood
+    posterior.normalize()
+    return posterior
+
+def expo_pdf(t, lam):
+    return lam * np.exp(-lam * t)
 
