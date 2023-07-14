@@ -151,3 +151,9 @@ def expected_gain(bid, posterior, sample_diff):
         total += prob * compute_gain(bid, price, sample_diff)
     return total
 
+# Chapter.10
+def update_machine(pmf, likelihood, data):
+    pmf *=likelihood[data]
+    pmf.normalize()
+
+
