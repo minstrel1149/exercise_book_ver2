@@ -156,4 +156,22 @@ def update_machine(pmf, likelihood, data):
     pmf *=likelihood[data]
     pmf.normalize()
 
+# Chapter.11
+def make_joint(pmf1, pmf2):
+    X, Y = np.meshgrid(pmf1, pmf2)
+    return pd.DataFrame(X * Y, columns = pmf1.qs, index=pmf2.qs)
 
+def plot_joint(joint, cmap='Blues'):
+    vmax = joint.to_numpy().max() * 1.1
+    plt.pcolormesh(joint.columns, joint.index, joint, cmap=cmap, vmax=vmax, shading='nearest')
+    plt.colorbar()
+    plt.xlabel('A height')
+    plt.ylabel('B height')
+
+def plot_contour(joint):
+    plt.contour(joint.columns, joint.index, joint, linewidths=1)
+
+def normalize(joint):
+    prob_data = joint.to_numpy().sum()
+    joint /= prob_data
+    return prob_data
