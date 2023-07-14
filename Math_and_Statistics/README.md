@@ -953,4 +953,5 @@
 2. Chapter.9 - 의사결정분석
 3. Chapter.10 - 검정
 4. Chapter.11 - 비교
-5. Chapter.12 - 분류(~ing)
+5. Chapter.12 - 분류
+6. Chapter.13 - 추론(~ing)

@@ -219,3 +219,20 @@ def make_multinorm_map(df, colnames, by='Species'):
         multinorm_map[name] = ss.multivariate_normal(mean, cov)
     return multinorm_map
 
+# Chapter.13
+def make_uniform(qs, name=None, **options):
+    pmf = Pmf(1.0, qs, **options)
+    pmf.normalize()
+    if name:
+        pmf.index.name = name
+    return pmf
+
+def update_norm(prior, data):
+    mu_mesh, sigma_mesh, data_mesh = np.meshgrid(prior.columns, prior.index, data)
+    densities = ss.norm(mu_mesh, sigma_mesh).pdf(data_mesh)
+    likelihood = densities.prod(axis=2)
+
+    posterior = prior * likelihood
+    normalize(posterior)
+
+    return posterior
