@@ -107,3 +107,47 @@ def update_poisson(pmf, data):
 def expo_pdf(t, lam):
     return lam * np.exp(-lam * t)
 
+# Chapter.9
+def kde_from_sample(sample, qs):
+    kde = ss.gaussian_kde(sample)
+    ps = kde(qs)
+    pmf = Pmf(ps, qs)
+    pmf.normalize()
+    return pmf
+
+def compute_prob_win(diff, sample_diff):
+    def prob_overbid(sample_diff):
+        return np.mean(sample_diff > 0)
+    def prob_worse_than(diff, sample_diff):
+        return np.mean(sample_diff < diff)
+    
+    if diff > 0:
+        return 0
+    
+    p1 = prob_overbid(sample_diff)
+    p2 = prob_worse_than(diff, sample_diff)
+
+    return p1 + p2
+
+def total_prob_win(bid, posterior, sample_diff):
+    total = 0
+    for price, prob in posterior.items():
+        diff = bid - price
+        total += prob * compute_prob_win(diff, sample_diff)
+    return total
+
+def compute_gain(bid, price, sample_diff):
+    diff = bid - price
+    prob = compute_prob_win(diff, sample_diff)
+
+    if -250 <= diff <= 0:
+        return 2 * price * prob
+    else:
+        return price * prob
+    
+def expected_gain(bid, posterior, sample_diff):
+    total = 0
+    for price, prob in posterior.items():
+        total += prob * compute_gain(bid, price, sample_diff)
+    return total
+
