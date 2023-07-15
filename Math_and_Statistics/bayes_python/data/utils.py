@@ -308,3 +308,8 @@ def make_joint3(pmf1, pmf2, pmf3):
     return Pmf(joint3.stack())
 
 # Chapter.16
+def transform(pmf, func):
+    ps = pmf.ps
+    qs = func(pmf.qs)
+    return Pmf(ps, qs, copy=True)
+
