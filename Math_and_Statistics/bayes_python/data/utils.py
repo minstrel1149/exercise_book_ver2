@@ -257,3 +257,34 @@ def update_norm_summary(prior, data):
 
     return posterior
 
+# Chapter.14
+def weibull_dist(lam, k):
+    return ss.weibull_min(k, scale=lam)
+
+def update_weibull(prior, data, complete=True):
+    lam_mesh, k_mesh, data_mesh = np.meshgrid(prior.columns, prior.index, data)
+    if complete:
+        densities = weibull_dist(lam_mesh, k_mesh).pdf(data_mesh)
+    else:
+        densities = weibull_dist(lam_mesh, k_mesh).sf(data_mesh)
+    likelihood = densities.prod(axis=2)
+
+    posterior = prior * likelihood
+    normalize(posterior)
+
+    return posterior
+
+def plot_lifelines(obs):
+    for y, row in obs.iterrows():
+        start = row['start']
+        end = row['end']
+        status = row['status']
+        
+        if status == 0:
+            plt.hlines(y, start, end, color='C0')
+        else:
+            plt.hlines(y, start, end, color='C1')
+            plt.plot(end, y, marker='o', color='C1')
+
+    plt.gca().invert_yaxis()
+

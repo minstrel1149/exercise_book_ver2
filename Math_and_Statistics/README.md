@@ -955,3 +955,6 @@
 4. Chapter.11 - 비교
 5. Chapter.12 - 분류
 6. Chapter.13 - 추론
+
+### 2023년 7월 15일
+1. Chapter.14 - 생존 분석(~ing)
