@@ -293,3 +293,18 @@ def joint_weibull_mean(joint):
     means = weibull_dist(lam_mesh, k_mesh).mean()
     prod = means * joint
     return prod.to_numpy().sum()
+
+# Chapter.15
+def compute_probs(p0, p1):
+    q0 = 1 - p0
+    q1 = 1 - p1
+    return [q0*q1, q0*p1, q1*p0, p0*p1]
+
+def make_joint3(pmf1, pmf2, pmf3):
+    joint2 = make_joint(pmf2, pmf1)
+    joint2_pmf = Pmf(joint2.stack())
+    joint3 = make_joint(pmf3, joint2_pmf)
+    joint3.index = pd.MultiIndex.from_tuples(joint3.index)
+    return Pmf(joint3.stack())
+
+# Chapter.16
