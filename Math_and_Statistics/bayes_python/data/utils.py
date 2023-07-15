@@ -288,3 +288,8 @@ def plot_lifelines(obs):
 
     plt.gca().invert_yaxis()
 
+def joint_weibull_mean(joint):
+    lam_mesh, k_mesh = np.meshgrid(joint.columns, joint.index)
+    means = weibull_dist(lam_mesh, k_mesh).mean()
+    prod = means * joint
+    return prod.to_numpy().sum()
