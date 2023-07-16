@@ -313,3 +313,46 @@ def transform(pmf, func):
     qs = func(pmf.qs)
     return Pmf(ps, qs, copy=True)
 
+# Chapter.18
+def make_gamma_dist(alpha, beta):
+    dist = ss.gamma(alpha, scale=1/beta)
+    dist.alpha = alpha
+    dist.beta = beta
+    return dist
+
+def update_gamma(prior, data):
+    k, t = data
+    alpha = prior.alpha + k
+    beta = prior.beta + t
+    return make_gamma_dist(alpha, beta)
+
+def pmf_from_dist(dist, qs):
+    ps = dist.pdf(qs)
+    pmf = Pmf(ps, qs)
+    pmf.normalize()
+    return pmf
+
+def make_beta_dist(alpha, beta):
+    dist = ss.beta(alpha, beta)
+    dist.alpha = alpha
+    dist.beta = beta
+    return dist
+
+def update_beta(prior, data):
+    k, n = data
+    alpha = prior.alpha + k
+    beta = prior.beta + n - k
+    return make_beta_dist(alpha, beta)
+
+def make_dirichlet_dist(alpha_vector):
+    dist = ss.dirichlet(alpha_vector)
+    dist.alpha = alpha_vector
+    return dist
+
+def update_dirichlet(prior, data_vector):
+    alpha_vector = prior.alpha + np.array(data_vector)
+    return make_dirichlet_dist(alpha_vector)
+
+def marginal_beta(alpha, i):
+    total = np.sum(alpha)
+    return make_beta_dist(alpha[i], total - alpha[i])
