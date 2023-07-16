@@ -964,4 +964,4 @@
 
 ### 2023년 7월 16일
 1. Chapter.18 - 켤레사전분포
-2. Chapter.19 - MCMC(Markov Chain Monte Carlo)(~ing)
+2. Chapter.19 - MCMC(Markov Chain Monte Carlo)
