@@ -356,3 +356,11 @@ def update_dirichlet(prior, data_vector):
 def marginal_beta(alpha, i):
     total = np.sum(alpha)
     return make_beta_dist(alpha[i], total - alpha[i])
+
+# Chapter.19
+def plot_cdf(sample, **options):
+    Cdf.from_seq(sample).plot(**options)
+
+def plot_pred(sample, **options):
+    Cdf.from_seq(sample).step(**options)
+

@@ -961,4 +961,7 @@
 2. Chapter.15 - 표식과 재포획
 3. Chapter.16 - 로지스틱 회귀
 4. Chapter.17 - 회귀
-5. Chapter.18 - 켤레사전분포
+
+### 2023년 7월 16일
+1. Chapter.18 - 켤레사전분포
+2. Chapter.19 - MCMC(Markov Chain Monte Carlo)(~ing)
