@@ -364,3 +364,20 @@ def plot_cdf(sample, **options):
 def plot_pred(sample, **options):
     Cdf.from_seq(sample).step(**options)
 
+# Chapter.20
+def calc_volume(diameter):
+    factor = 4 * np.pi / 3
+    return factor * (diameter/2.0)**3
+
+def calc_diameter(volume):
+    factor = 3 / np.pi / 4
+    return 2 * (factor * volume)**(1/3)
+
+def interpolate_ages(sims, diameter):
+    ages = []
+    for sim in sims:
+        interp = interp1d(sim['diameter'], sim['age'])
+        age = interp(diameter)
+        ages.append(float(age))
+    return ages
+
