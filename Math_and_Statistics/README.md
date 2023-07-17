@@ -973,4 +973,5 @@
 1. Section 2-1. - 주성분분석(PCA) 개념
 2. Section 3-1. - 인자분석(Factor Analysis) 개념
 3. Section 4-1. - 군집분석(Cluster Analysis) 개념
-4. Section 5-1. - 다차원척도법(MDS) 개념(~ing)
+4. Section 5-1. - 다차원척도법(MDS) 개념
+5. Section 6-1. - 정준상관분석(Cannonical Correlation Analysis) 개념
