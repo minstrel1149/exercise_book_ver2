@@ -970,4 +970,5 @@
 
 ## R과 Python을 활용한 다변량분석
 ### 2023년 7월 17일
-1. Section 2-1. - 주성분분석 개념
+1. Section 2-1. - 주성분분석(PCA) 개념
+2. Section 3-1. - 인자분석(Factor Analysis) 개념
