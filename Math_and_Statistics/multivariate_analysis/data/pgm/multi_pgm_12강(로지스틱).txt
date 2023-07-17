@@ -1,0 +1,147 @@
+# R 8.1
+drug = read.csv("c:/data/mva/drug.csv")
+head(drug)
+plot(drug$age, drug$purchase, pch=19)
+
+
+# R 8.2
+library(car)
+drug$agr = recode(drug$age, "lo:29=1; 30:34=2; 35:39=3; 40:44=4; 45:49=5; 50:54=6; 55:59=7; 60:hi=8")
+head(drug)
+
+purchase_table = table(drug$agr, drug$purchase)
+purchase_table
+percent_table = prop.table(purchase_table, 1)
+percent_table
+perc_1 = percent_table[,2]
+agr_1 = rownames(percent_table)
+plot(agr_1, perc_1, pch=19)
+
+# R 8.3
+mower = read.csv("c:/data/mva/mower.csv")
+head(mower)
+mower_logit = glm(owner ~ . , family=binomial, data=mower) 
+mower$owner[mower$owner=='yes'] = 1
+mower$owner[mower$owner=='no'] = 0
+mower$owner=as.numeric(mower$owner)
+mower_logit = glm(owner ~ . , family=binomial, data=mower)
+summary(mower_logit)
+names(mower_logit)
+exp(mower_logit$coef)
+1-pchisq(15.323, 21)
+
+# R 8.4
+ 
+mower_predict = predict(mower_logit, newdata=mower, type="response")
+pred = ifelse(mower_predict<0.5, "no", "yes")
+head(pred)
+cm = table(mower$owner, pred)
+cm
+error = 1 - (sum(diag(cm)/sum(cm)))
+error
+
+# R 8.5
+library(MASS)
+data(menarche)
+head(menarche)
+plot(Menarche/Total ~ Age, data=menarche, pch=19)
+
+# R 8.6
+menar_out = glm(cbind(Menarche, Total-Menarche) ~ Age,family=binomial, data=menarche)
+summary(menar_out)
+
+plot(Menarche/Total ~ Age, data=menarche, pch=19)
+lines(menarche$Age, menar_out$fitted, type="l")
+title("Menarche data with fitted logistic regression")
+ 
+# Py 8.1
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+# 데이터 읽기
+mower = pd.read_csv("c:/data/mva/mower.csv")
+mower.head()
+# 변수 선택
+y = mower["owner"]
+X = mower[["income", "size"]]
+# 로지스틱 회귀분석 실행
+from sklearn.linear_model import LogisticRegression
+mower_clf = LogisticRegression()
+mower_clf.fit(X,y)
+# 로지스틱 회귀모형 절편
+mower_clf.intercept_
+# 로지스틱 회귀모형 계수
+mower_clf.coef_
+# 분류 클래스
+mower_clf.classes_
+
+# Py 8.2
+# 두 그룹에 속할 확률
+mower_clf.predict_proba(X) [0:7]
+# 분류 결과
+mower_clf.predict(X)
+
+# 분류표 구하기
+from sklearn.metrics import classification_report, confusion_matrix
+cm = confusion_matrix(y, mower_clf.predict(X))
+cm
+# accuracy 계산하기
+pred_class = mower_clf.predict(X)
+print('Accuracy = '+str(accuracy_score(y, pred_class)))
+
+# 세분화된 분류표
+cm_report = classification_report(y, mower_clf.predict(X))
+print(cm_report)
+
+# R 8.3
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+# 데이터 읽기
+mower = pd.read_csv("c:/data/mva/mower.csv")
+# 변수 선택
+y = mower["owner"]
+aX = mower[["income", "size"]]
+import statsmodels.api as sm
+# 상수 더하기
+aX = sm.add_constant(aX)
+# array 변환
+ay = y.to_numpy()
+iy = [0]*len(ay)
+
+for i in range(0, len(ay)) :
+   if(ay[i] =='yes') :
+       iy[i] = 1
+    else :
+       iy[i] = 0
+
+# 로지스틱 회귀모형 적합하기
+mower_sm = sm.Logit(iy, aX)
+mower_logit = mower_sm.fit()
+mower_logit.params
+
+
+# Py 8.4
+
+# 자료의 분류
+mower_logit.predict(aX)
+mower_pred = (mower_logit.predict(aX) >= 0.5).astype(int)
+mower_pred
+# 분류표
+mower_logit.pred_table()
+# 로지스틱 회귀모형 적합 결과
+mower_logit.summary()
+
+
+
+
+
+
+
+
+
+
+
+
+
+

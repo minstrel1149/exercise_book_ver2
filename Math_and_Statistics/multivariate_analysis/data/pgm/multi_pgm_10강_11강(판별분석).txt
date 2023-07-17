@@ -1,0 +1,218 @@
+# R 7.1
+
+data7 = read.csv("c:/data/mva/data7-1.csv")
+data7_g1 = data7[data7$group=='g1', -1]
+data7_g2 = data7[data7$group=='g2', -1]
+head(data7_g1, 2)
+head(data7_g2, 2)
+g1_mean = sapply(data7_g1, mean)
+g2_mean = sapply(data7_g2, mean)
+g1_mean
+g2_mean
+n1 = nrow(data7_g1)
+n2 = nrow(data7_g2)
+cov_g1 = cov(data7_g1)
+cov_g2 = cov(data7_g2)
+cov_g1
+cov_g2
+cov_g = ((n1-1)*cov_g1 + (n2-1)*cov_g2) / (n1+n2-2)
+cov_g
+
+b = solve(cov_g) %*% (g2_mean - g1_mean)
+b
+
+# R 7.2
+b = solve(cov_g) %*% (g2_mean - g1_mean)
+b
+
+y1_mean = g1_mean %*% b
+y2_mean = g2_mean %*% b
+y1_mean
+y2_mean
+
+yc = (y1_mean + y2_mean)/2
+yc
+
+case1 = data7_g1[1,]
+case1
+case1 = as.matrix(case1)
+y1 = case1 %*% b
+y1
+
+# R 7.3
+library(MASS)
+data7 = read.csv("c:/data/mva/data7-1.csv")
+head(data7, 2)
+
+data7_lda = lda(group ~ ., data=data7)
+data7_lda
+
+pred_lda = predict(data7_lda, newdata=data7)
+names(pred_lda)
+
+pred_lda$class
+head(pred_lda$posterior)
+
+head(pred_lda$x)
+
+# R 7.4
+# 참고 : 분류점수 구하기 R 코드
+prior = data7_lda$prior
+scaling = data7_lda$scaling
+d_means = data7_lda$means
+means <- colSums(prior * d_means)
+x = data7[,-1]
+dscore = scale(x, center=means, scale=FALSE) %*% scaling
+head(dscore, 3)
+
+# R 7.5
+library(klaR)
+ldahist(pred_lda$x, g=data7$group) # fig 7.2
+dev.new()
+plot(pred_lda$x, pch=19) # fig 7.3
+text(pred_lda$x, data7$group, cex=0.7, pos=4)
+abline(h=0, lty=2)
+identify(pred_lda$x)
+
+# R 7.6
+head(x, 3)
+data7_man <- manova(as.matrix(x) ~ pred_lda$class)
+wilks_test = summary(data7_man, test="Wilks")
+wilks_test
+confm_lda = table(data7$group, pred_lda$class)
+confm_lda
+error = 1 - sum(diag(confm_lda))/sum(confm_lda)
+error
+
+# R 7.7
+alcohol = read.csv("c:/data/mva/alcohol.csv")
+head(alcohol)
+summary(alcohol)
+
+# R 7.8
+library(MASS)
+alcohol_lda = lda(TYPE ~ . , data=alcohol)
+alcohol_lda
+
+# R 7.9
+pred_lda = predict(alcohol_lda, newdata=alcohol)
+names(pred_lda)
+head(pred_lda$class)
+head(pred_lda$posterior)
+head(pred_lda$x)
+
+# R 7.10
+indep_vars = alcohol[,-1]
+alcohol_man <- manova(as.matrix(indep_vars) ~ pred_lda$class)
+alcohol_wilks = summary(alcohol_man, test="Wilks")
+alcohol_wilks
+# error rate
+error = 1 - sum(diag(confm_lda)) / sum(confm_lda)
+error
+
+# R 7.11
+library(klaR)
+alcohol_forward = greedy.wilks(TYPE ~ . , data=alcohol, noveau=0.01)
+alcohol_forward
+
+# R 7.12
+alcohol_fwd_lda = lda(alcohol_forward$formula, data=alcohol)
+alcohol_fwd_lda
+
+# R 7.13
+pred_fwd_lda = predict(alcohol_fwd_lda, newdata=alcohol)
+confm_fwd = table(alcohol$TYPE, pred_fwd_lda$class)
+confm_fwd
+
+# R 7.14
+library(dplyr)
+alcohol$TYPE = recode(alcohol$TYPE, typeA="A", typeB="B", typeC="C")
+head(alcohol, 3)
+
+pred_alc = predict(alcohol_fwd_lda, newdata=alcohol)
+head(pred_alc$x)
+
+# 판별함수 산점도
+plot(pred_alc$x[,1], pred_alc$x[,2], pch=19)
+text(pred_alc$x[,1], pred_alc$x[,2], alcohol$TYPE, cex=0.7, pos=4, col="red")
+abline(v=-2, lty=2)
+lines(c(-2,3.7),c(-0.1,-0.1), lty=2)
+
+
+# R 7.15
+library(klaR)
+# 2-d 분류산점도
+nlevels(alcohol$TYPE)
+alcohol$TYPE = as.factor(alcohol$TYPE)
+nlevels(alcohol$TYPE)
+partimat(TYPE ~ BU1 + MEPR + MEOH + ACET + LNPRO1, data=alcohol, method="lda",  nplots.vert=4, nplots.hor=3)
+
+
+# Py 7.1
+import numpy as np
+import pandas as pd
+# 데이터 읽기
+alcohol = pd.read_csv("c:/data/mva/alcohol.csv")
+alcohol.head()
+# 기술통계량 구하기
+alcohol.describe()
+
+# Py 7.2
+# 변수 선택
+X = alcohol.iloc[:, 1:]
+y = alcohol["TYPE"]
+X.head()
+y.head()
+
+# 선형판별분석 실행
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+clf = LinearDiscriminantAnalysis()
+clf.fit(X, y)
+clf.fit_transform(X, y)
+
+# Py 7.3
+# 분류하기
+pred_class = clf.predict(X)
+pred_class[0:5]
+# 사후확률(posterior prob) 구하기
+pred_posterior = clf.predict_proba(X)
+pred_posterior[0:5, :]
+
+# Py 7.4
+# 분류표 구하기
+from sklearn.metrics import confusion_matrix
+confusion_matrix(y, pred_class)
+
+# 오분류율 구하기
+from sklearn.metrics import accuracy_score
+print('Accuracy = '+str(accuracy_score(y, pred_class)))
+print('Error rate = '+str(1-accuracy_score(y, pred_class)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

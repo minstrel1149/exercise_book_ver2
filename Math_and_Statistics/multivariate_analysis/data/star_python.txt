@@ -1,0 +1,44 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+from math import pi
+from matplotlib.path import Path
+from matplotlib.spines import Spine
+from matplotlib.transforms import Affine2D
+
+df  = pd.read_csv("c:/data/mva/social.csv")
+labels = df.columns[1:]
+num_labels = len(labels)
+
+angles = [x/float(num_labels)*(2*pi) for x in range(num_labels)]
+angles += angles[:1] 
+
+my_palette = plt.cm.get_cmap("Set2", len(df.index))
+ 
+fig = plt.figure(figsize=(15,20))
+fig.set_facecolor('white')
+ 
+for i, row in df.iterrows() :
+    color = my_palette(i)
+    data = df.iloc[i].tolist()
+    data += data[:1]
+    
+    ax = plt.subplot(3,2,i+1, polar=True)
+    ax.set_theta_offset(pi / 2) 
+    ax.set_theta_direction(-1)
+    
+    plt.xticks(angles[:-1], labels, fontsize=13) 
+    ax.tick_params(axis='x', which='major', pad=15) 
+ 
+    ax.set_rlabel_position(0) 
+    plt.yticks([0,2,4,6,8,10],['0','2','4','6','8','10'], fontsize=10) 
+    plt.ylim(0,10)
+    
+    ax.plot(angles, data, color=color, linewidth=2, linestyle='solid') 
+    ax.fill(angles, data, color=color, alpha=0.4) 
+    
+    plt.title(row.Character, size=20, color=color,x=-0.2, y=1.2, ha='left') 
+ 
+plt.tight_layout(pad=5)
+plt.show()

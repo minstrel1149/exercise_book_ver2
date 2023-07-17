@@ -1,0 +1,174 @@
+# R 9.1
+titanic = read.csv("c:/data/mva/titanic.csv", header=T)
+head(titanic, 3)
+table(titanic$Survived, titanic$Class)
+table(titanic$Survived, titanic$Age)
+table(titanic$Survived, titanic$Sex)
+
+# R 9.2
+titanic_w = read.csv("c:/data/mva/titanic_count.csv", header=T)
+head(titanic_w)
+titanic = titanic_w[rep(1:nrow(titanic_w), titanic_w$Count),-5]
+head(titanic)
+summary(titanic)
+
+# R 9.3
+# CART tree
+# library(rpart)
+# Default tree
+cart_def = rpart(Survived ~ Class + Age + Sex, data=titanic)
+print(cart_def)
+
+# R 9.4
+# Tree 그리기
+library(rpart.plot)
+prp(cart_def, type=4, extra=2, digits=3)
+
+
+# R 9.5
+# Stopping rule 1
+my.control = rpart.control(maxdepth=1)
+cart_fit1 = rpart(Survived ~ Class + Age + Sex, control=my.control, data=titanic)
+print(cart_fit1)
+
+# R 9.6
+# Stopping rule 2
+my.control = rpart.control(maxdepth=5, minsplit=50)
+cart_fit2 = rpart(Survived ~ Class + Age + Sex, control=my.control, data=titanic)
+prp(cart_fit2, type=4, extra=2, digits=3)
+print(cart_fit2)
+
+# R 9.7
+summary(cart_fit2)
+
+# R 9.8
+library(rpart)
+data(cu.summary)
+head(cu.summary)
+summary(cu.summary)
+
+# R 9.9
+# Default tree
+cu_fit = rpart(Price ~ Country + Reliability + Mileage + Type, data=cu.summary)
+print(cu_fit)
+
+# R 9.10
+# Tree 그리기
+library(rpart.plot)
+prp(cu_fit, type=4, extra=1, digits=4)
+
+# R 9.11
+# Stopping rule
+my.control = rpart.control(maxdepth=3, minsplit=30)
+cu_fit2 = rpart(Price ~ Country + Reliability + Mileage + Type,  control=my.control, data=cu.summary)
+print(cu_fit2)
+
+# R 9.12
+summary(cu_fit2)
+
+
+# Py 9.1
+import numpy as np
+import pandas as pd
+# 데이터 읽기
+titanic = pd.read_csv("c:/data/mva/titanic.csv")
+titanic.head(3)
+
+#기술통계량 구하기
+titanic.describe()
+# 자료 (행의 수, 열의 수)
+titanic.shape
+
+# Py 9.2
+# 빈도표 구하기
+pd.crosstab(titanic['Survived'], titanic['Sex'], margins=True) 
+pd.crosstab(titanic['Survived'], titanic['Class'], margins=True)
+pd.crosstab(titanic['Survived'], titanic['Age'], margins=True)
+
+# Py 9.3
+# 문자형을 이산형으로 변환
+titanic['Age'] = titanic['Age'].replace({'Child':0, 'Adult':1})
+titanic['Sex'] = titanic['Sex'].replace({'Male':0, 'Female':1})
+titanic['Class'] = titanic['Class'].replace({'First':1, 'Second':2,  'Third':3, 'Crew':4})
+titanic.head(2)
+
+# X 데이터와 y 데이터
+X = titanic[["Class","Age","Sex"]]
+y = titanic["Survived"]
+
+# Py 9.4
+# 나무모형 생성
+from sklearn.tree import DecisionTreeClassifier
+titanic_tree = DecisionTreeClassifier(max_depth=3, min_samples_split=50)
+titanic_tree.fit(X, y)
+# 적합된 나무모형을 이용한 분류
+y_pred = titanic_tree.predict(X)
+# Confusion Matrix
+from sklearn.metrics import classification_report, confusion_matrix
+cm = confusion_matrix(y, y_pred)
+print(cm)
+
+# 기타 분류 성능 지표
+cm_report = classification_report(y, y_pred)
+print(cm_report)
+
+
+# Py 9.5
+# Tree 그리기
+from sklearn.tree import plot_tree
+plt.figure(figsize=(11,7))
+plot_tree(titanic_tree, feature_names=X.columns,
+ class_names=['No','Yes'], filled=True, fontsize=9)
+plt.show()
+
+
+# Py 9.6
+import numpy as np
+import pandas as pd
+# 데이터 읽기
+cu = pd.read_csv("c:/data/mva/cusummary.csv", index_col='Model')
+cu.head()
+# 자료 (행의 수, 열의 수)
+cu.shape
+# 결측값 케이스 없애기
+cu = cu.dropna()
+cu.shape
+
+# Py 9.7
+# X 데이터와 y 데이터
+X = cu.drop('Price', axis=1)
+y = cu['Price']
+# 이산변수 혹은 가변수(dummy variable) 만들기
+X['Reliability'] = X['Reliability'].replace({'Much worse':1, 'worse':2,
+ 'average':3, 'better':4, 'Much better':5})
+dX = pd.get_dummies(data=X, drop_first=True)
+dX.head()
+# 변수 이름 보기
+dX.columns
+
+
+# Py 9.8
+# 회귀나무모형 생성
+from sklearn.tree import DecisionTreeRegressor
+cu_tree = DecisionTreeRegressor(max_depth=3, min_samples_split=15)
+cu_tree.fit(dX, y)
+# 추정값 구하기
+y_pred = cu_tree.predict(dX)
+y_pred[0:5]
+
+# Tree 그리기
+from sklearn.tree import plot_tree
+plt.figure(figsize=(11,7))
+plot_tree(cu_tree, feature_names=dX.columns, filled=True, fontsize=9)
+plt.show()
+
+
+
+
+
+
+
+
+
+
+

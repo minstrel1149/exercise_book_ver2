@@ -1,0 +1,152 @@
+# R 5.1
+auto = read.csv("c:/data/mva/auto.csv")
+head(auto)
+
+# R 5.2
+X = auto[,-1]
+autoName = auto[,1]
+# z-standardization
+zX = scale(X, center=TRUE, scale=TRUE)
+# 0-1 transformation
+maxX = apply(X, 2, max)
+minX = apply(X, 2, min)
+z01X = scale(X, center=minX, scale=maxX - minX)
+
+# R 5.3
+z01X_dist = dist(z01X, method='euclidean')
+z01X_dist = as.matrix(z01X_dist)
+colnames(z01X_dist) = autoName
+rownames(z01X_dist) = autoName
+z01X_dist
+
+# R 5.4
+mds1 = cmdscale(z01X_dist, k=2)
+plot(mds1[,1], mds1[,2], type='n', xlab='', ylab='', main='cmdscale(Auto)')
+text(mds1[,1], mds1[,2], rownames(z01X_dist), cex=0.9)
+abline(h=0, v=0, lty=2)
+
+# R 5.5
+library(smacof)
+mds2 = mds(z01X_dist, ndim=2)
+names(mds2)
+plot(mds2$conf[,1], mds2$conf[,2], type='n', xlab='', ylab='', main="smacof(Auto)")
+text(mds2$conf[,1], mds2$conf[,2], rownames(z01X_dist), cex=0.9)
+abline(h=0, v=0, lty=2)
+mds2$stress
+
+# R 5.6
+mds2_1 = mds(z01X_dist, ndim=1)
+mds2_2 = mds(z01X_dist, ndim=2)
+mds2_3 = mds(z01X_dist, ndim=3)
+mds2_4 = mds(z01X_dist, ndim=4)
+stress = c(mds2_1$stress, mds2_2$stress, mds2_3$stress, mds2_4$stress)
+plot(stress, type="l")
+points(stress, cex=0.9)
+
+# R 5.7
+readMatrix <- function(datam, nrows, cname, lower=1)
+{
+   # lower=1 : Lower Triangular Matrix (default)
+   # lower=2 : upper Triangular Matrix
+   n <- nrows
+    if( lower == 1)
+    { DistanceArray <- array(0, n*(n-1)/2 )
+      for(i in 1:(n-1) )
+           for(j in (i+1):n )
+              { kk1 <- (j-1)*(j-2)/2 + i
+                kk2 <- n*(i-1)- i*(i-1)/2 + j-i
+                DistanceArray[kk2] <- datam[kk1] }
+              }
+     else
+         DistanceArray <- datam
+
+  DistanceArray = 10 - DistanceArray
+  MD <- matrix(0, nrow=n, ncol=n)
+ 
+   for(j in 1:(n-1) )
+      for(k in (j+1):n)
+         { kk <- n*(j-1) - j*(j-1)/2 + k-j
+           MD[j,k] <- MD[k,j] <- DistanceArray[kk]
+          } 
+
+   colnames(MD) = cname
+   rownames(MD) = cname
+   return(MD)
+}
+
+# R 5.8
+source("c:/data/mva/nreadMatrix.r")
+datam = scan("c:/data/mva/country1968.txt")
+country_name = scan("c:/data/mva/countryname.txt", what="")
+country_name
+cdata = readMatrix(datam, nrows=12, country_name)
+cdata
+
+# R 5.9
+library(MASS)
+nmds = isoMDS(cdata, k=2)
+names(nmds)
+nmds
+x = nmds$points[,1]
+y = nmds$points[,2]
+plot(x,y, xlab="", ylab="", main="isoMDS", type="n")
+text(x,y, labels=row.names(cdata), cex=0.9)
+abline(h=0, v=0, lty=2)
+
+# Py 5.1
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+# 데이터 읽기
+auto = pd.read_csv("c:/data/mva/auto.csv")
+auto.head()
+
+# Py 5.2
+# 변수 선택
+X = auto.iloc[:, 1:]
+# 각 케이스 이름
+autoName = auto["autoName"]
+autoName = list(autoName)
+# z-표준화
+from sklearn.preprocessing import StandardScaler
+zX = StandardScaler().fit_transform(X)
+# 0-1 변환
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+z01X = scaler.fit_transform(X)
+# 거리행렬 구하기
+from sklearn.metrics import pairwise_distances
+z01X_dist = pairwise_distances(z01X, metric='euclidean')
+z01X_dist.shape
+
+# Py 5.3
+# MDS 실행
+from sklearn.manifold import MDS
+cmds = MDS(n_components=2, random_state=0, dissimilarity='precomputed')
+mds1 = cmds.fit(z01X_dist)
+mds1_coords = cmds.fit_transform(z01X_dist)
+# 그림 그리기
+plt.figure()
+plt.scatter(mds1_coords[:,0], mds1_coords[:,1], facecolors='none', edgecolors='none')
+labels = autoName
+# MDS 각 케이스에 라벨 붙이기
+for label, x, y in zip (labels, mds1_coords[:,0], mds1_coords[:,1]) :
+ plt.annotate(label, (x,y), xycoords='data')
+plt.xlabel('First dimension')
+plt.ylabel('Second dimension')
+plt.title('Metric MDS')
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+

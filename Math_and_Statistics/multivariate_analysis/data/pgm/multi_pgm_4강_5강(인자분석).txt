@@ -1,0 +1,184 @@
+# 3장 인자분석
+
+# R 3.1
+med_data = read.csv("c:/data/mva/medFactor.csv")
+head(med_data)
+summary(med_data)
+
+
+#R 3.2
+
+install.packages("GPArotation")
+library(psych)
+library(GPArotation)
+
+# 인자분석 적정성 검정 (추가)
+
+cortest.bartlett(med_data)
+KMO(med_data)
+
+
+med_factor = principal(med_data, rotate="none")
+names(med_factor)
+
+med_factor$values
+plot(med_factor$values, type="b", pch=19) 
+
+#R 3.3
+med_varimax = principal(med_data, nfactors=3, rotate="varimax",
+scores=T, method="regression")
+med_varimax
+
+#R 3.4
+head(med_varimax$scores)
+
+# R 3.5
+med_oblimin = principal(med_data, nfactors=3, rotate="oblimin",
+scores=T, method="regression")
+med_oblimin
+
+# R 3.6
+head(med_oblimin$scores)
+
+# R 3.7
+biplot(med_varimax)
+
+# R 3.8
+state = state.x77
+summary(state)
+
+# R 3.9
+library(stats)
+state_fact0 = factanal(state, factors=4)
+sosq = function(v) { sum(v^2) }
+loadings = as.matrix(state_fact0$loadings)
+eigen_value = apply(loadings, 2, sosq)
+eigen_value
+
+# R 3.10
+library(stats)
+state_fact = factanal(state, factors=3, rotation="none")
+state_fact1 = factanal(state, factors=3, rotation="varimax")
+state_fact2 = factanal(state, factors=3, rotation="promax")
+names(state_fact)
+
+# R 3.11
+state_fact1 = factanal(state, factors=3, rotation="varimax")
+state_fact1
+
+# R 3.12
+state_fact1_1 = factanal(state[,-1], factors=3, rotation="varimax",
+scores="Bartlett")
+state_fact1_1
+
+# R 3.13
+head(state_fact1_1$scores)
+
+# R 3.14
+# plot (factor1, factor2)
+namev = colnames(state)
+fa = state_fact1_1
+plot(fa$loadings[,1], fa$loadings[,2], xlab="factor1", ylab="factor2", pch=19)
+text(x=fa$loadings[,1], y=fa$loadings[,2], labels=namev, adj=-0.1, cex=0.8)
+abline(h=0, v=0, lty=2)
+# plot (factor1, factor3)
+plot(fa$loadings[,1], fa$loadings[,3], xlab="factor1", ylab="factor3", pch=19)
+text(x=fa$loadings[,1], y=fa$loadings[,3], labels=namev, adj=-0.1, cex=0.8)
+abline(h=0, v=0, lty=2)
+
+# R 3.15
+fem = read.csv("c:/data/mva/grntFem.csv")
+head(fem)
+summary(fem)
+
+# R 3.16
+library(psych)
+uls = fa(fem, 2, rotate="none", fm="minres")
+names(uls)
+
+# R 3.17
+uls$values
+plot(uls$values, type="b", pch=19)
+
+# R 3.18
+uls
+
+# R 3.19
+head(uls$scores)
+biplot(uls, cex=0.7)
+
+# Py 3.1
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+# 데이터 읽기
+med = pd.read_csv("c:/data/mva/medFactor.csv")
+med.head(3)
+
+# 기술통계량 구하기
+med.describe()
+
+# Py 3.2
+
+# 인자분석 적정성 검정 (추가)
+from factor_analyzer.factor_analyzer import calculate_bartlett_sphericity
+chi_square_value,p_value=calculate_bartlett_sphericity(med)
+chi_square_value, p_value
+from factor_analyzer.factor_analyzer import calculate_kmo
+kmo_all,kmo_model=calculate_kmo(med)
+kmo_model
+
+# 초기 인자분석
+from factor_analyzer import FactorAnalyzer
+fa = FactorAnalyzer(rotation=None)
+# help(FactorAnalyzer): 클래스 코드 보기
+fa.fit(med)
+# 고윳값 구하기
+ev, v = fa.get_eigenvalues()
+ev
+
+# 스크리 그림 그리기
+plt.scatter(range(1, med.shape[1]+1), ev)
+plt.title('Scree Plot')
+plt.xlabel('Factors')
+plt.ylabel('Eigenvalues')
+plt.grid()
+plt.show()
+
+# Py 3.3
+# 인자 수를 3으로 한 인자분석 – 인자회전 Varimax
+fa_varimax = FactorAnalyzer(n_factors=3, rotation='varimax', method='principal')
+fa_varimax.fit(med)
+# 인자적재계수
+fa_varimax.loadings_
+
+# 인자 공통성(communality)
+fa_varimax.get_communalities()
+
+# 인자고유분산: 1-공통성
+fa_varimax.get_uniquenesses()
+
+# 인자분산
+fa_varimax.get_factor_variance()
+
+# Py 3.4
+# Oblimin 인자회전
+fa_obm = FactorAnalyzer(n_factors=3, rotation='oblimin', method='principal')
+fa_obm.fit(med)
+# 인자적재계수
+fa_obm.loadings_
+
+# 인자 공통성(communality)
+fa_obm.get_communalities()
+
+# 인자고유분산: 1-공통성
+fa_obm.get_uniquenesses()
+
+# 인자분산
+fa_obm.get_factor_variance()
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+auto = pd.read_csv("c:/data/mva/auto.csv")
+auto.head()
+
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+X = auto.iloc[:, 1:]
+z01X = scaler.fit_transform(X)
+
+autoName = auto["autoName"]
+autoName = list(autoName)
+
+from sklearn.metrics import pairwise_distances
+z01X_dist = pairwise_distances(z01X, metric='euclidean')
+z01X_dist.shape
+
+
+from sklearn.manifold import MDS
+cmds = MDS(n_components=2, random_state=0, dissimilarity='precomputed')
+mds1 = cmds.fit(z01X_dist)
+mds1_coords = cmds.fit_transform(z01X_dist)
+
+plt.figure()
+plt.scatter(mds1_coords[:,0], mds1_coords[:,1], facecolors='none', edgecolors='none')
+labels = autoName
+
+for label, x, y in zip (labels, mds1_coords[:,0], mds1_coords[:,1]) :
+    plt.annotate(label, (x,y), xycoords='data')
+    
+plt.xlabel('First dimension')
+plt.ylabel('Second dimension')
+plt.title('Metric MDS')
+plt.show()
+

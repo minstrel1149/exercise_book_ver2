@@ -1,0 +1,149 @@
+# R 6.1
+sales = read.csv("c:/data/mva/sales.csv")
+head(sales, 3)
+summary(sales[,c(2:8)])
+
+library(psych)
+SD(sales[,c(2:8)])
+
+# R 6.2
+library(ggplot2)
+library(GGally)
+library(CCA)
+exam = sales[,c(2:5)]
+perform = sales[,c(6:8)]
+# scatterplots and corr. of exam
+ggpairs(exam)
+dev.new()
+ggpairs(perform)
+matcor(exam, perform)
+
+
+# R 6.3
+cano_result = cc(exam, perform)
+names(cano_result)
+cano_result$cor
+
+# R 6.4
+round(cano_result$xcoef,3)
+round(cano_result$ycoef,3)
+
+# R 6.5
+round(cano_result$ycoef,3)
+
+# R 6.6
+cano_result$scores
+
+# R 6.7
+ w1 = cano_result$scores$xscores[,1]
+v1 = cano_result$scores$yscores[,1]
+cor(w1, v1)
+plot(w1, v1, pch=19)
+
+# Py 6.1
+import numpy as np
+import pandas as pd
+# 데이터 읽기
+sales = pd.read_csv("c:/data/mva/sales.csv")
+sales.head(3)
+
+# ID를 제외한 변수 기술통계량 구하기
+sales_desc = sales.iloc[:,1:].describe()
+sales_desc
+
+# 표준편차 보기
+sales_desc.loc['std']
+
+# Py 6.2
+# 변수군 리스트
+xlist = ['X1','X2','X3','X4']
+ylist = ['Y1','Y2','Y3']
+# 변수 선택
+exam = sales[xlist]
+perform = sales[ylist]
+# 변수 내역 보기
+exam.head()
+# 변수 내역 보기
+perform.head()
+
+# Py 6.3
+# z-score 표준화 방법1
+# Using StandScaler()
+# from sklearn.preprocessing import StandardScaler
+# scaler = StandardScaler()
+# zexam = scaler.fit_transform(exam)
+# zperform = scaler.fit_transform(perform)
+# z-score 표준화 방법2
+# Direct method using z = (x-mu)/std
+X_mc = (exam - exam.mean())/exam.std()
+Y_mc = (perform - perform.mean())/perform.std()
+# 표준화 값 보기
+X_mc.head()
+# 표준화 값 보기
+Y_mc.head()
+
+# Py 6.4
+# 정준상관분석 실행
+from sklearn.cross_decomposition import CCA
+# CCA(n_components=2, scale=True) 디폴트
+ca = CCA(n_components=3)
+ca.fit(exam, perform)
+X_c, Y_c = ca.transform(exam, perform)
+X_c.shape
+Y_c.shape
+
+# 정준상관점수 데이터프레임 만들기
+cc_res = pd.DataFrame({"CCX_1":X_c[:,0],
+ "CCY_1":Y_c[:,0],
+ "CCX_2":X_c[:,1],
+ "CCY_2":Y_c[:,1],
+ "CCX_3":X_c[:,2],
+ "CCY_3":Y_c[:,2]})
+# 정준상관점수 보기
+cc_res.head()
+
+# 제1 정준상관계수
+np.corrcoef(X_c[:,0],Y_c[:,0])
+# 제2 정준상관계수
+np.corrcoef(X_c[:,1],Y_c[:,1])[0,1]
+# 제3 정준상관계수
+np.corrcoef(X_c[:,2],Y_c[:,2])[0,1]
+
+# Py 6.5
+import matplotlib.pyplot as plt
+import seaborn as sns
+# 제1 정준상관점수 산점도
+sns.scatterplot(x="CCX_1", y="CCY_1", data=cc_res)
+plt.title('corr = %.4f' % np.corrcoef(X_c[:,0], Y_c[:,0])[0,1])
+plt.show()
+
+# Py 6.6
+# 정준상관계수 – X군
+ca.x_weights_
+# 정준상관계수 – Y군
+ca.y_weights_
+
+# 정준상관점수 구하기
+# CCX_1 in <Py 6.4> from zvalue in <Py 6.3> and x_weights_
+# -0.5578*0.356-0.644*0.1468-0.729*0.2457-0.926*0.889
+# Out[75]: -1.2954453
+# CCY_1 in <Py 6.4> from zvalue in <Py 6.3> and y_weights_
+# -0.795*0.7246-1.0149*0.379-1.063*0.575
+# Out[76]: -1.5719291
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

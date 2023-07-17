@@ -1,0 +1,565 @@
+# 1강 
+
+# 'generic import' of math module
+ import math 
+ math.sqrt(25)
+
+ # import a function from math 
+ from math import sqrt
+ sqrt(25) 
+
+ # import multiple functions at once from math 
+ from math import cos, floor
+ import os 
+ os.getcwd()                    # in R, getwd()
+ os.chdir(“c:/pythonpgm”)    # in R, setwd(“c:/rdata”)
+
+ # comments in line 
+
+“””
+  Comments in sentences
+Brian Heinold, A Practical Introduction to Python Programming, 2012.
+Edouard Duchesnay, Tommy Löfstedt. Statistics and Machine Learning in Python, 2018.
+“””
+help(“modules”) 
+
+# Number
+10**3              # 1,000
+10 / 4                 # 2.5
+10 / float(4)     # 2.5
+5 % 4                    # modulo 1 - remainder
+10 // 4                  # floor division 2
+# Boolean operations
+# comparisons (these return True)
+5 > 3
+5 >= 3
+5 != 3
+5 == 5
+# boolean operations (these return True)
+5 > 3 and 6 > 3 5 > 3 or 5 < 3 not False
+
+# determine the type of an object 
+type(2)	             # returns 'int' 
+type(2.0)	             # returns 'float' 
+type('two')	# returns 'str' 
+type(True)	# returns 'bool' 
+type(None)	# returns 'NoneType'
+
+# check if an object is of a given type 
+isinstance(2.0, int)  	# returns False 
+isinstance(2.0, (int, float)) # returns True
+
+# convert an object to a given type 
+float(2) 
+int(2.9) 
+str(2.9)
+# zero, None, and empty containers are converted to False 
+bool(0) 
+bool(None)
+bool('')	# empty string 
+bool([])	# empty list 
+bool({})	# empty dictionary
+
+# determine the type of an object 
+type(2)	             # returns 'int' 
+type(2.0)	             # returns 'float' 
+type('two')	# returns 'str' 
+type(True)	# returns 'bool' 
+type(None)	# returns 'NoneType'
+
+# check if an object is of a given type 
+isinstance(2.0, int)  	# returns False 
+isinstance(2.0, (int, float)) # returns True
+
+# convert an object to a given type 
+float(2) 
+int(2.9) 
+str(2.9)
+# zero, None, and empty containers are converted to False 
+bool(0) 
+bool(None)
+bool('')	# empty string 
+bool([])	# empty list 
+bool({})	# empty dictionary
+
+# empty list 
+ empty = []    
+ # empty = list()
+ empty.append(23)
+ empty.append(45)
+ empty
+
+# list slicing [start:end:stride] 
+weekdays = ['mon','tues','wed','thurs','fri'] 
+weekdays[0]   # element 0 
+weekdays[0:3] # elements 0, 1, 2 
+weekdays[:3]  # elements 0, 1, 2 
+weekdays[3:]  # elements 3, 4 
+weekdays[-1]  # last element (element 4) 
+weekdays[::2]  # every 2nd element (0, 2, 4) 
+weekdays[::-1] # backwards (4, 3, 2, 1, 0)
+
+# sort a list 
+simpsons.sort() 
+simpsons.sort(reverse=True) # sort in reverse 
+simpsons.sort(key=len)       # sort by a key
+
+# conatenate +, replicate * 
+[1, 2, 3] + [4, 5, 6]
+["a"] * 2 + ["b"] * 3
+
+# create a tuple 
+digits = (0, 1, 'two') # create a tuple directly 
+digits = tuple([0, 1, 'two']) # create a tuple from a list 
+
+# examine a tuple 
+digits[2]               # returns 'two' 
+len(digits)            # returns 3 
+digits.count(0)  # counts the number of instances of that value (1) 
+digits.index(1)  # returns the index of the first instance of that value (1)
+
+# create a dictionary (two ways) 
+family = {'dad':'homer', 'mom':'marge', 'size':6} 
+family = dict(dad='homer', mom='marge', size=6)
+
+# examine a dictionary 
+family['dad']  # returns 'homer' 
+len(family)      # returns 3 
+family.keys()   # returns list: ['dad', 'mom', 'size'] 
+family.values() # returns list: ['homer', 'marge', 6] 
+family.items()  # returns list of tuples: 
+                               # [('dad', 'homer'), ('mom', 'marge'), ('size', 6)] 
+'mom' in family # returns True 
+'marge' in family # returns False (only checks keys)
+
+# create a set 
+languages = {'python', 'r', 'java'} # create a set directly 
+snakes = set(['cobra', 'viper', 'python']) # create a set from a list
+
+# examine a set 
+len(languages) # returns 3 
+'python' in languages # returns True
+
+# set operations 1
+languages & snakes # returns intersection: {'python'} 
+languages | snakes  # returns union: {'cobra', 'r', 'java', 'viper', 'python'} 
+languages - snakes  # returns set difference: {'r', 'java'} 
+snakes - languages  # returns set difference: {'cobra', 'viper'}
+
+ # set operations 2
+s1 = {1,2,3,4,5}
+s2 = {2,4,6}
+print(s1.intersection(s2))   # 교집합 {2, 4}
+print(s1.union(s2))               # 합집합
+print(s1.difference(s2))       # 차집합
+
+# range returns a list of integers 
+range(0, 3) # returns [0, 1, 2]: includes first value but excludes second value 
+range(0, 5, 2) # returns [0, 2, 4]: third argument specifies the 'stride'
+
+fruits = ['apple', 'banana', 'cherry']
+for fruit in fruits: 
+    print(fruit.upper()) 
+
+for fruit in fruits: 
+    if fruit == 'banana': 
+         print("Found the banana!") 
+         break  # exit the loop and skip the 'else' block 
+    else:  
+         # this block executes ONLY if the for loop completes without hitting 'break'  
+         print("Can't find the banana")
+
+count = 0 
+while count < 5: 
+    print("This will print 5 times") 
+    count += 1        # equivalent to 'count = count + 1'
+
+# define a function with no arguments and no return values 
+def print_text(): 
+    print('this is text')
+
+# call the function 
+print_text()
+
+# define a function with one argument and no return values 
+def print_this(x): 
+    print(x)
+
+# call the function 
+print_this(3)        # prints 3 
+n = print_this(3) # prints 3, but doesn't assign 3 to n 
+                                   # because the function has no return statement
+# define a function with one argument and one return value 
+def square_this(x): 
+    return x ** 2
+# call the function 
+square_this(3) # prints 9 
+var = square_this(3) # assigns 9 to var, but does not print 9
+
+# default arguments 
+def power_this(x, power=2): 
+    return x ** power
+
+power_this(2) # 4 
+power_this(2, 3) # 8
+
+# return two values from a single function 
+def min_max(nums): 
+    return min(nums), max(nums)
+
+# return values can be assigned to a single variable as a tuple 
+nums = [1, 2, 3] 
+min_max_num = min_max(nums) # min_max_num = (1, 3)
+
+ # operations on list
+
+ a = [5,2,3,1,7]
+ b = [1,5,4,6,8]
+
+# Create a lambda function to add 2 numbers 
+add_fct = lambda x,y:x+y
+
+ add_fct(a,b)
+ Out[12]: [5, 2, 3, 1, 7, 1, 5, 4, 6, 8]
+
+# Add all elements of lists a and b 
+ print(list(map(add_fct, a,b)))
+ [6, 7, 7, 7, 15]
+
+import math
+# Inheritance + Encapsulation 
+class Square(): 
+    def __init__(self, width): 
+    	self.width = width
+
+    def area(self): 
+           return self.width ** 2
+
+class Disk(): 
+    def __init__(self, radius): 
+         self.radius = radius
+
+    def area(self): 
+         return math.pi * self.radius ** 2
+
+shapes = [Square(2), Disk(3)]
+# Polymorphism 
+print([s.area() for s in shapes])
+
+import os
+ import pandas as pd
+ import matplotlib.pyplot as plt
+# Set the current working directory 
+ os.chdir(“c:/data/pydata”)
+ os.getcwd()     # 'c:\\data\\pydata'
+# data = pd_read.csv(‘c:/data/pydata/bmi.csv’)
+ data = pd.read_csv(“bmi.csv”)
+ data.head()
+
+weig = data[‘weight’]
+heig = data[‘height’]
+bmi = weig/(heig/100)**2
+plt.scatter(heig, weig)
+plt.show()
+
+import os
+ import pandas as pd
+ import matplotlib.pyplot as plt
+# Set the current working directory 
+ os.chdir(“c:/data/pydata”)
+ os.getcwd()     # 'c:\\data\\pydata'
+ beer = pd.read_excel(“beer.xlsx, sheet_name=‘Beer’)
+ beer.head()
+ beer['cost']   # beer.cost
+
+import numpy as np
+#Create a 1d numpy array
+data1 = [6, 7.5, 8, 0, 1]
+
+arr1 = np.array(data1)
+print(arr1)
+
+# Create numpy array in a single line
+import numpy as np
+arr1= np.array([6, 7.5, 8, 0, 1])
+#Print the array
+print(arr1)
+
+### 2D array
+
+#Create a 2d numpy array
+import numpy as np
+data2 = [[1, 2, 3, 4], [5, 6, 7, 8]]
+arr2 = np.array(data2)
+# Print the 2d array
+print(arr2)
+
+#1강 R
+survey = read.csv(“c:/data/mva/survey.csv”)
+head(survey,3)
+mean(survey$age)
+sd(survey$age)
+#nlevels(survry$sex)
+survey$sex = factor(survey$sex, levels=c(1:2), labels=c("Male", "Female"))
+survey$marriage = factor(survey$marriage, levels=c(1:3),
+                                       labels=c("Unmarried","Married","Divorced"))
+survey$job = factor(survey$job, levels=c(1:8), 
+                              labels=c('a','b','c','d','e','f','g','other'))
+survey$edu = ordered(survey$edu, levels=c(1:5), 
+                                   labels=c('none','elem','med','high','college')) 
+summary(survey[,-1])
+
+tapply(survey$age, survey$sex, mean)
+with(survey, tapply(age, sex, sd))
+with(survey, tapply(age, marriage, mean))
+with(survey, tapply(age, marriage, sd))
+
+
+sex_ma = list(survey$sex, survey$marriage)
+table(sex_ma)
+with(survey, tapply(age, sex_ma, mean))
+with(survey, tapply(age, sex_ma, sd))
+
+table(survey$sex)
+table(survey$edu)
+table(survey$sex, survey$edu)
+sex_edu = table(survey$sex, survey$edu)
+summary(sex_edu)
+
+# 1강 파이썬
+import numpy as np
+import pandas as pd
+# 데이터 읽기
+survey = pd.read_csv("c:/data/mva/survey.csv")
+survey.head(3)
+
+# 평균 구하기
+survey["age"].mean()
+# 표준편차 구하기
+survey["age"].std()
+
+
+# 범주형 변수로 변환하기
+survey["sex"] = survey["sex"].astype("category")
+survey["job"] = survey["job"].astype("category")
+survey["edu"] = survey["edu"].astype("category")
+survey.marriage = survey.marriage.astype("category")
+
+# 연속인 변수의 기술통계량 구하기
+survey.iloc[:, 1:].describe()
+
+agestat_by_sex = survey.groupby("sex")["age"].describe()
+agestat_by_sex
+agestat_by_sex["mean"]   # 표준편차 : std
+
+# (sex, marriage)를 그룹으로 age의 기술통계량 구하기
+agestat_by_sex_marriage = survey.groupby(["sex","marriage"])["age"].describe()
+agestat_by_sex_marriage
+agestat_by_sex_marriage["mean"]    # 표준편차 : std
+
+sex_freq = pd.crosstab(index=survey.sex, columns='count')
+sex_freq
+# (sex, edu)의 분할표 구하기
+sex_edu_table = pd.crosstab(index=survey.sex, columns=survey.edu)
+sex_edu_table
+# (sex, edu)의 분할표–카이제곱 검정
+from scipy.stats import chi2_contingency
+
+chi2_contingency(sex_edu_table)
+help(chi2_contingency)
+
+# 2강
+
+survey = read.csv(“c:/data/mva/survey.csv”)
+edu_tb = table(survey$edu)
+edu_tb
+rownames(edu_tb) = c("무학","초졸", "중졸","고졸","대졸")
+barplot(edu_tb)
+dev.new()
+pie(edu_tb, main="교육정도 원그림")
+dev.off()
+
+sex_edu = list(survey$sex, survey$edu)
+sex_edu_tb = table(sex_edu)
+sex_edu_tb
+barplot(sex_edu_tb, legend.text=rownames(sex_edu_tb), col=c(2,4))
+title("Stacked Barplot")
+
+par(mfrow=c(1,2))
+pie(sex_edu_tb[1,])
+title("Education of Male")
+pie(sex_edu_tb[2,]) 
+title("Education of Female“)
+
+hist(survey$salary)
+stem(survey$salary)
+stem(survey$salary, scale=2)
+
+boxplot(salary ~ sex, data=survey)
+title("Boxplot of Salary")
+
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+# 데이터 읽기
+survey = pd.read_csv("c:/data/mva/survey.csv")
+# 빈도수 구하기
+edu_freq = pd.crosstab(index=survey.edu, columns='count')
+edu_freq
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+# 데이터 읽기
+survey = pd.read_csv("c:/data/mva/survey.csv")
+# 빈도수 구하기
+edu_freq = pd.crosstab(index=survey.edu, columns='count')
+edu_freq
+
+# 케이스 라벨 지정하기 
+edu_freq.index = ["none", "elementary", "middle", "high", "college"]
+
+
+# (edu, sex) 분할표 구하기
+edu_sex_tb = pd.crosstab(index=survey.edu, columns=survey.sex)
+
+# 케이스 및 변수이름 지정하기
+edu_sex_tb.index = ["none", "elementary", "middle", "high", "college"]
+edu_sex_tb.columns = ["Male", "Female"]
+edu_sex_tb
+
+# 겹친 막대그림 그리기
+edu_sex_tb.plot.bar(stacked=True)
+
+plt.figure()
+plt.subplot(121)
+plt.bar(edu_freq.index, edu_freq["count"])
+plt.subplot(122)
+plt.pie(edu_freq["count"], labels=edu_freq.index) 
+
+import matplotlib.pyplot as plt
+# 히스토그램 그리기
+plt.hist(survey["salary"])
+help(plt.hist)
+
+# 줄기-잎 그림 그리기
+# pip install stemgraphic (in DOS prompt)
+import stemgraphic
+stemgraphic.stem_graphic(survey.salary, scale=50)
+
+import seaborn as sns
+sns.boxplot(x="sex", y="salary", data=survey)
+
+# plot using lines
+plot(co2)
+lines(smooth(co2),col=“BLUE”)
+
+# plot of mathematical functions
+x <- seq(0, 20, 0.1) 
+y <- exp(-x/10)*cos(2*x) 
+plot(x,y,type="l") 
+
+install.packages("HSAUR2")
+library(HSAUR2)
+install.packages("MVA")
+library(MVA)
+data(USairpollution)
+head(USairpollution, 3)
+ x = USairpollution[, c(3,4)]
+bvbox(x, xlab="manu", ylab="popul", pch=19)
+ title("Bivariate Boxplot")
+ identify(x)
+
+
+ plot(wind~temp, data=USairpollution, pch=9)
+# symbols(USairpollution$temp, USairpollution$wind, USairpollution$circle=SO2,
+# inches=0.5, add=T)) 
+with(USairpollution, symbols(temp, wind, circle=SO2, inches=0.5, add=T))
+title("Bubble plot")
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+# 데이터 읽기
+co2 = pd.read_csv("c:/data/mva/co2.csv")
+co2.head(2)
+# 변수이름 지정하기
+co2.columns = ["seq", "x"]
+co2.head(2)
+
+# 선그리기
+plt.plot(co2.seq, co2.x)
+# plot of mathematical functions
+x = np.arange(0, 20, 0.1)
+y = np.exp(-x/10)*np.cos(2*x)
+plt.plot(x, y)
+
+# 데이터 읽기
+USairpollution = pd.read_csv("c:/data/mva/USairpollution.csv")
+USairpollution.head(3)
+
+
+# SO2 변숫값 * 5
+USairpollution["SO2"] = USairpollution["SO2"] * 5
+# 버블차트 그리기
+plt.scatter('temp', 'wind', s='SO2', alpha=0.9, data=USairpollution)
+plt.xlabel("temp", size=16)
+plt.ylabel("wind", size=16)
+plt.title("Bubble plot")
+
+# help(plt.scatter)
+
+
+social = read.table("c:/data/mva/social.txt", header=T)
+head(social, 3)
+
+pairs(social)
+round(cor(social, use="complete.obs"), 3)
+
+social2 = social[, -1]
+year = social[,1]
+rownames(social2) = year
+stars(social2)
+
+install.packages("aplpack")
+library(aplpack) 
+# faces(social2, face.type=0, na.rm=TRUE) 
+faces(social2, face.type=0) 
+
+faces(social2, face.type=1)
+
+import pandas as pd
+# 데이터 읽기
+social = pd.read_csv("c:/data/mva/social.csv")
+
+# (행의 수, 열의 수)
+social.shape
+
+# seaborn을 이용하여 산점도행렬 그리기
+import seaborn as sns
+sns.pairplot(social)
+ 
+# 상관계수 행렬 구하기 – 소수점 이하 3자리 반올림
+round(social.corr(), 3)
+
+import seaborn as sns
+# seaborn에 내장된 iris 데이터 가져오기
+iris = sns.load_dataset("iris")
+iris.head()
+
+# species로 구분된 산점도행렬 그리기 - 대각선은 각 그룹별 분포
+sns.pairplot(iris, hue='species', height=2.5)
+
+
+
+
+
+
+
+
+
+
+
+
