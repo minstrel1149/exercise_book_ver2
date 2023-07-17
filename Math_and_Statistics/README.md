@@ -975,4 +975,4 @@
 3. Section 4-1. - 군집분석(Cluster Analysis) 개념
 4. Section 5-1. - 다차원척도법(MDS) 개념
 5. Section 6-1. - 정준상관분석(Cannonical Correlation Analysis) 개념
-6. Section 7-1. - 판별분석(Discriminant Analysis) 개념(~ing)
+6. Section 7-1. - 판별분석(Discriminant Analysis) 개념
