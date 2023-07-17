@@ -972,4 +972,5 @@
 ### 2023년 7월 17일
 1. Section 2-1. - 주성분분석(PCA) 개념
 2. Section 3-1. - 인자분석(Factor Analysis) 개념
-3. Section 4-1. - 군집분석(Cluster Analysis) 개념(~ing)
+3. Section 4-1. - 군집분석(Cluster Analysis) 개념
+4. Section 5-1. - 다차원척도법(MDS) 개념(~ing)
