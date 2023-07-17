@@ -966,3 +966,8 @@
 1. Chapter.18 - 켤레사전분포
 2. Chapter.19 - MCMC(Markov Chain Monte Carlo)
 3. Chapter.20 - 근사 베이지안 계산
+
+
+## R과 Python을 활용한 다변량분석
+### 2023년 7월 17일
+1. Section 2-1. - 주성분분석 개념
