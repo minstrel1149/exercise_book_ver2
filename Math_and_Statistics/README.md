@@ -983,3 +983,4 @@
 3. Section 1-3. - 다변량 시각화 파이썬 실습
 4. Section 2-1. - 주성분분석(PCA) 개념
 5. Section 2-3. - 주성분분석(PCA) 파이썬 실습
+6. Section 3-1. - 인자분석(Factor Analysis) 개념
