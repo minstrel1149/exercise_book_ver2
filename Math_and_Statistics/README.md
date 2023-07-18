@@ -980,3 +980,4 @@
 ### 2023년 7월 18일
 1. Section 8-1. - 로지스틱 회귀분석(Logistic Regression) 개념
 2. Section 9-1. - 나무모형(Tree Model) 개념
+3. Section 1-3. - 다변량 시각화 파이썬 실습
