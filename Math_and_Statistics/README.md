@@ -984,3 +984,4 @@
 4. Section 2-1. - 주성분분석(PCA) 개념
 5. Section 2-3. - 주성분분석(PCA) 파이썬 실습
 6. Section 3-1. - 인자분석(Factor Analysis) 개념
+7. Section 3-3. - 인자분석(Factor Analysis) 파이썬 실습
