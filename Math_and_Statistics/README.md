@@ -993,3 +993,5 @@
 4. Section 5-3. - 다차원척도법(MDS) 파이썬 실습
 5. Section 6-1. - 정준상관분석(Cannonical Correlation Analysis) 개념
 6. Section 6-3. - 정준상관분석(Cannonical Correlation Analysis) 파이썬 실습
+7. Section 7-1. - 판별분석(Discriminant Analysis) 개념
+8. Section 7-3. - 판별분석(Discriminant Analysis) 파이썬 실습
