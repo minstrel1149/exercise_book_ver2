@@ -988,4 +988,6 @@
 
 ### 2023년 7월 19일
 1. Section 4-1. - 군집분석(Cluster Analysis) 개념
-2. Section 4-1. - 군집분석(Cluster Analysis) 파이썬 실습
+2. Section 4-3. - 군집분석(Cluster Analysis) 파이썬 실습
+3. Section 5-1. - 다차원척도법(MDS) 개념
+4. Section 5-3. - 다차원척도법(MDS) 파이썬 실습
