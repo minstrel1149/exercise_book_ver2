@@ -991,3 +991,5 @@
 2. Section 4-3. - 군집분석(Cluster Analysis) 파이썬 실습
 3. Section 5-1. - 다차원척도법(MDS) 개념
 4. Section 5-3. - 다차원척도법(MDS) 파이썬 실습
+5. Section 6-1. - 정준상관분석(Cannonical Correlation Analysis) 개념
+6. Section 6-3. - 정준상관분석(Cannonical Correlation Analysis) 파이썬 실습
