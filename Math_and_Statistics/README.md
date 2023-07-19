@@ -985,3 +985,6 @@
 5. Section 2-3. - 주성분분석(PCA) 파이썬 실습
 6. Section 3-1. - 인자분석(Factor Analysis) 개념
 7. Section 3-3. - 인자분석(Factor Analysis) 파이썬 실습
+
+### 2023년 7월 19일
+1. Section 4-1. - 군집분석(Cluster Analysis) 개념
