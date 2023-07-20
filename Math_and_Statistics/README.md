@@ -995,3 +995,7 @@
 6. Section 6-3. - 정준상관분석(Cannonical Correlation Analysis) 파이썬 실습
 7. Section 7-1. - 판별분석(Discriminant Analysis) 개념
 8. Section 7-3. - 판별분석(Discriminant Analysis) 파이썬 실습
+
+### 2023년 7월 20일
+1. Section 8-1. - 로지스틱 회귀분석(Logistic Regression) 개념
+2. Section 8-3. - 로지스틱 회귀분석(Logistic Regression) 파이썬 실습
