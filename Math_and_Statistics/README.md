@@ -1007,3 +1007,5 @@
 ### 2023년 7월 20일
 1. Section 7-2. T-Test
 2. Section 7-3. ANOVA
+3. Section 7-4. Chi-square Test
+4. Section 7-5. Linear Regression(~ing)
