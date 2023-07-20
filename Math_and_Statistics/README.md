@@ -1000,3 +1000,4 @@
 1. Section 8-1. - 로지스틱 회귀분석(Logistic Regression) 개념
 2. Section 8-3. - 로지스틱 회귀분석(Logistic Regression) 파이썬 실습
 3. Section 9-1. - 나무모형(Tree Model) 개념
+4. Section 9-1. - 나무모형(Tree Model) 파이썬 실습
