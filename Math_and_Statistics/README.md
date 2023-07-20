@@ -1004,4 +1004,6 @@
 
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
-1. Section 7-2. T-Test(~ing)
+### 2023년 7월 20일
+1. Section 7-2. T-Test
+2. Section 7-3. ANOVA
