@@ -1001,3 +1001,7 @@
 2. Section 8-3. - 로지스틱 회귀분석(Logistic Regression) 파이썬 실습
 3. Section 9-1. - 나무모형(Tree Model) 개념
 4. Section 9-1. - 나무모형(Tree Model) 파이썬 실습
+
+
+## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
+1. Section 7-2. T-Test(~ing)
