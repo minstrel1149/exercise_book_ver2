@@ -1012,3 +1012,4 @@
 
 ### 2023년 7월 21일
 1. Section 7-6. Cluster Analysis
+2. Section 7-7. Association Analysis(~ing)
