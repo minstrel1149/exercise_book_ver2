@@ -1011,4 +1011,4 @@
 4. Section 7-5. Linear Regression
 
 ### 2023년 7월 21일
-1. Section 7-6. Cluster Analysis(~ing)
+1. Section 7-6. Cluster Analysis
