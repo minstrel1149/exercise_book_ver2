@@ -1006,6 +1006,9 @@
 1. Chapter.2 - 주성분분석(PCA) 복습
 2. Chapter.3 - 인자분석(Factor Analysis) 복습
 
+### 2023년 7월 22일
+1. Chapter.4 - 군집분석(Cluster Analysis) 복습
+
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
 ### 2023년 7월 20일
