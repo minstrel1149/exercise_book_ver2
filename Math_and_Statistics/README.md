@@ -1009,6 +1009,8 @@
 ### 2023년 7월 22일
 1. Chapter.4 - 군집분석(Cluster Analysis) 복습
 2. Chapter.5 - 다차원척도법(MDS) 복습
+3. Chapter.6 - 정준상관분석(Cannonical Correlation Analysis) 복습
+4. Chapter.7 - 판별분석(Discriminant Analysis) 복습
 
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
