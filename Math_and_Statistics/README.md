@@ -1012,7 +1012,7 @@
 3. Chapter.6 - 정준상관분석(Cannonical Correlation Analysis) 복습
 4. Chapter.7 - 판별분석(Discriminant Analysis) 복습
 5. Chapter.8 - 로지스틱 회귀분석(Logistic Regression) 복습
-6. Chapter.9 - 나무모형(Tree Model) 복습(~ing)
+6. Chapter.9 - 나무모형(Tree Model) 복습
 
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
