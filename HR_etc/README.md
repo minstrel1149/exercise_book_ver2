@@ -127,4 +127,4 @@
     - Chapter 3. Social Sciences 1
     - Chapter 4. Social Sciences 2
     - Chapter 5. Physical Sciences 1
-    - Chapter 6. Physical Sciences 2(~ing4)
+    - Chapter 6. Physical Sciences 2
