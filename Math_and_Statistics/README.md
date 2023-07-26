@@ -1034,3 +1034,4 @@
 3. Section 1-3. Functions and optimization
 4. Section 2-1. Distributions
 5. Section 2-2. Sampling and Hypothesis testing
+6. Section 2-3. Data Preprocessing
