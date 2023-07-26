@@ -1033,3 +1033,4 @@
 2. Section 1-2. Vector space
 3. Section 1-3. Functions and optimization
 4. Section 2-1. Distributions
+5. Section 2-2. Sampling and Hypothesis testing
