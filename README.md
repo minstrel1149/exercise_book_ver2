@@ -65,3 +65,4 @@
 5. 김기현의 딥러닝 부트캠프 with 파이토치 - Machine_learning
 6. 파이토치로 배우는 자연어 처리 - Machine_learning
     * 추후 파이썬과 딥러닝에 더 익숙해진 후 학습 예정
+7. The Elements of Statistical Learning 2/e 번역본 - Math_and_Statistics
