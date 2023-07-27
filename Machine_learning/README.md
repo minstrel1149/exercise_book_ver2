@@ -534,7 +534,7 @@
 ## The Elements of Statistical Learning 2/e 번역본
 ### 2023년 7월 27일
 1. Chapter.1 - 소개
-2. Chapter.2. - 지도학습(supervised learning)의 개요
+2. Chapter.2 - 지도학습(supervised learning)의 개요
     1. Section 2-1. 소개
     2. Section 2-2. 변수 타입과 용어
     3. Section 2-3. 예측을 위한 단순한 두 접근: 최소제곱과 최근접이웃
@@ -542,3 +542,8 @@
     5. Section 2-5. 고차원에서의 국소적 방법
     6. Section 2-6. 통계적 모델, 지도학습 및 함수 근사
     7. Section 2-7. 구조화된 회귀 모델
+    8. Section 2-8. 제한된 추정량의 종류
+    9. Section 2-9. 모델 선택과 편향-분산 상반관계
+3. Chapter.3 - 회귀를 위한 선형법
+    1. Section 3-1. 소개
+    2. Section 3-2. 선형회귀모델과 최소제곱(~ing)
