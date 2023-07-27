@@ -548,4 +548,4 @@
     1. Section 3-1. 소개
     2. Section 3-2. 선형회귀모델과 최소제곱
     3. Section 3-3. 부분집합 선택
-    4. Section 3-4. 수축법(Ridge, Lasso, etc)(~ing)
+    4. Section 3-4. 수축법(Ridge, Lasso, etc)
