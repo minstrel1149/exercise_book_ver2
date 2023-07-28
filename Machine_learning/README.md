@@ -561,3 +561,4 @@
     3. Section 4-3. 선형판별분석
     4. Section 4-4. 로지스틱회귀
     5. Section 4-5. 분리초평면(Seperating Hyperplanes)
+3. Chapter.1 - 소개 복습(~ing)
