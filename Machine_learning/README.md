@@ -565,4 +565,4 @@
 4. Chapter.2 - 지도학습(supervised learning)의 개요 복습
 
 ### 2023년 7월 29일
-1. Chapter.3 - 회귀를 위한 선형법 복습(~ing2)
+1. Chapter.3 - 회귀를 위한 선형법 복습
