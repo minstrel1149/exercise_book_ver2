@@ -622,3 +622,5 @@
 3. Chapter.9 - 가법 모델, 트리 및 관련 방법들
     1. Section 9.1 - 일반화 가법 모델
     2. Section 9.2 - 트리 기반 방법
+    3. Section 9.3 - PRIM: 범프 헌팅
+    4. Section 9.4 - MARS: 다변량 적응적 회귀 스플라인
