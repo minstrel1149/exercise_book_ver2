@@ -641,3 +641,5 @@
     10. Section 10.10 - 경사 부스팅(Gradient Boosting)을 통한 수치적 최적화
     11. Section 10.11 - 부스팅을 위한 적절한 크기의 트리
     12. Section 10.12 - 정칙화
+    13. Section 10.13 - 해석
+    14. Section 10.14 - 예시 삽화
