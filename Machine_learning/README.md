@@ -643,3 +643,8 @@
     12. Section 10.12 - 정칙화
     13. Section 10.13 - 해석
     14. Section 10.14 - 예시 삽화
+2. Chapter.11 - 신경망
+    1. Section 11.1 - 소개
+    2. Section 11.2 - 사영추적회귀
+    3. Section 11.3 - 신경망
+    4. Section 11.4 - 신경망 적합시키기
