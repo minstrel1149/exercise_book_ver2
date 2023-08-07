@@ -119,7 +119,7 @@
 
 
 ## TOEFL MAP Listening Advance
-### 2023년 7월 초 ~
+### 2023년 7월 초 ~ 8월 초
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. Life Sciences 1
@@ -132,3 +132,8 @@
     - Chapter 8. Arts 2
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test 2
+
+
+## TOEFL MAP Reading Advance
+### 2023년 8월 초 ~ 
+1. Part A. Understanding Listening Question Type(~ing)
