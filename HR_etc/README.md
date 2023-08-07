@@ -136,4 +136,4 @@
 
 ## TOEFL MAP Reading Advance
 ### 2023년 8월 초 ~ 
-1. Part A. Understanding Listening Question Type(~ing)
+1. Part A. Understanding Listening Question Type(~ing2)
