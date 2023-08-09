@@ -8,6 +8,7 @@ Censorship Problem: Censored observations의 발생
     - Censorship Problem Type: Left-Censored, Right-Censored, Interval-Censored
         - Interval-Censored: 관측 기간을 정확히 정의할 수 없는 경우
         - Right-Censored는 Survival Analysis로 처리, 나머지는 데이터에 문제가 있으며 추가 조사할 필요
+
 Survival Function: S(t) = Pr(T > t), 특정 시간보다 더 오래 잔존할 확률
 Survival Function characteristics
     - T ≥ 0 and 0 < t < ∞
@@ -29,3 +30,15 @@ Kaplan-Meier Estimator(Non-Parametic)
     - 전체 연구 기간 동안에 사건이 발생한 시점마다 구간생존율을 산출하여 최종적으로는 누적생존율을 산출
     - P(t) = t시점까지의 생존자 수 / t시점까지의 관찰 대상 수
     - S(t) = S(t-1) * P(t)
+
+Log Rank Test: Survival Function 분포를 비교하고 유의한 차이가 있는지 알아보는 가설 검정 기법
+
+Cox proportional hazard model: Hazard Function을 기저위험(underlying baseline hazard)와 매개변수로 나누어 표현하는 기법
+    - Basic Cox PH 모델은 매개변수가 시간과 무관하게 생존에 영향을 준다고 가정(Hazard assumption)
+    - 생존에 영향을 미치는 여러 risk factor, 즉 위험요소에 대한 분석
+    - 가정
+        - 샘플간에 생존 시간은 독립적이다
+        - 예측 변수와 hazard 사이에 곱셈 관계
+        - 시간이 지남에 따라 일정한 위험 비율
+    - 위험(Hazard)은 생존 곡선의 기울기로 정의
+    - 위험 비율은 두 그룹을 비교. 위험비가 2.0이면 한 그룹의 사망률은 다른 그룹의 사망률의 두 배
