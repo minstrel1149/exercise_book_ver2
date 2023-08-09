@@ -138,4 +138,4 @@
 ### 2023년 8월 초 ~ 
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
-    - Chapter 1. History(~ing2)
+    - Chapter 1. History(~ing3)
