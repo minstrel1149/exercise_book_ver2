@@ -739,3 +739,5 @@
     1. Section 3-2. 선형회귀모델과 최소제곱
     2. Section 3-3. 부분집합 선택
     3. Section 3-4. 수축법(Ridge, Lasso, etc)
+    4. Section 3-5. 유도된 입력 방향을 사용하는 방법들
+    5. Section 3-6. 논의: 선택법과 수축법 비교
