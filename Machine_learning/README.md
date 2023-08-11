@@ -741,3 +741,4 @@
     3. Section 3-4. 수축법(Ridge, Lasso, etc)
     4. Section 3-5. 유도된 입력 방향을 사용하는 방법들
     5. Section 3-6. 논의: 선택법과 수축법 비교
+    6. Section 3-8. 라쏘 및 관련된 경로 알고리즘에 관한 내용
