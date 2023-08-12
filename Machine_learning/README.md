@@ -748,3 +748,8 @@
     3. Section 4-3. 선형판별분석
     4. Section 4-4. 로지스틱회귀
     5. Section 4-5. 분리초평면(Seperating Hyperplanes)
+
+### 2023년 8월 12일
+1. Chapter.5 - 기저전개와 정칙화
+    1. Section 5.1 - 소개
+    2. Section 5.2 - 조각별 다항식과 스플라인(~ing)
