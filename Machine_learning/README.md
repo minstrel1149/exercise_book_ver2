@@ -770,4 +770,4 @@
     6. Section 6.6 - 커널 밀도 추정 및 분류
     7. Section 6.7 - 방사기저함수와 커널
     8. Section 6.8 - 밀도 추정과 분류를 위한 혼합 모델
-2. Chapter.2 - 지도학습(supervised learning)의 개요 복습(~ing)
+2. Chapter.2 - 지도학습(supervised learning)의 개요 복습
