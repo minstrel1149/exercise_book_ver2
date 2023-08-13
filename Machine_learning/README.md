@@ -771,3 +771,4 @@
     7. Section 6.7 - 방사기저함수와 커널
     8. Section 6.8 - 밀도 추정과 분류를 위한 혼합 모델
 2. Chapter.2 - 지도학습(supervised learning)의 개요 복습
+3. Chapter.3 - 회귀를 위한 선형법 복습(~ing)
