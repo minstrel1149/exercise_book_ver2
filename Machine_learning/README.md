@@ -789,3 +789,5 @@
     6. Section 7.6 - 매개변수의 유효 개수
     7. Section 7.7 - 베이즈 접근법과 BIC
     8. Section 7.8 - 최소 설명 길이
+    9. Section 7.10 - 교차 검증
+    10. Section 7.11 - 부트스트랩법
