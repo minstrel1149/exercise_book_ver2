@@ -798,3 +798,5 @@
     4. Section 8.5 - EM 알고리즘
     5. Section 8.6 - 사후분포로부터 표본 추출을 위한 MCMC
     6. Section 8.7 - 배깅
+3. Chapter.9 - 가법 모델, 트리 및 관련 방법들
+    1. Section 9.1 - 일반화 가법 모델
