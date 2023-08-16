@@ -806,3 +806,5 @@
 1. Chapter.9 - 가법 모델, 트리 및 관련 방법들
     1. Section 9.3 - PRIM: 범프 헌팅
     2. Section 9.4 - MARS: 다변량 적응적 회귀 스플라인
+    3. Section 9.5 - 전문가 계층 혼합
+    4. Section 9.6 - 결측 데이터
