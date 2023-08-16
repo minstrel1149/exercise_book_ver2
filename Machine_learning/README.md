@@ -818,3 +818,6 @@
     7. Section 10.7 - 데이터마이닝을 위한 기성품 같은 과정
     8. Section 10.8 - 예제: 스팸 데이터
     9. Section 10.9 - 부스팅 트리
+    10. Section 10.10 - 경사 부스팅(Gradient Boosting)을 통한 수치적 최적화
+    11. Section 10.11 - 부스팅을 위한 적절한 크기의 트리
+    12. Section 10.12 - 정칙화
