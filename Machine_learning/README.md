@@ -862,3 +862,4 @@
     1. Section 14.1 - 개요
     2. Section 14.2 - 연관성 규칙
     3. Section 14.3 - 군집분석
+    4. Section 14.4 - 자기 조직화 맵
