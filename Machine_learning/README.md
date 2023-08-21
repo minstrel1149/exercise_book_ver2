@@ -881,3 +881,6 @@
 1. Chapter.16 - 앙상블 학습
     1. Section 16.1 - 소개
     2. Section 16.2 - 부스팅과 정칙화 경로
+    3. Section 16.3 - 학습 앙상블
+2. Chapter.18 - 고차원 문제: p>>N
+    1. Section 18.1 - p가 N보다 훨씬 클 때
