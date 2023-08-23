@@ -887,6 +887,8 @@
 2. Section 1-2. 확률변수, 기대치, 분산
 3. Section 1-3. 추정
 4. Section 1-4. 기본 분포이론
+5. Section 1-5. 가설검정의 기본개념
+6. Section 2-1. 단순회귀모형의 고전적 가정과 추정
 
 
 ## 파이썬을 활용한 베이지안 통계(Think Bayes II)
