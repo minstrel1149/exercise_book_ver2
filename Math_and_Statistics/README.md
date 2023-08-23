@@ -886,7 +886,7 @@
 1. Section 1-1. 통계학의 개념과 용어 정리
 2. Section 1-2. 확률변수, 기대치, 분산
 3. Section 1-3. 추정
-4. Section 1-4. 기본 분포이론(~ing)
+4. Section 1-4. 기본 분포이론
 
 
 ## 파이썬을 활용한 베이지안 통계(Think Bayes II)
