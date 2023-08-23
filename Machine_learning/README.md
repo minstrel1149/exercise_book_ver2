@@ -899,4 +899,4 @@
 4. Chapter.18 - 고차원 문제: p>>N 복습
 
 ### 2023년 8월 23일
-1. 기타: Survival Analysis(생존 분석)(~ing1)
+1. 기타: Survival Analysis(생존 분석)
