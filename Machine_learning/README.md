@@ -897,3 +897,6 @@
 2. Chapter.15 - 랜덤 포레스트 복습
 3. Chapter.16 - 앙상블 학습 복습
 4. Chapter.18 - 고차원 문제: p>>N 복습
+
+### 2023년 8월 23일
+1. 기타: Survival Analysis(생존 분석)(~ing1)
