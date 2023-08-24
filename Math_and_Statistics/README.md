@@ -1033,6 +1033,9 @@
 5. Chapter.8 - 로지스틱 회귀분석(Logistic Regression) 복습
 6. Chapter.9 - 나무모형(Tree Model) 복습
 
+### 2023년 8월 24일
+1. Section 2-1. - 주성분분석(PCA) 개념
+
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
 ### 2023년 7월 20일
