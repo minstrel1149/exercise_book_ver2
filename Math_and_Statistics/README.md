@@ -898,6 +898,8 @@
 1. Section 3-3. 다중회귀모형에서의 추정과 분포
 2. Section 3-4. 다중회귀모형에서의 가설검정
 3. Section 3-5. 다중회귀모형과 여러가지 변수
+4. Section 4-1. 이분산 모형(Heteroscedasticity)
+5. Section 4-2. 자기상관 모형(Auto-correlation)
 
 
 ## 파이썬을 활용한 베이지안 통계(Think Bayes II)
