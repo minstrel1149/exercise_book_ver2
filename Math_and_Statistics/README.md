@@ -1040,6 +1040,10 @@
 4. Section 5-1. - 다차원척도법(MDS) 개념
 5. Section 6-1. - 정준상관분석(Cannonical Correlation Analysis) 개념
 
+### 2023년 8월 25일
+1. Section 7-1. - 판별분석(Discriminant Analysis) 개념
+2. Section 8-1. - 로지스틱 회귀분석(Logistic Regression) 개념
+
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
 ### 2023년 7월 20일
