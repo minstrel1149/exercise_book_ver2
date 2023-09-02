@@ -905,7 +905,7 @@
 1. Chapter.4 - 표본분포 복습
 2. Chapter.5 - 표본분포의 근사 복습
 3. Chapter.6 - 추정 복습
-4. Chapter.7 - 검정 복습(~ing)
+4. Chapter.7 - 검정 복습
 
 
 ## 김창진 계량경제학 I
