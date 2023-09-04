@@ -1147,3 +1147,9 @@
 4. Section 2-1. Distributions
 5. Section 2-2. Sampling and Hypothesis testing
 6. Section 2-3. Data Preprocessing
+
+
+## 베이즈 데이터 분석
+### 2023년 9월 4일
+1. Section 1-2. 확률과 확률분포
+2. Section 1-3. 통계적 개념들
