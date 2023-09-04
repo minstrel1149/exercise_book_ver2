@@ -54,6 +54,7 @@
 7. 김창진 계량경제학 I - Math_and_Statistics
 8. 파이썬을 활용한 베이지안 통계 - Math_and_Statistics
 9. R과 Python을 활용한 다변량분석 - Math_and_Statistics
+10. 베이즈 데이터 분석 - Math_and_Statistics
 
 
 ## Machine_learning
