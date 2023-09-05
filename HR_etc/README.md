@@ -145,4 +145,4 @@
     - Chapter 5. Economics
     - Chapter 6. Life Sciences
     - Chapter 7. Physical Sciences
-    - Chapter 8. Environmental Sciences(~ing4)
+    - Chapter 8. Environmental Sciences
