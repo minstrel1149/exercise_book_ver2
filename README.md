@@ -20,6 +20,8 @@
 7. TOEFL MAP Listening Intermediate - HR_etc
 8. Cambridge IELTS 10 - HR_etc
 9. Cambridge IELTS 11 - HR_etc
+10. TOEFL MAP Listening Advance - HR_etc
+11. TOEFL MAP Reading Advance - HR_etc
 
 
 ## Programming
