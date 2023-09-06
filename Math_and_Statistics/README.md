@@ -1188,4 +1188,5 @@
 2. Section 9-3. 메트로폴리스-헤이스팅스 알고리즘
 3. Section 9-4. 해밀턴 몬테 카를로
 4. Section 9-6. 마르코프 체인의 수렴 진단
-5. Section 9-7. EM 알고리즘(~ing)
+5. Section 10-1. EM 알고리즘
+6. Section 10-2. 변분 방법(~ing)
