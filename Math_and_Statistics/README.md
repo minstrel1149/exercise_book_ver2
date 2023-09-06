@@ -1190,3 +1190,6 @@
 4. Section 9-6. 마르코프 체인의 수렴 진단
 5. Section 10-1. EM 알고리즘
 6. Section 10-2. 변분 방법
+7. Section 11-1. 모형 확률을 이용한 모형 선택과 추론
+8. Section 11-2. 예측값을 이용한 모형 진단
+9. Section 11-3. DIC(Deviance information criterion)
