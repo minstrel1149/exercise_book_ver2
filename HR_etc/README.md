@@ -147,4 +147,4 @@
     - Chapter 7. Physical Sciences
     - Chapter 8. Environmental Sciences
 3. Part C. Experiencing Actual Tests
-    - Test1(~ing)
+    - Test 1
