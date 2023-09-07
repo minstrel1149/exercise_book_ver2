@@ -1193,3 +1193,7 @@
 7. Section 11-1. 모형 확률을 이용한 모형 선택과 추론
 8. Section 11-2. 예측값을 이용한 모형 진단
 9. Section 11-3. DIC(Deviance information criterion)
+
+### 2023년 9월 7일
+1. Section 12-1. 정규선형회귀모형
+2. Section 12-2. 모형 선택
