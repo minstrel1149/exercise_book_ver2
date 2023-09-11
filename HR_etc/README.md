@@ -135,7 +135,7 @@
 
 
 ## TOEFL MAP Reading Advance
-### 2023년 8월 초 ~ 
+### 2023년 8월 초 ~ 9월 초
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
@@ -148,3 +148,8 @@
     - Chapter 8. Environmental Sciences
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test 2
+
+
+## Cambridge IELTS LISTENING(12, 13)
+1. IELTS 12 : Listening Part
+    - Test.1(~ing)
