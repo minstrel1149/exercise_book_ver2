@@ -1263,3 +1263,5 @@
 10. Section 11-3. DIC(Deviance information criterion)
 11. Section 12-1. 정규선형회귀모형
 12. Section 12-2. 모형 선택
+13. Section 12-3. 무정보사전분포와 사후분포
+14. Section 12-5. 이항회귀모형
