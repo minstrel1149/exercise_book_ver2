@@ -162,3 +162,5 @@
 1. Section 1-1. 데이터베이스의 역사
 2. Section 1-2. 관계형 데이터베이스 용어
 3. Section 1-3. 기본키와 외래키
+4. Section 1-4. 뷰
+5. Section 1-5. SQL 언어
