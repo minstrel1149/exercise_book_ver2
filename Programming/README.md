@@ -164,3 +164,5 @@
 3. Section 1-3. 기본키와 외래키
 4. Section 1-4. 뷰
 5. Section 1-5. SQL 언어
+6. Section 2-1. 추상화와 모델링
+7. Section 2-2. 데이터베이스 설계의 개념
