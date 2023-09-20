@@ -172,3 +172,7 @@
 1. Section 3-1. 데이터모델링 개요
 2. Section 3-2. 엔티티(Entity)
 3. Section 3-3. 속성(Attribution)
+4. Section 3-4. 관계(Relationship)
+5. Section 3-5. 주식별자와 외래식별자
+6. Section 4-1. 모델링 도구 개요
+7. Section 4-2. 모델링 도구 따라하기
