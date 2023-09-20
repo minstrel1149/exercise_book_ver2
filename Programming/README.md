@@ -175,4 +175,6 @@
 4. Section 3-4. 관계(Relationship)
 5. Section 3-5. 주식별자와 외래식별자
 6. Section 4-1. 모델링 도구 개요
-7. Section 4-2. 모델링 도구 따라하기
+7. Section 4-2. 모델링 도구 따라하기 外
+8. Section 5-1. 업무 분석 개요
+9. Section 5-2. 문서 및 자료 수집
