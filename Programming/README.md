@@ -167,3 +167,8 @@
 6. Section 2-1. 추상화와 모델링
 7. Section 2-2. 데이터베이스 설계의 개념
 8. Section 2-3. 정보시스템의 구축과 데이터베이스 설계
+
+### 2023년 9월 20일
+1. Section 3-1. 데이터모델링 개요
+2. Section 3-2. 엔티티(Entity)
+3. Section 3-3. 속성(Attribution)
