@@ -190,3 +190,5 @@
 1. Section 8-1. 정규화 개요
 2. Section 8-2. 정규화 과정, 정규화에서의 엔티티 분리
 3. Section 8-4. 정규화가 필요 없는 설계 기법
+4. Section 9-1. 도메인의 정의
+5. Section 9-2. 용어사전(Data Dictionary)의 정의
