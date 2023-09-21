@@ -192,3 +192,4 @@
 3. Section 8-4. 정규화가 필요 없는 설계 기법
 4. Section 9-1. 도메인의 정의
 5. Section 9-2. 용어사전(Data Dictionary)의 정의
+6. Section 9-3. 모델링 도구를 이용한 도메인의 작성
