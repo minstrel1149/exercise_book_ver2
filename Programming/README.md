@@ -193,3 +193,8 @@
 4. Section 9-1. 도메인의 정의
 5. Section 9-2. 용어사전(Data Dictionary)의 정의
 6. Section 9-3. 모델링 도구를 이용한 도메인의 작성
+
+### 2023년 9월 22일
+1. Section 10-1. 모델의 검토 개요
+2. Section 10-2. 엔티티의 검토
+3. Section 10-3. 속성의 검토
