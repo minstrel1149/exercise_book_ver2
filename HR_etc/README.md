@@ -96,7 +96,7 @@
 ### 2023년 9월 말 ~
 1. Part A(듣기 위주) 복습
 2. Part B(듣기 위주) 복습
-    - Chapter.1(~ing)
+    - Chapter.1, 2, 3, 4, 5, 6, 7, 8
 
 
 ## TOEFL MAP Listening Intermediate
@@ -160,4 +160,12 @@
 1. IELTS 12 : Listening Part
     - Test.5 / Test.6 / Test.7 / Test.8
 2. IELTS 13 : Listening Part
+    - Test.1 / Test.2 / Test.3 / Test.4
+
+
+## Cambridge IELTS READING(10, 11)
+### 2023년 9월 말 ~ 10월 초
+1. IELTS 10 : Reading Part
+    - Test.1 / Test.2 / Test.3 / Test.4
+2. IELTS 11 : Reading Part
     - Test.1 / Test.2 / Test.3 / Test.4
