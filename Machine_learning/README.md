@@ -912,3 +912,7 @@
 1. Chapter.2 - 지도학습(supervised learning)의 개요
     1. Section 2-4. 통계적 결정 이론
     2. Section 2-5. 고차원에서의 국소적 방법
+    3. Section 2-6. 통계적 모델, 지도학습 및 함수 근사
+    4. Section 2-7. 구조화된 회귀 모델
+    5. Section 2-8. 제한된 추정량의 종류
+    6. Section 2-9. 모델 선택과 편향-분산 상반관계
