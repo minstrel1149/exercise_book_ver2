@@ -907,3 +907,8 @@
     1. Section 2-1. 소개
     2. Section 2-2. 변수 타입과 용어
     3. Section 2-3. 예측을 위한 단순한 두 접근: 최소제곱과 최근접이웃
+
+### 2023년 10월 1일
+1. Chapter.2 - 지도학습(supervised learning)의 개요
+    1. Section 2-4. 통계적 결정 이론
+    2. Section 2-5. 고차원에서의 국소적 방법
