@@ -921,3 +921,9 @@
     2. Section 3-2. 선형회귀모델과 최소제곱
     3. Section 3-3. 부분집합 선택
     4. Section 3-4. 수축법(Ridge, Lasso, etc) (~ing)
+
+### 2023년 10월 2일
+1. Chapter.3 - 회귀를 위한 선형법
+    1. Section 3-4. 수축법(Ridge, Lasso, etc)
+    2. Section 3-5. 유도된 입력 방향을 사용하는 방법들
+    3. Section 3-6. 논의: 선택법과 수축법 비교
