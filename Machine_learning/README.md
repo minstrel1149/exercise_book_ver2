@@ -973,3 +973,6 @@
     3. Section 8.3 - 베이즈 방법
     4. Section 8.5 - EM 알고리즘
     5. Section 8.6 - 사후분포로부터 표본 추출을 위한 MCMC
+    6. Section 8.7 - 배깅
+    7. Section 8.8 - 모델 평균화와 스태킹
+    8. Section 8.9 - 확률적 검색: 범핑
