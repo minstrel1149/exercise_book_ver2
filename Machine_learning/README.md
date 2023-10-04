@@ -971,3 +971,5 @@
     1. Section 8.1 - 소개
     2. Section 8.2 - 부트스트랩과 최대가능도 방법
     3. Section 8.3 - 베이즈 방법
+    4. Section 8.5 - EM 알고리즘
+    5. Section 8.6 - 사후분포로부터 표본 추출을 위한 MCMC
