@@ -1023,3 +1023,7 @@
     1. Section 13.1 - 소개
     2. Section 13.2 - 프로토타입법
     3. Section 13.3 - K-최근접이웃 분류기
+    4. Section 13.4 - 적응적 최근접이웃법
+2. Chpater.14 - 비지도학습
+    1. Section 14.1 - 개요
+    2. Section 14.2 - 연관성 규칙(~ing)
