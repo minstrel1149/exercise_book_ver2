@@ -1026,4 +1026,4 @@
     4. Section 13.4 - 적응적 최근접이웃법
 2. Chpater.14 - 비지도학습
     1. Section 14.1 - 개요
-    2. Section 14.2 - 연관성 규칙(~ing)
+    2. Section 14.2 - 연관성 규칙
