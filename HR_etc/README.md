@@ -120,6 +120,8 @@
 1. Part A(듣기 위주) 복습
 2. Part B(듣기 위주) 복습
     - Chapter.1, 2, 3, 4, 5, 6, 7, 8
+3. Part C(듣기 위주) 복습
+    - Test.1 / Test.2
 
 
 ## Cambridge IELTS LISTENING(10, 11)
