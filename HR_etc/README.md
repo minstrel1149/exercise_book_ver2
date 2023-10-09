@@ -116,7 +116,7 @@
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test 2 / Test 3
 
-### 2023년 10월 초 ~ 
+### 2023년 10월 초 ~ 10월 초
 1. Part A(듣기 위주) 복습
 2. Part B(듣기 위주) 복습
     - Chapter.1, 2, 3, 4, 5, 6, 7, 8
@@ -146,6 +146,9 @@
     - Chapter 8. Arts 2
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test 2
+
+### 2023년 10월 중 ~ 
+1. Part A(듣기 위주) 복습
 
 
 ## TOEFL MAP Reading Advance
