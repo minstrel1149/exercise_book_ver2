@@ -1293,4 +1293,6 @@
 1. Section 1-2. 확률과 확률분포
 2. Section 1-3. 통계적 개념들
 3. Section 2-1. 베이즈 추론의 구조
-4. Section 2-2. 베이즈 추정(~ing)
+4. Section 2-2. 베이즈 추정
+5. Section 2-3. 가능도 원칙
+6. Section 3-1. 사전확률, 사후확률, 베이즈 인자
