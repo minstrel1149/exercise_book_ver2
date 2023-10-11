@@ -1331,3 +1331,6 @@
 8. Section 11-1. 모형 확률을 이용한 모형 선택과 추론
 9. Section 11-2. 예측값을 이용한 모형 진단
 10. Section 11-3. DIC(Deviance information criterion)
+11. Section 12-1. 정규선형회귀모형
+12. Section 12-2. 모형 선택
+13. Section 12-3. 무정보사전분포와 사후분포
