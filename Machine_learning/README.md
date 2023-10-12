@@ -1056,3 +1056,6 @@
     5. Section 18.5 - 특성을 쓸 수 없을 때의 분류
     6. Section 18.6 - 고차원 회귀: 지도 주성분
     7. Section 18.7 - 특성 평가와 다중검정 문제
+
+### 2023년 10월 12일
+1. Chapter.2 - 지도학습(supervised learning)의 개요 복습(~ing)
