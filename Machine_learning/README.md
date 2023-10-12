@@ -1061,3 +1061,4 @@
 1. Chapter.2 - 지도학습(supervised learning)의 개요 복습
 2. Chapter.3 - 회귀를 위한 선형법 복습
 3. Chapter.4 - 분류를 위한 선형법 복습
+4. Chapter.5 - 기저전개와 정칙화 복습(~ing)
