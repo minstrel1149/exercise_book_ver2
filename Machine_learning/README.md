@@ -1058,4 +1058,4 @@
     7. Section 18.7 - 특성 평가와 다중검정 문제
 
 ### 2023년 10월 12일
-1. Chapter.2 - 지도학습(supervised learning)의 개요 복습(~ing)
+1. Chapter.2 - 지도학습(supervised learning)의 개요 복습
