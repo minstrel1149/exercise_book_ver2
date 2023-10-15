@@ -5,7 +5,7 @@
 
 
 ## HR_etc
-### 2022년 7월 이전까지만 진행 - Github에 일정 미기재
+### 2022년 7월 이전까지 진행 - Github에 일정 미기재
 1. 핵심정리 공인노무사 민법 - HR_etc
 2. 2022 코어노동법 조문노트 - HR_etc
 3. 확 바뀐 경영지도사 기업진단론 - HR_etc
@@ -26,7 +26,7 @@
 
 
 ## Programming
-### 2022년 7월 이전까지만 진행 - Github에 일정 미기재
+### 2022년 7월 이전까지 진행 - Github에 일정 미기재
 1. 바로 쓰는 파이썬 기초편 - Programming
 2. 엑셀과 비교하여 배우는 파이썬 데이터 분석 - Programming
 3. 그림으로 배우는 SQL 입문 - Programming
@@ -38,11 +38,12 @@
 ### 2022년 7월 이후에도 진행 - 각 폴더 README에 일정 기록
 1. 혼자 공부하는 얄팍한 코딩 지식 - Programming
 2. 혼자 공부하는 SQL - Programming
-3. 파이썬으로 배우는 자료 구조 핵심 원리 - Programming
+3. 그림으로 배우는 SQL 입문 - Programming
+4. 파이썬으로 배우는 자료 구조 핵심 원리 - Programming
 
 
 ## Math_and_Statistics
-### 2022년 7월 이전까지만 진행 - Github에 일정 미기재
+### 2022년 7월 이전까지 진행 - Github에 일정 미기재
 1. 류근관 통계학 - Math_Statistics
 2. 확 바뀐 경영지도사 조사방법론 - Math_Statistics
 
