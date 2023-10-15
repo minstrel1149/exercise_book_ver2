@@ -23,6 +23,7 @@
 10. TOEFL MAP Listening Advance - HR_etc
 11. TOEFL MAP Reading Advance - HR_etc
 12. Cambridge IELTS 12 - HR_etc
+13. Cambridge IELTS 13 - HR_etc
 
 
 ## Programming
@@ -40,6 +41,7 @@
 2. 혼자 공부하는 SQL - Programming
 3. 그림으로 배우는 SQL 입문 - Programming
 4. 파이썬으로 배우는 자료 구조 핵심 원리 - Programming
+5. 데이터베이스 설계 및 구축 - Programming
 
 
 ## Math_and_Statistics
@@ -51,14 +53,12 @@
 1. 통계학: 파이썬을 이용한 분석(제2판) - Math_and_Statistics
 2. 기초 선형대수학 2판 - Math_and_Statistics
 3. 미분적분학 에센스 - Math_and_Statistics
-4. 최적화 이론 - Math_and_Statistics
-    * 다른 책으로 바꿔서 학습 예정
-5. 머신러닝을 위한 수학(최적화 이론) - Math_and_Statistics
-6. 김우철 수리통계학 - Math_and_Statistics
-7. 김창진 계량경제학 I - Math_and_Statistics
-8. 파이썬을 활용한 베이지안 통계 - Math_and_Statistics
-9. R과 Python을 활용한 다변량분석 - Math_and_Statistics
-10. 베이즈 데이터 분석 - Math_and_Statistics
+4. 머신러닝을 위한 수학(최적화 이론) - Math_and_Statistics
+5. 김우철 수리통계학 - Math_and_Statistics
+6. 김창진 계량경제학 I - Math_and_Statistics
+7. 파이썬을 활용한 베이지안 통계 - Math_and_Statistics
+8. R과 Python을 활용한 다변량분석 - Math_and_Statistics
+9. 베이즈 데이터 분석 - Math_and_Statistics
 
 
 ## Machine_learning
@@ -68,6 +68,4 @@
 3. 파이썬 라이브러리를 활용한 머신러닝(2판) - Machine_learning
 4. ADP, 빅분기 대비 파이썬 끝내기 - Machine_learning
 5. 김기현의 딥러닝 부트캠프 with 파이토치 - Machine_learning
-6. 파이토치로 배우는 자연어 처리 - Machine_learning
-    * 추후 파이썬과 딥러닝에 더 익숙해진 후 학습 예정
-7. The Elements of Statistical Learning 2/e 번역본 - Math_and_Statistics
+6. The Elements of Statistical Learning 2/e 번역본 - Math_and_Statistics
