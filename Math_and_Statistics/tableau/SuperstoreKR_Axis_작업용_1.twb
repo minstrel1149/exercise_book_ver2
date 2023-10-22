@@ -410,6 +410,16 @@
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
+      <column caption='Address SD (수도권/비수도권)' datatype='string' name='[Address SD (그룹)]' role='dimension' type='nominal'>
+        <calculation class='categorical-bin' column='[Address SD]' default='&quot;비수도권&quot;' new-bin='true'>
+          <bin default-name='false' value='&quot;수도권&quot;'>
+            <value>&quot;경기도&quot;</value>
+            <value>&quot;서울특별시&quot;</value>
+            <value>&quot;인천광역시&quot;</value>
+          </bin>
+        </calculation>
+      </column>
+      <column datatype='string' name='[Address SD]' role='dimension' type='nominal' />
       <column caption='Profit Ratio' datatype='real' name='[Calculation_1205275864523018240]' role='measure' type='quantitative'>
         <calculation class='tableau' formula='sum([Profit]) / sum([Sales])' />
       </column>
@@ -420,6 +430,9 @@
       <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
       <_.fcp.ObjectModelTableType.true...column caption='Orders' datatype='table' name='[__tableau_internal_object_id__].[Orders_91A4407CBEBE4941B5A129D38D94D56D]' role='measure' type='quantitative' />
       <column-instance column='[Discount]' derivation='Avg' name='[avg:Discount:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sales]' derivation='Sum' name='[pcto:sum:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Rows' type='PctTotal' />
+      </column-instance>
       <column-instance column='[Profit]' derivation='Sum' name='[sum:Profit:qk]' pivot='key' type='quantitative' />
       <column-instance column='[Sales]' derivation='Sum' name='[sum:Sales:qk]' pivot='key' type='quantitative' />
       <column-instance column='[Calculation_1205275864523018240]' derivation='User' name='[usr:Calculation_1205275864523018240:qk]' pivot='key' type='quantitative' />
@@ -427,6 +440,9 @@
       <style>
         <style-rule element='mark'>
           <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[pcto:sum:Sales:qk]&quot;</bucket>
+            </map>
             <map to='#4e79a7'>
               <bucket>&quot;[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[sum:Sales:qk]&quot;</bucket>
             </map>
@@ -801,6 +817,150 @@
       </table>
       <simple-id uuid='{82E5B34B-E03A-4930-8572-137A35DE6793}' />
     </worksheet>
+    <worksheet name='시트 6'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Orders(Superstore KR - VizLab 2022)' name='federated.1fnpny0138a8tw10o7mdq0cfdrrs' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1fnpny0138a8tw10o7mdq0cfdrrs'>
+            <column caption='Address SD (수도권/비수도권)' datatype='string' name='[Address SD (그룹)]' role='dimension' type='nominal'>
+              <calculation class='categorical-bin' column='[Address SD]' default='&quot;비수도권&quot;' new-bin='true'>
+                <bin default-name='false' value='&quot;수도권&quot;'>
+                  <value>&quot;경기도&quot;</value>
+                  <value>&quot;서울특별시&quot;</value>
+                  <value>&quot;인천광역시&quot;</value>
+                </bin>
+              </calculation>
+            </column>
+            <column datatype='string' name='[Address SD]' role='dimension' type='nominal' />
+            <column caption='min(1)' datatype='integer' name='[Calculation_1205275864538456067]' role='measure' type='quantitative' user:unnamed='시트 6'>
+              <calculation class='tableau' formula='min(1)' />
+            </column>
+            <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
+            <column-instance column='[Sales]' derivation='Sum' name='[pcto:sum:Sales:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+            <column-instance column='[Sales]' derivation='Sum' name='[sum:Sales:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_1205275864538456067]' derivation='User' name='[usr:Calculation_1205275864538456067:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='1' field='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk]' field-type='quantitative' fold='true' scope='cols' synchronized='true' type='space' />
+            <format attr='display' class='1' field='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk]' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' value='1192' />
+            <format attr='height' value='553' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[Address SD (그룹)]' />
+              <wedge-size column='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[sum:Sales:qk]' />
+              <size column='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[sum:Sales:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.3953038454055786' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk]' x-index='1'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <text column='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[pcto:sum:Sales:qk]' />
+              <lod column='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[Address SD (그룹)]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true' fontsize='18'>수도권 매출 비중</run>
+                <run>Æ&#10;</run>
+                <run fontsize='15'><![CDATA[<[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[pcto:sum:Sales:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='1' />
+                <format attr='mark-color' value='#ffffff' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols>([federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk] + [federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk])</cols>
+        <mark-labels>
+          <mark-label id='0' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor x-index='1'>
+                  <x-fields x-index='1'>
+                    <field>[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk]</field>
+                  </x-fields>
+                  <y-fields x-index='1' />
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[Address SD (그룹)]</field>
+                  <field>[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[sum:Sales:qk]</field>
+                  <field>[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[usr:Calculation_1205275864538456067:qk]</field>
+                  <field>[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[pcto:sum:Sales:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;수도권&quot;</value>
+                <value>1302129527.8230863</value>
+                <value>1</value>
+                <value>0.46787710991003056</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+        </mark-labels>
+      </table>
+      <simple-id uuid='{94591D65-B716-45FB-9854-A1577D5C3D26}' />
+    </worksheet>
   </worksheets>
   <windows source-height='30'>
     <window class='worksheet' name='시트 1'>
@@ -927,7 +1087,7 @@
       </viewpoint>
       <simple-id uuid='{674D1A5A-022D-40DB-B0AE-3DBF96590CBE}' />
     </window>
-    <window class='worksheet' maximized='true' name='시트 5'>
+    <window class='worksheet' name='시트 5'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -963,6 +1123,42 @@
         </highlight>
       </viewpoint>
       <simple-id uuid='{6FC976BD-C5F1-4056-B39D-8E10C585A920}' />
+    </window>
+    <window class='worksheet' maximized='true' name='시트 6'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[Address SD (그룹)]' type='color' />
+            <card pane-specification-id='1' param='[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[sum:Sales:qk]' type='size' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1fnpny0138a8tw10o7mdq0cfdrrs].[Address SD (그룹)]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{A30A0DF8-C517-424C-B079-7FA5B4D09C85}' />
     </window>
   </windows>
   <thumbnails>
@@ -1631,6 +1827,57 @@
       hugOu7FieVZycitPgqWaic1PY6ottHgU3IrD5Gyc3jY/GQOiwQihsJdXfvcq47t2MXv6JJ3d
       /cSTaVyWzuCmzWguSKVSRCIRZs6cYj6Wom94E7aeo7+/j3QmSyQcvmQN/x+U9oPaf1fLsAAA
       AABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='시트 6' width='192'>
+      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
+      hWl5TjYrscwAAAAASUVORK5CYII=
     </thumbnail>
   </thumbnails>
 </workbook>
