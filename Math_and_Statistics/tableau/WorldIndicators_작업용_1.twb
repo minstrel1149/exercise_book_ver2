@@ -1,0 +1,747 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0909.1159                               -->
+<workbook original-version='18.1' source-build='2023.2.2 (20232.23.0909.1159)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='World Indicators' inline='true' name='federated.1o6b2ms1h1q80z1bpnbm709ibwkc' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='World Indicators' name='textscan.1w2ueyl0etbbfl1829fdl032wcuu'>
+            <connection class='textscan' directory='C:/Users/admin/exercisebook_large_data/tableau/CH 15' filename='World Indicators.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1w2ueyl0etbbfl1829fdl032wcuu' name='World Indicators.csv' table='[World Indicators#csv]' type='table'>
+          <columns character-set='UTF-16LE' header='yes' locale='ko_KR' separator='&#9;'>
+            <column datatype='string' name='Country/Region' ordinal='0' />
+            <column datatype='string' name='Region' ordinal='1' />
+            <column datatype='date' name='Year' ordinal='2' />
+            <column datatype='real' name='Birth Rate' ordinal='3' />
+            <column datatype='real' name='Business Tax Rate' ordinal='4' />
+            <column datatype='integer' name='CO2 Emissions' ordinal='5' />
+            <column datatype='integer' name='Days to Start Business' ordinal='6' />
+            <column datatype='string' name='Ease of Business' ordinal='7' />
+            <column datatype='integer' name='Energy Usage' ordinal='8' />
+            <column datatype='integer' name='GDP' ordinal='9' />
+            <column datatype='real' name='Health Exp % GDP' ordinal='10' />
+            <column datatype='integer' name='Health Exp/Capita' ordinal='11' />
+            <column datatype='integer' name='Hours to do Tax' ordinal='12' />
+            <column datatype='real' name='Infant Mortality Rate' ordinal='13' />
+            <column datatype='real' name='Internet Usage' ordinal='14' />
+            <column datatype='real' name='Lending Interest' ordinal='15' />
+            <column datatype='integer' name='Life Expectancy Female' ordinal='16' />
+            <column datatype='integer' name='Life Expectancy Male' ordinal='17' />
+            <column datatype='real' name='Mobile Phone Usage' ordinal='18' />
+            <column datatype='integer' name='Number of Records' ordinal='19' />
+            <column datatype='real' name='Population 0-14' ordinal='20' />
+            <column datatype='real' name='Population 15-64' ordinal='21' />
+            <column datatype='real' name='Population 65+' ordinal='22' />
+            <column datatype='integer' name='Population Total' ordinal='23' />
+            <column datatype='real' name='Population Urban' ordinal='24' />
+            <column datatype='integer' name='Tourism Inbound' ordinal='25' />
+            <column datatype='integer' name='Tourism Outbound' ordinal='26' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1w2ueyl0etbbfl1829fdl032wcuu' name='World Indicators.csv' table='[World Indicators#csv]' type='table'>
+          <columns character-set='UTF-16LE' header='yes' locale='ko_KR' separator='&#9;'>
+            <column datatype='string' name='Country/Region' ordinal='0' />
+            <column datatype='string' name='Region' ordinal='1' />
+            <column datatype='date' name='Year' ordinal='2' />
+            <column datatype='real' name='Birth Rate' ordinal='3' />
+            <column datatype='real' name='Business Tax Rate' ordinal='4' />
+            <column datatype='integer' name='CO2 Emissions' ordinal='5' />
+            <column datatype='integer' name='Days to Start Business' ordinal='6' />
+            <column datatype='string' name='Ease of Business' ordinal='7' />
+            <column datatype='integer' name='Energy Usage' ordinal='8' />
+            <column datatype='integer' name='GDP' ordinal='9' />
+            <column datatype='real' name='Health Exp % GDP' ordinal='10' />
+            <column datatype='integer' name='Health Exp/Capita' ordinal='11' />
+            <column datatype='integer' name='Hours to do Tax' ordinal='12' />
+            <column datatype='real' name='Infant Mortality Rate' ordinal='13' />
+            <column datatype='real' name='Internet Usage' ordinal='14' />
+            <column datatype='real' name='Lending Interest' ordinal='15' />
+            <column datatype='integer' name='Life Expectancy Female' ordinal='16' />
+            <column datatype='integer' name='Life Expectancy Male' ordinal='17' />
+            <column datatype='real' name='Mobile Phone Usage' ordinal='18' />
+            <column datatype='integer' name='Number of Records' ordinal='19' />
+            <column datatype='real' name='Population 0-14' ordinal='20' />
+            <column datatype='real' name='Population 15-64' ordinal='21' />
+            <column datatype='real' name='Population 65+' ordinal='22' />
+            <column datatype='integer' name='Population Total' ordinal='23' />
+            <column datatype='real' name='Population Urban' ordinal='24' />
+            <column datatype='integer' name='Tourism Inbound' ordinal='25' />
+            <column datatype='integer' name='Tourism Outbound' ordinal='26' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-16LE&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;ko&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;₩&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;\\t&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;ko_KR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country/Region</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Country/Region]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Country/Region</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LKO_RKR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Region</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Region]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Region</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LKO_RKR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[Year]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Birth Rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Birth Rate]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Birth Rate</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Business Tax Rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Business Tax Rate]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Business Tax Rate</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CO2 Emissions</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CO2 Emissions]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>CO2 Emissions</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Days to Start Business</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Days to Start Business]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Days to Start Business</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ease of Business</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Ease of Business]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Ease of Business</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LKO_RKR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Energy Usage</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Energy Usage]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Energy Usage</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GDP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[GDP]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>GDP</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Health Exp % GDP</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Health Exp % GDP]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Health Exp % GDP</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Health Exp/Capita</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Health Exp/Capita]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Health Exp/Capita</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Hours to do Tax</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Hours to do Tax]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Hours to do Tax</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Infant Mortality Rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Infant Mortality Rate]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Infant Mortality Rate</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Internet Usage</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Internet Usage]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Internet Usage</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lending Interest</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Lending Interest]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Lending Interest</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Life Expectancy Female</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Life Expectancy Female]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Life Expectancy Female</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Life Expectancy Male</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Life Expectancy Male]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Life Expectancy Male</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mobile Phone Usage</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Mobile Phone Usage]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Mobile Phone Usage</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Number of Records</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Number of Records]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Number of Records</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population 0-14</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Population 0-14]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Population 0-14</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population 15-64</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Population 15-64]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Population 15-64</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population 65+</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Population 65+]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Population 65+</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population Total</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Population Total]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Population Total</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population Urban</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Population Urban]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Population Urban</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tourism Inbound</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Tourism Inbound]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Tourism Inbound</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tourism Outbound</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Tourism Outbound]</local-name>
+            <parent-name>[World Indicators.csv]</parent-name>
+            <remote-alias>Tourism Outbound</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Country/Region]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='string' name='[Region]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='World Indicators.csv' datatype='table' name='[__tableau_internal_object_id__].[World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C]' role='measure' type='quantitative' />
+      <column-instance column='[Region]' derivation='None' name='[none:Region:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Region:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Africa&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Oceania&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Middle East&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Europe&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;The Americas&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Asia&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;대한민국&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='World Indicators.csv' id='World Indicators.csv_EAF1A50B19EF4F4A8AEA2FBE235E064C'>
+            <properties context=''>
+              <relation connection='textscan.1w2ueyl0etbbfl1829fdl032wcuu' name='World Indicators.csv' table='[World Indicators#csv]' type='table'>
+                <columns character-set='UTF-16LE' header='yes' locale='ko_KR' separator='&#9;'>
+                  <column datatype='string' name='Country/Region' ordinal='0' />
+                  <column datatype='string' name='Region' ordinal='1' />
+                  <column datatype='date' name='Year' ordinal='2' />
+                  <column datatype='real' name='Birth Rate' ordinal='3' />
+                  <column datatype='real' name='Business Tax Rate' ordinal='4' />
+                  <column datatype='integer' name='CO2 Emissions' ordinal='5' />
+                  <column datatype='integer' name='Days to Start Business' ordinal='6' />
+                  <column datatype='string' name='Ease of Business' ordinal='7' />
+                  <column datatype='integer' name='Energy Usage' ordinal='8' />
+                  <column datatype='integer' name='GDP' ordinal='9' />
+                  <column datatype='real' name='Health Exp % GDP' ordinal='10' />
+                  <column datatype='integer' name='Health Exp/Capita' ordinal='11' />
+                  <column datatype='integer' name='Hours to do Tax' ordinal='12' />
+                  <column datatype='real' name='Infant Mortality Rate' ordinal='13' />
+                  <column datatype='real' name='Internet Usage' ordinal='14' />
+                  <column datatype='real' name='Lending Interest' ordinal='15' />
+                  <column datatype='integer' name='Life Expectancy Female' ordinal='16' />
+                  <column datatype='integer' name='Life Expectancy Male' ordinal='17' />
+                  <column datatype='real' name='Mobile Phone Usage' ordinal='18' />
+                  <column datatype='integer' name='Number of Records' ordinal='19' />
+                  <column datatype='real' name='Population 0-14' ordinal='20' />
+                  <column datatype='real' name='Population 15-64' ordinal='21' />
+                  <column datatype='real' name='Population 65+' ordinal='22' />
+                  <column datatype='integer' name='Population Total' ordinal='23' />
+                  <column datatype='real' name='Population Urban' ordinal='24' />
+                  <column datatype='integer' name='Tourism Inbound' ordinal='25' />
+                  <column datatype='integer' name='Tourism Outbound' ordinal='26' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='시트 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='World Indicators' name='federated.1o6b2ms1h1q80z1bpnbm709ibwkc' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1o6b2ms1h1q80z1bpnbm709ibwkc'>
+            <column datatype='integer' name='[CO2 Emissions]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[GDP]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Region]' role='dimension' type='nominal' />
+            <column datatype='date' name='[Year]' role='dimension' type='ordinal' />
+            <column-instance column='[Region]' derivation='None' name='[none:Region:nk]' pivot='key' type='nominal' />
+            <column-instance column='[CO2 Emissions]' derivation='Sum' name='[sum:CO2 Emissions:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[GDP]' derivation='Sum' name='[sum:GDP:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Year]' derivation='Year' name='[yr:Year:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Region:nk]' member='&quot;Asia&quot;' />
+              <groupfilter function='member' level='[none:Region:nk]' member='&quot;Europe&quot;' />
+              <groupfilter function='member' level='[none:Region:nk]' member='&quot;The Americas&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' domain-expand='false' field='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[sum:CO2 Emissions:qk]' field-type='quantitative' scope='rows' type='space' />
+            <encoding attr='space' class='0' domain-expand='false' field='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[sum:GDP:qk]' field-type='quantitative' scope='cols' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]' />
+              <text column='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[yr:Year:ok]' />
+              <text column='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]' />
+              <path column='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[yr:Year:ok]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run bold='true'><![CDATA[<[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[yr:Year:ok]>]]></run>
+                <run>Æ&#10;</run>
+                <run bold='true'><![CDATA[<[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-mode' value='line-ends' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[sum:CO2 Emissions:qk]</rows>
+        <cols>[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[sum:GDP:qk]</cols>
+      </table>
+      <simple-id uuid='{F1B83F52-47EC-4B03-81FD-CC1834337E8E}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='시트 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[none:Region:nk]</field>
+            <field>[federated.1o6b2ms1h1q80z1bpnbm709ibwkc].[yr:Year:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{18A3CEB1-EFD6-438D-B748-4D1F8E852BA9}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='시트 1' width='192'>
+      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
+      UwAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
