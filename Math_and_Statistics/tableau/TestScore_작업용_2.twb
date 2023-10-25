@@ -89,6 +89,10 @@
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
+      <column caption='Score(구간차원)' datatype='integer' name='[Score(구간차원)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='0' formula='[Score]' peg='0' size='5' />
+      </column>
+      <column datatype='real' name='[Score]' role='measure' type='quantitative' />
       <column datatype='integer' name='[Student ID]' role='dimension' type='ordinal' />
       <_.fcp.ObjectModelTableType.true...column caption='Data' datatype='table' name='[__tableau_internal_object_id__].[Data_013F837E18034AA3B6F16EA9D8E96896]' role='measure' type='quantitative' />
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
@@ -150,9 +154,54 @@
       </table>
       <simple-id uuid='{48EF6461-C7D8-415C-AB77-931B389A862E}' />
     </worksheet>
+    <worksheet name='시트 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Data(Test Scores)' name='federated.1va3j1j0b3hbht11nw2cy1669ek7' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1va3j1j0b3hbht11nw2cy1669ek7'>
+            <column caption='Score(구간차원)' datatype='integer' name='[Score(구간차원)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='0' formula='[Score]' peg='0' size='5' />
+            </column>
+            <column datatype='real' name='[Score]' role='measure' type='quantitative' />
+            <column-instance column='[Score]' derivation='Count' name='[cnt:Score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Score(구간차원)]' derivation='None' name='[none:Score(구간차원):ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Score]' derivation='Count' name='[pcto:cnt:Score:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1va3j1j0b3hbht11nw2cy1669ek7].[pcto:cnt:Score:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1va3j1j0b3hbht11nw2cy1669ek7].[cnt:Score:qk]</rows>
+        <cols>[federated.1va3j1j0b3hbht11nw2cy1669ek7].[none:Score(구간차원):ok]</cols>
+        <show-full-range>
+          <column>[federated.1va3j1j0b3hbht11nw2cy1669ek7].[Score(구간차원)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{A40815D6-8087-45B9-801D-1A4442EDDF19}' />
+    </worksheet>
   </worksheets>
   <windows source-height='30'>
-    <window class='worksheet' maximized='true' name='시트 1'>
+    <window class='worksheet' name='시트 1'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -182,6 +231,37 @@
         </highlight>
       </viewpoint>
       <simple-id uuid='{169AF81A-A29B-4424-A581-63DF58B7F5C8}' />
+    </window>
+    <window class='worksheet' maximized='true' name='시트 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.1va3j1j0b3hbht11nw2cy1669ek7].[none:Score(구간차원):ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{B9F07C7F-D9FA-41E5-AE3E-0CB90FAA612F}' />
     </window>
   </windows>
   <thumbnails>
@@ -215,6 +295,68 @@
       YDzoqd2/UbkwVTcOevrkYF5zAZlIFUC5uqWod6b+JFExsBGG/Ev9lsjT1pl2duoaT9gIQ/6x
       EQZrHIJhjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg7T8F0L4419v3Zw89C5C5
       VI9D/6MfT1VkBwBL4C8JBRDoId8egQAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='시트 2' width='192'>
+      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
+      4n8Ah3wEQGpcG84AAAAASUVORK5CYII=
     </thumbnail>
   </thumbnails>
 </workbook>
