@@ -421,6 +421,14 @@
       <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
       <column datatype='integer' name='[Row ID]' role='dimension' type='ordinal' />
       <_.fcp.ObjectModelTableType.true...column caption='Orders' datatype='table' name='[__tableau_internal_object_id__].[Orders_1807FD4959A148F39233F8D3BAD088B5]' role='measure' type='quantitative' />
+      <column datatype='real' name='[계산1]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='ZN(SUM([Sales])) - LOOKUP(ZN(SUM([Sales])), -1)'>
+          <table-calc ordering-type='Field'>
+            <order field='[federated.1u0dc4d06i05d414h6ylf1llbhsp].[Address SD]' />
+            <order field='[federated.1u0dc4d06i05d414h6ylf1llbhsp].[Country]' />
+          </table-calc>
+        </calculation>
+      </column>
       <drill-paths>
         <drill-path name='Address'>
           <field>[Country]</field>
