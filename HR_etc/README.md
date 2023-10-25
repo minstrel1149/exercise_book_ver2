@@ -173,7 +173,7 @@
 ### 2023년 10월 말 ~
 1. Part A(듣기 위주) 복습
 2. Part B(듣기 위주) 복습
-    - Chapter.1, 2, 3, 4(~ing)
+    - Chapter.1, 2, 3, 4
 
 
 ## Cambridge IELTS LISTENING(12, 13)
