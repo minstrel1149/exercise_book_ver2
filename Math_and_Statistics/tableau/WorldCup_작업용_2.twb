@@ -662,44 +662,6 @@
               <bucket>&quot;4강&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[:Measure Names]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:assists:qk]&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:assists:qk]&quot;</bucket>
-            </map>
-            <map to='#4e79a7'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_2212111858228891648:qk]&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:number of goals:qk]&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_2212111858229915659:qk]&quot;</bucket>
-            </map>
-            <map to='#9c755f'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_504684649846710280:qk]&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:red cards:qk]&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_2212111858229907465:qk]&quot;</bucket>
-            </map>
-            <map to='#edc948'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:on target attempts:qk]&quot;</bucket>
-            </map>
-            <map to='#edc948'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:yellow cards:qk]&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:passes:qk]&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
-              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:passes:qk]&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:team:nk]' type='palette'>
             <map to='#499894'>
               <bucket>&quot;DENMARK&quot;</bucket>
@@ -796,6 +758,44 @@
             </map>
             <map to='#ffbe7d'>
               <bucket>&quot;SAUDI ARABIA&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:assists:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:assists:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_2212111858228891648:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:number of goals:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_2212111858229915659:qk]&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_504684649846710280:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:red cards:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[usr:Calculation_2212111858229907465:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:on target attempts:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:yellow cards:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[avg:passes:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0s6yfin1cta79o1gna48n1s75xox].[sum:passes:qk]&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -2857,8 +2857,8 @@
           </layout-options>
           <size maxheight='1350' minheight='1350' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='24' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='23' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='29' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
                 <zone fixed-size='58' h='7333' id='20' type-v2='title' w='99000' x='500' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
