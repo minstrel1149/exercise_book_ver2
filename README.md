@@ -69,4 +69,5 @@
 3. 파이썬 라이브러리를 활용한 머신러닝(2판) - Machine_learning
 4. ADP, 빅분기 대비 파이썬 끝내기 - Machine_learning
 5. 김기현의 딥러닝 부트캠프 with 파이토치 - Machine_learning
-6. The Elements of Statistical Learning 2/e 번역본 - Math_and_Statistics
+6. The Elements of Statistical Learning 2/e 번역본 - Machine_learning
+7. 파이썬 텍스트 마이닝 완벽 가이드 - Machine_learning
