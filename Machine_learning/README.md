@@ -1110,3 +1110,5 @@
     2. Section 2.2 - 토큰화
     3. Section 2.3 - 정규화
     4. Section 2.4 - 품사 태깅
+3. Chapter.3 - 그래프와 워드 클라우드
+    1. Section 3.1 - 단어 빈도 그래프
