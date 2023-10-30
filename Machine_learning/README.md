@@ -1108,3 +1108,5 @@
 2. Chapter.2 - 텍스트 전처리
     1. Section 2.1 - 텍스트 전처리의 개념
     2. Section 2.2 - 토큰화
+    3. Section 2.3 - 정규화
+    4. Section 2.4 - 품사 태깅(~ing)
