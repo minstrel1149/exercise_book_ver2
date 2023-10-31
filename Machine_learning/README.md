@@ -1136,3 +1136,6 @@
     2. Section 6.2 - PCA를 이용한 차원 축소
     3. Section 6.3 - LSA를 이용한 차원 축소와 의미 파악
     4. Section 6.4 - tSNE를 이용한 시각화와 차원 축소의 효과
+3. Chapter.7 - 토픽 모델링으로 주제 찾기
+    1. Section 7.1 - 토픽 모델링과 LDA의 이해
+    2. Section 7.2 - 사이킷런을 이용한 토픽 모델링
