@@ -1131,3 +1131,7 @@
     6. Section 5.6 - 성능을 높이는 방법
     7. Section 5.7 - 카운트 기반의 문제점과 N-gram을 이용한 보완
     8. Section 5.8 - 한국어 문서의 분류
+2. Chapter.6 - 차원 축소
+    1. Section 6.1 - 차원의 저주와 차원 축소의 이유
+    2. Section 6.2 - PCA를 이용한 차원 축소
+    3. Section 6.3 - LSA를 이용한 차원 축소와 의미 파악(~ing)
