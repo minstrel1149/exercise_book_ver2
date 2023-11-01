@@ -1157,3 +1157,5 @@
     2. Section 10.2 - 워드 임베딩의 이해
     3. Section 10.3 - RNN을 이용한 문서 분류
     4. Section 10.4 - LSTM 등을 이용한 성능 개선
+5. Chapter.11 - Word2Vec, ELMo, Doc2Vec의 이해
+    1. Section 11.1 - Word2Vec - 대표적인 워드 임베딩 기법
