@@ -1155,3 +1155,5 @@
 4. Chapter.10 - RNN, 딥러닝을 이용한 문서 분류
     1. Section 10.1 - 왜 RNN일까?
     2. Section 10.2 - 워드 임베딩의 이해
+    3. Section 10.3 - RNN을 이용한 문서 분류
+    4. Section 10.4 - LSTM 등을 이용한 성능 개선
