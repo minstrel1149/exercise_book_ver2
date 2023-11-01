@@ -1154,3 +1154,4 @@
     2. Section 9.2 - 딥러닝의 이해
 4. Chapter.10 - RNN, 딥러닝을 이용한 문서 분류
     1. Section 10.1 - 왜 RNN일까?
+    2. Section 10.2 - 워드 임베딩의 이해
