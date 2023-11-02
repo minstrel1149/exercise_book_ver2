@@ -1170,3 +1170,4 @@
 3. Chapter.13 - 어텐션(Attention)과 트랜스포머
     1. Section 13.1 - Seq2Seq - 번역에서 시작된 딥러닝 기법
     2. Section 13.2 - 어텐션을 이용한 성능의 향상
+    3. Section 13.3 - 셀프 어텐션과 트랜스포머
