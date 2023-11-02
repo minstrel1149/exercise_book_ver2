@@ -1159,3 +1159,11 @@
     4. Section 10.4 - LSTM 등을 이용한 성능 개선
 5. Chapter.11 - Word2Vec, ELMo, Doc2Vec의 이해
     1. Section 11.1 - Word2Vec - 대표적인 워드 임베딩 기법
+
+### 2023년 11월 2일
+1. Chapter.11 - Word2Vec, ELMo, Doc2Vec의 이해
+    1. Section 11.2 - ELMo - 문맥에 따른 단어 의미의 구분
+    2. Section 11.3 - Doc2Vec - 문맥을 고려한 문서 임베딩
+2. Chapter.12 - 이미지 분류를 응용한 문서 분류
+    1. Section 12.1 - CNN의 등장과 작동 원리
+    2. Section 12.2 - CNN을 이용한 문서 분류(~ing)
