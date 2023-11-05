@@ -1243,3 +1243,5 @@
 3. Chapter.6 - 차원 축소
     1. Section 6.1 - 차원의 저주와 차원 축소의 이유
     2. Section 6.2 - PCA를 이용한 차원 축소
+    3. Section 6.3 - LSA를 이용한 차원 축소와 의미 파악
+    4. Section 6.4 - tSNE를 이용한 시각화와 차원 축소의 효과
