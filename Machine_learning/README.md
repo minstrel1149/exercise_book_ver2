@@ -1274,3 +1274,7 @@
 3. Chapter.12 - 이미지 분류를 응용한 문서 분류
     1. Section 12.1 - CNN의 등장과 작동 원리
     2. Section 12.2 - CNN을 이용한 문서 분류
+4. Chapter.13 - 어텐션(Attention)과 트랜스포머
+    1. Section 13.1 - Seq2Seq - 번역에서 시작된 딥러닝 기법
+    2. Section 13.2 - 어텐션을 이용한 성능의 향상
+    3. Section 13.3 - 셀프 어텐션과 트랜스포머
