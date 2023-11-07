@@ -1267,3 +1267,7 @@
 ### 2023년 11월 7일
 1. Chapter.10 - RNN, 딥러닝을 이용한 문서 분류
     1. Section 10.3 - RNN을 이용한 문서 분류
+2. Chapter.11 - Word2Vec, ELMo, Doc2Vec의 이해
+    1. Section 11.1 - Word2Vec - 대표적인 워드 임베딩 기법
+    2. Section 11.2 - ELMo - 문맥에 따른 단어 의미의 구분
+    3. Section 11.3 - Doc2Vec - 문맥을 고려한 문서 임베딩
