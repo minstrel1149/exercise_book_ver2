@@ -1314,3 +1314,7 @@
     2. Section 19.3 - 자동 클래스를 이용한 질의 응답
     3. Section 19.4 - 트레이너를 이용한 질의 응답 미세조정 학습
     4. Section 19.5 - 한글 질의 응답
+2. Chapter.11 - Word2Vec, ELMo, Doc2Vec의 이해
+    1. Section 11.1 - Word2Vec - 대표적인 워드 임베딩 기법
+    2. Section 11.2 - ELMo - 문맥에 따른 단어 의미의 구분
+    3. Section 11.3 - Doc2Vec - 문맥을 고려한 문서 임베딩
