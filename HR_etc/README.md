@@ -100,6 +100,9 @@
 3. Part C(듣기 위주) 복습
     - Test.1 / Test.2
 
+### 2023년 11월 중 ~
+1. Part A. Understanding Reading Question Type(~ing)
+
 
 ## TOEFL MAP Listening Intermediate
 ### 2023년 4월 말 ~ 6월 초
