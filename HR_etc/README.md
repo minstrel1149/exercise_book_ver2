@@ -195,7 +195,7 @@
 1. IELTS 12(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 13(듣기 위주) 복습
-    - Test.1 / Test.2
+    - Test.1 / Test.2 / Test.3
 
 
 ## Cambridge IELTS READING(10, 11)
