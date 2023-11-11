@@ -33,8 +33,7 @@
 3. 그림으로 배우는 SQL 입문 - Programming
 4. Pandas Cookbook - Programming
 5. 웹 크롤링 & 데이터 분석 with 파이썬 - Programming
-6. 뚝딱뚝딱 파이썬 자동화 - Programming
-7. 6개월치 업무를 하루만에 끝내는 업무 자동화 - Programming
+6. 6개월치 업무를 하루만에 끝내는 업무 자동화 - Programming
 
 ### 2022년 7월 이후에도 진행 - 각 폴더 README에 일정 기록
 1. 혼자 공부하는 얄팍한 코딩 지식 - Programming
@@ -42,6 +41,7 @@
 3. 그림으로 배우는 SQL 입문 - Programming
 4. 파이썬으로 배우는 자료 구조 핵심 원리 - Programming
 5. 데이터베이스 설계 및 구축 - Programming
+6. 뚝딱뚝딱 파이썬 자동화 - Programming
 
 
 ## Math_and_Statistics
