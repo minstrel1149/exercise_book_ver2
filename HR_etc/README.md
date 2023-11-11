@@ -101,7 +101,7 @@
     - Test.1 / Test.2
 
 ### 2023년 11월 중 ~
-1. Part A. Understanding Reading Question Type(~ing)
+1. Part A. Understanding Reading Question Type(~ing2)
 
 
 ## TOEFL MAP Listening Intermediate
