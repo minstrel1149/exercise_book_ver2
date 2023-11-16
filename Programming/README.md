@@ -319,4 +319,4 @@
 2. Chapter.2 - 기본 DataFrame 연산
 3. Chapter.3 - DataFrame 생성과 유지
 4. Chapter.4 - 데이터 분석 시작
-5. Chapter.5 - 탐색적 데이터 분석(~ing)
+5. Chapter.5 - 탐색적 데이터 분석(~ing2)
