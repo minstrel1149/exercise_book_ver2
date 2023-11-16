@@ -317,3 +317,4 @@
 ### 2023년 11월 16일
 1. Chapter.1 - pandas 기초
 2. Chapter.2 - 기본 DataFrame 연산
+3. Chapter.3 - DataFrame 생성과 유지
