@@ -311,3 +311,8 @@
 2. Chapter.17 - 시간 관리, 작업 예약, 프로그램 실행 연습 프로젝트
 3. Chapter.18 - 이메일 보내기 연습 프로젝트
 4. Chapter.20 - GUI자동화로 키보드와 마우스 제어하기 연습 프로젝트
+
+
+## Pandas Cookbook
+### 2023년 11월 16일
+1. Chapter.1 - pandas 기초(~ing)
