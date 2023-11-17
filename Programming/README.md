@@ -319,7 +319,8 @@
 2. Chapter.2 - 기본 DataFrame 연산
 3. Chapter.3 - DataFrame 생성과 유지
 4. Chapter.4 - 데이터 분석 시작
-5. Chapter.5 - 탐색적 데이터 분석(~ing2)
+5. Chapter.5 - 탐색적 데이터 분석(~ing)
 
 ### 2023년 11월 17일
 1. Chapter.5 - 탐색적 데이터 분석
+2. Chapter.6 - 데이터의 부분집합 선택
