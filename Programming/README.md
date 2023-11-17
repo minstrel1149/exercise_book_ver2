@@ -325,3 +325,4 @@
 1. Chapter.5 - 탐색적 데이터 분석
 2. Chapter.6 - 데이터의 부분집합 선택
 3. Chapter.7 - 행 필터링
+4. Chapter.8 - 인덱스 정렬(~ing)
