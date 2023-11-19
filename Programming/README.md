@@ -331,4 +331,8 @@
 ### 2023년 11월 18일
 1. Chapter.10 - 정돈된 형식으로 데이터 재구성
 2. Chapter.11 - pandas 객체 병합
-3. Chapter.12 - 시계열 분석
+3. Chapter.12 - 시계열 분석(~ing)
+
+### 2023년 11월 19일
+1. Chapter.12 - 시계열 분석
+2. Chapter.13 - matplotlib, seaborn을 이용한 시각화(~ing)
