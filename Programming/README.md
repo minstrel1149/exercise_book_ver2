@@ -336,3 +336,6 @@
 ### 2023년 11월 19일
 1. Chapter.12 - 시계열 분석
 2. Chapter.13 - matplotlib, seaborn을 이용한 시각화
+
+### 2023년 11월 20일
+1. Chapter.14 - pandas 디버깅과 테스트
