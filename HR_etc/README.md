@@ -108,7 +108,7 @@
     - Chapter 3. Archaeology and Anthropology
     - Chapter 4. Education, Sociology, and Psychology
     - Chapter 5. Economics
-    - Chapter 6. Life Sciences(~ing)
+    - Chapter 6. Life Sciences
 
 
 ## TOEFL MAP Listening Intermediate
