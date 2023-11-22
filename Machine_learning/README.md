@@ -302,7 +302,7 @@
     5. Section 4-8. 전문가 지식 활용
 2. Chapter.5 모델 평가와 성능 향상
     1. Section 5-1. 교차 검증
-    2. Section 5-2. 그리드 서치(~ing)
+    2. Section 5-2. 그리드 서치
 
 
 ## ADP, 빅분기 대비 파이썬 끝내기
