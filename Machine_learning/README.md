@@ -297,6 +297,11 @@
 1. Chapter.4 데이터 표현과 특성 공학
     1. Section 4-1. 범주형 변수
     2. Section 4-4. 구간 분할과 이산화
+    3. Section 4-5. 상호작용과 다항식
+    4. Section 4-6. 일변량 비선형 변환
+    5. Section 4-8. 전문가 지식 활용
+2. Chapter.5 모델 평가와 성능 향상
+    1. Section 5-1. 교차 검증(~ing)
 
 
 ## ADP, 빅분기 대비 파이썬 끝내기
