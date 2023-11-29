@@ -560,7 +560,7 @@
 
 ### 2023년 11월 29일
 1. Chapter 13. 심층신경망 II
-2. Chapter 14. 정규화(Regularization)(~ing)
+2. Chapter 14. 정규화(Regularization)
 
 
 ## 파이토치로 배우는 자연어 처리 - 이후 부분 추후 진행 예정
