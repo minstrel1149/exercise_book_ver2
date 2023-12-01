@@ -100,7 +100,7 @@
 3. Part C(듣기 위주) 복습
     - Test.1 / Test.2
 
-### 2023년 11월 중 ~
+### 2023년 11월 중 ~ 12월 초
 1. Part A. Understanding Reading Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
@@ -136,6 +136,9 @@
     - Chapter.1, 2, 3, 4, 5, 6, 7, 8
 3. Part C(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3
+
+### 2023년 12월 초 ~
+1. Part A. Understanding Listening Question Type(~ing)
 
 
 ## Cambridge IELTS LISTENING(10, 11)
