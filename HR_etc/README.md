@@ -138,7 +138,7 @@
     - Test.1 / Test.2 / Test.3
 
 ### 2023년 12월 초 ~
-1. Part A. Understanding Listening Question Type(~ing)
+1. Part A. Understanding Listening Question Type
 
 
 ## Cambridge IELTS LISTENING(10, 11)
