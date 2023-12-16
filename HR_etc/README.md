@@ -147,7 +147,7 @@
     - Chapter 5. Physical Sciences 1
     - Chapter 6. Physical Sciences 2
     - Chapter 7. Arts 1
-    - Chapter 8. Arts 2(~ing3)
+    - Chapter 8. Arts 2
 
 
 ## Cambridge IELTS LISTENING(10, 11)
