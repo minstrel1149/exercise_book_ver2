@@ -148,7 +148,8 @@
     - Chapter 6. Physical Sciences 2
     - Chapter 7. Arts 1
     - Chapter 8. Arts 2
-3. Test 1(~ing)
+3. Part C. Experiencing Actual Tests
+    - Test 1
 
 
 ## Cambridge IELTS LISTENING(10, 11)
