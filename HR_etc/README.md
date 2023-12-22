@@ -149,7 +149,7 @@
     - Chapter 7. Arts 1
     - Chapter 8. Arts 2
 3. Part C. Experiencing Actual Tests
-    - Test 1 / Test 2 / Test 3(~ing)
+    - Test 1 / Test 2 / Test 3
 
 
 ## Cambridge IELTS LISTENING(10, 11)
