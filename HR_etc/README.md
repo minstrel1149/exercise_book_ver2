@@ -137,7 +137,7 @@
 3. Part C(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3
 
-### 2023년 12월 초 ~
+### 2023년 12월 초 ~ 12월 말
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. Life Sciences 1
@@ -164,6 +164,10 @@
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 11(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
+
+### 2023년 12월 말 ~ 
+1. IELTS 10(듣기 위주) 복습
+    - Test.1(~ing)
 
 
 ## TOEFL MAP Listening Advance
