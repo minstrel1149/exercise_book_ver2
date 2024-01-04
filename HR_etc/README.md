@@ -169,7 +169,7 @@
 1. IELTS 10 : Listening Part
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 11 : Listening Part
-    - Test.1 / Test.2 / Test.3 / Test.4(~ing2)
+    - Test.1 / Test.2 / Test.3 / Test.4
 
 
 ## TOEFL MAP Listening Advance
