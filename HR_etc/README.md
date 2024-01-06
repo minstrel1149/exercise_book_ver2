@@ -233,7 +233,7 @@
 
 ### 2023년 1월 초 ~ 
 1. IELTS 12 : Listening Part
-    - Test.5(~ing)
+    - Test.5(~ing2)
 
 
 ## Cambridge IELTS READING(10, 11)
