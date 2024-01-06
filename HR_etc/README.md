@@ -165,7 +165,7 @@
 2. IELTS 11(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
 
-### 2023년 12월 말 ~ 
+### 2023년 12월 말 ~ 1월 초
 1. IELTS 10 : Listening Part
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 11 : Listening Part
@@ -230,6 +230,10 @@
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 13(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
+
+### 2023년 1월 초 ~ 
+1. IELTS 12 : Listening Part
+    - Test.5(~ing)
 
 
 ## Cambridge IELTS READING(10, 11)
