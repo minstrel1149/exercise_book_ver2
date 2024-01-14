@@ -235,7 +235,7 @@
 1. IELTS 12 : Listening Part
     - Test.5 / Test.6 / Test.7 / Test.8
 2. IELTS 13 : Listening Part
-    - Test.1
+    - Test.1 / Test.2(~ing)
 
 
 ## Cambridge IELTS READING(10, 11)
