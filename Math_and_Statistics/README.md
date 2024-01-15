@@ -1580,6 +1580,11 @@
 10. Section 10-1. EM 알고리즘
 11. Section 10-2. 변분 방법
 
+### 2024년 1월 15일
+1. Section 11-1. 모형 확률을 이용한 모형 선택과 추론
+2. Section 11-2. 예측값을 이용한 모형 진단
+3. Section 11-3. DIC(Deviance information criterion)
+
 
 ## Let's 태블로, 데이터 시각화
 ### 2023년 10월 21일
