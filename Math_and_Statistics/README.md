@@ -1184,6 +1184,11 @@
 4. Section 4-1. 이분산 모형(Heteroscedasticity)
 5. Section 4-2. 자기상관 모형(Auto-correlation)
 
+### 2024년 1월 17일
+1. Section 1-1. 통계학의 개념과 용어 정리
+2. Section 1-2. 확률변수, 기대치, 분산
+3. Section 1-3. 추정
+
 
 ## 파이썬을 활용한 베이지안 통계(Think Bayes II)
 ### 2023년 7월 6일
