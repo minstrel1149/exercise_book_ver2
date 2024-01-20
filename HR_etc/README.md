@@ -114,6 +114,9 @@
 3. Part C. Experiencing Actual Tests
     - Test.1 / Test.2
 
+### 2024년 1월 말 ~
+1. Part A(듣기 및 위주) 복습
+
 
 ## TOEFL MAP Listening Intermediate
 ### 2023년 4월 말 ~ 6월 초
@@ -231,7 +234,7 @@
 2. IELTS 13(듣기 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
 
-### 2023년 1월 초 ~ 
+### 2023년 1월 초 ~ 1월 말
 1. IELTS 12 : Listening Part
     - Test.5 / Test.6 / Test.7 / Test.8
 2. IELTS 13 : Listening Part
