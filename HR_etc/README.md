@@ -114,7 +114,7 @@
 3. Part C. Experiencing Actual Tests
     - Test.1 / Test.2
 
-### 2024년 1월 말 ~
+### 2024년 1월 말 ~ 1월 말
 1. Part A(듣기 및 단어 위주) 복습
 2. Part B(듣기 및 단어 위주) 복습
     - Chapter.1, 2, 3, 4, 5, 6, 7, 8
@@ -157,6 +157,9 @@
     - Chapter 8. Arts 2
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test 2 / Test 3
+
+### 2024년 1월 말 ~ 1월 말
+1. Part A(듣기 및 단어 위주) 복습
 
 
 ## Cambridge IELTS LISTENING(10, 11)
