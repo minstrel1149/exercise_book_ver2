@@ -1385,6 +1385,8 @@
 
 ### 2024년 1월 27일
 1. Section 2-1. - 주성분분석(PCA)
+2. Section 3-1. - 인자분석(Factor Analysis) 개념
+3. Section 4-1. - 군집분석(Cluster Analysis) 개념
 
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
