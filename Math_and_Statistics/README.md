@@ -1383,6 +1383,9 @@
 2. Section 8-1. - 로지스틱 회귀분석(Logistic Regression) 개념
 3. Section 9-1. - 나무모형(Tree Model) 개념
 
+### 2024년 1월 27일
+1. Section 2-1. - 주성분분석(PCA)
+
 
 ## ADP, 빅분기 파이썬 한권으로 끝내기(통계분석 파트)
 ### 2023년 7월 20일
