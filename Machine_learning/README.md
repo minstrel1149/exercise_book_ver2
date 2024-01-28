@@ -1419,3 +1419,4 @@
 2. Chapter.2 - 텍스트 전처리 복습
 3. Chapter.3 - 그래프와 워드 클라우드
 4. Chapter.4 - 카운트 기반의 문서 표현
+5. Chapter.5 - BOW 기반의 문서 분류(~ing)
