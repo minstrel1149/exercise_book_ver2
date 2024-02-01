@@ -1436,3 +1436,4 @@
 ### 2024년 2월 1일
 1. Chapter.11 - Word2Vec, ELMo, Doc2Vec의 이해
 2. Chapter.12 - 이미지 분류를 응용한 문서 분류
+3. Chapter.13 - 어텐션(Attention)과 트랜스포머
