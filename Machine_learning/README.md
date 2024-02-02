@@ -1439,4 +1439,5 @@
 3. Chapter.13 - 어텐션(Attention)과 트랜스포머
 
 ### 2024년 2월 2일
-1. Chapter.14 - BERT의 이해와 간단한 활용 - 연습을 통한 이해
+1. Chapter.14 - BERT의 이해와 간단한 활용
+2. Chapter.15 - BERT 사전학습 모형에 대한 미세조정 학습
