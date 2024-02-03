@@ -185,6 +185,10 @@
 2. IELTS 11 : Listening Part
     - Test.1 / Test.2 / Test.3 / Test.4
 
+### 2024년 2월 초 ~
+1. IELTS 10(듣기 및 단어 위주) 복습
+    - Test.1 / Test.2
+
 
 ## TOEFL MAP Listening Advance
 ### 2023년 7월 초 ~ 8월 초
