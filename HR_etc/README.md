@@ -260,6 +260,8 @@
 ### 2024년 2월 초 ~ 
 1. IELTS 12(듣기 및 단어 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
+2. IELTS 13(듣기 및 단어 위주) 복습
+    - Test.1 / Test.2
 
 ## Cambridge IELTS READING(10, 11)
 ### 2023년 9월 말 ~ 10월 초
