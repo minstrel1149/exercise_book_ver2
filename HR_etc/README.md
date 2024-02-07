@@ -215,7 +215,7 @@
     - Test.1 / Test.2
 
 ### 2024년 2월 초 ~ 
-1. Part A. Understanding Listening Question Type(~ing)
+1. Part A. Understanding Listening Question Type
 
 
 ## TOEFL MAP Reading Advance
