@@ -219,7 +219,7 @@
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. Life Sciences 1
     - Chapter 2. Life Sciences 2
-    - Chapter 3. Social Sciences 1(~ing4)
+    - Chapter 3. Social Sciences 1(~ing5)
 
 
 ## TOEFL MAP Reading Advance
