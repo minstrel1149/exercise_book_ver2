@@ -220,7 +220,7 @@
     - Chapter 1. Life Sciences 1
     - Chapter 2. Life Sciences 2
     - Chapter 3. Social Sciences 1
-    - Chapter 4. Social Sciences 2(~ing6)
+    - Chapter 4. Social Sciences 2(~ing7)
 
 
 ## TOEFL MAP Reading Advance
