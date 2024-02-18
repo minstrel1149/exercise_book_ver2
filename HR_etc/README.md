@@ -223,7 +223,7 @@
     - Chapter 4. Social Sciences 2
     - Chapter 5. Physical Sciences 1
     - Chapter 6. Physical Sciences 2
-    - Chapter 7. Arts 1(~ing3)
+    - Chapter 7. Arts 1(~ing4)
 
 
 ## TOEFL MAP Reading Advance
