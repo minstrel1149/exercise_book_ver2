@@ -226,7 +226,7 @@
     - Chapter 7. Arts 1
     - Chapter 8. Arts 2
 3. Part C. Experiencing Actual Tests
-    - Test 1(~ing2)
+    - Test 1
 
 
 ## TOEFL MAP Reading Advance
