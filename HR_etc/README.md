@@ -252,7 +252,7 @@
     - Test.1 / Test.2
 
 ### 2024년 2월 말 ~ 
-1. Part A. Understanding Listening Question Type(~ing)
+1. Part A. Understanding Listening Question Type(~ing2)
 
 
 ## Cambridge IELTS LISTENING(12, 13)
