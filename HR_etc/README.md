@@ -255,7 +255,7 @@
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
-    - Chapter 2. The Arts(~ing)
+    - Chapter 2. The Arts(~ing2)
 
 
 ## Cambridge IELTS LISTENING(12, 13)
