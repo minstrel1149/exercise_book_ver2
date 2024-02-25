@@ -256,7 +256,7 @@
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
     - Chapter 2. The Arts
-    - Chapter 3. Archaeology and Anthropology(~ing4)
+    - Chapter 3. Archaeology and Anthropology
 
 
 ## Cambridge IELTS LISTENING(12, 13)
