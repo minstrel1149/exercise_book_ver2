@@ -257,7 +257,7 @@
     - Chapter 1. History
     - Chapter 2. The Arts
     - Chapter 3. Archaeology and Anthropology
-    - Chapter 4. Education, Sociology, and Psychology(~ing)
+    - Chapter 4. Education, Sociology, and Psychology(~ing2)
 
 
 ## Cambridge IELTS LISTENING(12, 13)
