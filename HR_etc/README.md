@@ -260,7 +260,7 @@
     - Chapter 4. Education, Sociology, and Psychology
     - Chapter 5. Economics
     - Chapter 6. Life Sciences
-    - Chapter 7. Physical Sciences(~ing)
+    - Chapter 7. Physical Sciences(~ing2)
 
 
 ## Cambridge IELTS LISTENING(12, 13)
