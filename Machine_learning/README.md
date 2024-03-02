@@ -1166,6 +1166,14 @@
 3. Chapter.18 - 고차원 문제: p>>N 복습
 4. Chapter.etc - Survival Analysis 복습
 
+### 2024년 3월 2일
+1. Chapter.1 - 소개
+2. Chapter.2 - 지도학습(supervised learning)의 개요
+    1. Section 2-1. 소개
+    2. Section 2-2. 변수 타입과 용어
+    3. Section 2-3. 예측을 위한 단순한 두 접근: 최소제곱과 최근접이웃
+    4. Section 2-4. 통계적 결정 이론
+
 
 ## 파이썬 텍스트 마이닝 완벽 가이드
 ### 2023년 10월 30일
