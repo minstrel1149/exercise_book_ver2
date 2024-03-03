@@ -1194,6 +1194,8 @@
     1. Section 4-1. 소개
     2. Section 4-2. 지시행렬의 선형회귀
     3. Section 4-3. 선형판별분석
+    4. Section 4-4. 로지스틱회귀
+    5. Section 4-5. 분리초평면(Seperating Hyperplanes)
 
 
 ## 파이썬 텍스트 마이닝 완벽 가이드
