@@ -1185,7 +1185,8 @@
 ### 2024년 3월 3일
 1. Chapter.3 - 회귀를 위한 선형법
     1. Section 3-3. 부분집합 선택
-    2. Section 3-4. 수축법(Ridge, Lasso, etc) (~ing)
+    2. Section 3-4. 수축법(Ridge, Lasso, etc)
+    3. Section 3-5. 유도된 입력 방향을 사용하는 방법들
 
 
 ## 파이썬 텍스트 마이닝 완벽 가이드
