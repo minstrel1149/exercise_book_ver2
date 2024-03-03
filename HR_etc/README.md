@@ -262,6 +262,8 @@
     - Chapter 6. Life Sciences
     - Chapter 7. Physical Sciences
     - Chapter 8. Environmental Sciences
+3. Part C. Experiencing Actual Tests
+    - Test 1(~ing)
 
 
 ## Cambridge IELTS LISTENING(12, 13)
