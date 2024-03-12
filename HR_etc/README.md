@@ -228,6 +228,9 @@
 3. Part C. Experiencing Actual Tests
     - Test 1 / Test.2
 
+### 2024년 3월 초~
+1. Part A(듣기 위주) 복습
+
 
 ## TOEFL MAP Reading Advance
 ### 2023년 8월 초 ~ 9월 초
@@ -251,7 +254,7 @@
 3. Part C(듣기 위주) 복습
     - Test.1 / Test.2
 
-### 2024년 2월 말 ~ 
+### 2024년 2월 말 ~ 3월 초
 1. Part A. Understanding Listening Question Type
 2. Part B. Building Background Knowledge of TOEFL Topics
     - Chapter 1. History
