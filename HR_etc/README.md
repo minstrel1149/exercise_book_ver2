@@ -235,7 +235,7 @@
 ### 2024년 3월 초~
 1. Part A(듣기 위주) 복습
 2. Part B(듣기 위주) 복습
-    - Chapter.1, 2, 3, 4, 5(~ing)
+    - Chapter.1, 2, 3, 4, 5
 
 
 ## TOEFL MAP Reading Advance
