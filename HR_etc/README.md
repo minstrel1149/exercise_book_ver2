@@ -104,6 +104,7 @@
 4. Chapter 3. 데이터로 보는 인사 이야기 II - 리더십
 5. Chapter 4. 데이터로 보는 인사 이야기 III - 직원 경험
 6. Chapter 5. People Analytics 한 걸음 더 들어가기
+7. Chapter 6. People Analytics 시작하기
 
 
 ## 텝스 공식 기출 문제집
