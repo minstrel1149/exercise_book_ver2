@@ -106,6 +106,9 @@
 6. Chapter 5. People Analytics 한 걸음 더 들어가기
 7. Chapter 6. People Analytics 시작하기
 
+### 2024년 3월 25일
+1. Chapter 7. R로 함께하는 데이터 이야기(내용에 집중)(~ing)
+
 
 ## 텝스 공식 기출 문제집
 ### 2023년 3월 초 ~ 3월 말
