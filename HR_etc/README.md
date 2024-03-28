@@ -117,6 +117,7 @@
 ### 2024년 3월 28일
 1. Chapter 4. 데이터로 보는 인사 이야기 III - 직원 경험
 2. Chapter 5. People Analytics 한 걸음 더 들어가기
+3. Chapter 6. People Analytics 시작하기
 
 
 ## 텝스 공식 기출 문제집
