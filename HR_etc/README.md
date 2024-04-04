@@ -348,6 +348,9 @@
 3. Part C. Experiencing Actual Tests
     - Test 1, Test 2
 
+### 2023년 4월 초 ~ 
+1. Part A(듣기 위주) 복습
+
 
 ## Cambridge IELTS LISTENING(12, 13)
 ### 2023년 9월 초 ~ 9월 말
