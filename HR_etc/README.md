@@ -386,9 +386,15 @@
 2. IELTS 13(듣기 및 단어 위주) 복습
     - Test.1 / Test.2 / Test.3 / Test.4
 
+
 ## Cambridge IELTS READING(10, 11)
 ### 2023년 9월 말 ~ 10월 초
 1. IELTS 10 : Reading Part
     - Test.1 / Test.2 / Test.3 / Test.4
 2. IELTS 11 : Reading Part
     - Test.1 / Test.2 / Test.3 / Test.4
+
+
+## GRAMMAR IN USE INTERMEDIATE
+### 2024년 4월 중 ~ 
+1. Present Continuous, Simple Present
