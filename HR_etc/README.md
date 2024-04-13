@@ -396,5 +396,6 @@
 
 
 ## GRAMMAR IN USE INTERMEDIATE
-### 2024년 4월 중 ~ 
+### 2024년 4월 13일
 1. Present Continuous, Simple Present
+2. Present Continuous and Simple Present 1, 2
