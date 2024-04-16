@@ -409,3 +409,6 @@
 1. How long have you been, for and since, When and How long
 2. Present Perfect and Past 2, Past Perfect
 3. Past Perfect Continuous, Have and Have got
+
+### 2024년 4월 16일
+1. Used to (do), Present Tenses with a future meaning
