@@ -412,3 +412,6 @@
 
 ### 2024년 4월 16일
 1. Used to (do), Present Tenses with a future meaning
+
+### 2024년 4월 17일
+1. I'm going to (do), Will 1
