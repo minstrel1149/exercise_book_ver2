@@ -417,3 +417,6 @@
 1. I'm going to (do), Will 1
 2. Will 2, I will and I am going to
 3. Will be doing and Will have done, When I do and When I've done
+
+### 2024년 4월 18일
+1. Can, Could and Be able to, Could do and Could have done
