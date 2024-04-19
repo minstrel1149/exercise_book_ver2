@@ -424,3 +424,4 @@
 
 ### 2024년 4월 19일
 1. May and Might 2, Have to and Must
+2. Should, Subjunctive(I suggest to do)
