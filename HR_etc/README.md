@@ -426,3 +426,6 @@
 1. May and Might 2, Have to and Must
 2. Should, Subjunctive(I suggest to do)
 3. I'd better and It's time and Would
+
+### 2024년 4월 20일
+1. Can/Could/Would you..?, If I do and If I did
