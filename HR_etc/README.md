@@ -435,3 +435,6 @@
 ### 2024년 4월 21일
 1. Passive 2, Passive 3
 2. It is said that and He is supposed to, Have something done
+
+### 2024년 4월 22일
+1. Reported Speech 1, Reported Speech 2
