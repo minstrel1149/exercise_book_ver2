@@ -448,3 +448,4 @@
 1. Verb + Object + to, Verb + -ing or to 1
 2. Verb + -ing or to 2, Verb + -ing or to 3
 3. Prefer and Would rather, Preposition + -ing
+4. be/get used to, Verb + Preposition + -ing
