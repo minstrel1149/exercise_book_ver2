@@ -450,3 +450,4 @@
 3. Prefer and Would rather, Preposition + -ing
 4. be/get used to, Verb + Preposition + -ing
 5. There's no point in -ing, It's worth in -ing, to, for, and so that
+6. Adjective + to, Afraid to do and Afraid of + -ing
