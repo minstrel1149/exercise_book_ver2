@@ -451,3 +451,6 @@
 4. be/get used to, Verb + Preposition + -ing
 5. There's no point in -ing, It's worth in -ing, to, for, and so that
 6. Adjective + to, Afraid to do and Afraid of + -ing
+
+### 2024년 4월 25일
+1. See somebody do and See somebody doing, -ing phrases
