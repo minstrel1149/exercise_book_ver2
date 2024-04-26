@@ -454,3 +454,6 @@
 
 ### 2024년 4월 25일
 1. See somebody do and See somebody doing, -ing phrases
+
+### 2024년 4월 26일
+1. Count and Noncount Nouns 1, Count and Noncount Nouns 2
