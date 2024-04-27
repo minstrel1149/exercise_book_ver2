@@ -468,3 +468,4 @@
 5. mine/on my own/by myself, there and it
 6. some and any, no/none/any, nothing/nobody
 7. much/many/little/few/a lot/plenty, all/all of/most/most of/no/none of
+8. both/both of/neither/neither of/either/either of, all/every/whole
