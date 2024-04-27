@@ -466,3 +466,4 @@
 3. Singular and Plural, Noun + Noun
 4. -'s and of, myself/yourself/themselves
 5. mine/on my own/by myself, there and it
+6. some and any, no/none/any, nothing/nobody
