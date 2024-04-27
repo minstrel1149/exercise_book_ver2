@@ -463,3 +463,4 @@
 ### 2024년 4월 27일
 1. the 3, the 4
 2. Names with and without the 1, Names with and without the 2
+3. Singular and Plural, Noun + Noun
