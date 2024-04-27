@@ -464,3 +464,4 @@
 1. the 3, the 4
 2. Names with and without the 1, Names with and without the 2
 3. Singular and Plural, Noun + Noun
+4. -'s and of, myself/yourself/themselves
