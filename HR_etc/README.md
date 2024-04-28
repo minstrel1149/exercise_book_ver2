@@ -477,3 +477,4 @@
 3. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
 4. Adjectives, Adjectives and Adverbs 1
 5. Adjectives and Adverbs 1, so and such
+6. enough and too, Comparative 1
