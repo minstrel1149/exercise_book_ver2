@@ -470,3 +470,6 @@
 7. much/many/little/few/a lot/plenty, all/all of/most/most of/no/none of
 8. both/both of/neither/neither of/either/either of, all/every/whole
 9. each and every, Relative Clauses 1
+
+### 2024년 4월 28일
+1. Relative Clauses 2, Relative Clauses 3
