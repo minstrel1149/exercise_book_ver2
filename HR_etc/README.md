@@ -478,3 +478,6 @@
 4. Adjectives, Adjectives and Adverbs 1
 5. Adjectives and Adverbs 1, so and such
 6. enough and too, Comparative 1
+
+### 2024년 4월 29일
+1. Comparative 2, Comparative 3
