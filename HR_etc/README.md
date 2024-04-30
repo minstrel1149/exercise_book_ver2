@@ -488,3 +488,4 @@
 ### 2024년 4월 30일
 1. in case, unless/as long as/provided
 2. as, like and as
+3. like/as if, during/for/while
