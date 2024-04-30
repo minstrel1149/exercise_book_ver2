@@ -489,4 +489,5 @@
 1. in case, unless/as long as/provided
 2. as, like and as
 3. like/as if, during/for/while
-4. by and until/by the time, at/on/in
+4. by and until/by the time, at/on/in(Time)
+5. on time and in time/at the end and in the end, in/at/on(Position) 1
