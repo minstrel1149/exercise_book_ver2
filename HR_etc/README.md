@@ -498,3 +498,6 @@
 2. by, Noun + Preposition
 3. Adjective + Preposition 1, Adjective + Preposition 2
 4. Verb + Preposition 1, Verb + Preposition 2
+
+### 2024년 5월 2일
+1. Verb + Preposition 3, Verb + Preposition 4
