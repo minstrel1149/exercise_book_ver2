@@ -501,3 +501,6 @@
 
 ### 2024년 5월 2일
 1. Verb + Preposition 3, Verb + Preposition 4
+
+### 2024년 5월 3일
+1. Verb + Preposition 5, Phrasal Verbs 1
