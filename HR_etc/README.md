@@ -508,3 +508,4 @@
 ### 2024년 5월 4일
 1. Phrasal Verbs 2, Phrasal Verbs 3
 2. Phrasal Verbs 4, Phrasal Verbs 5
+3. Phrasal Verbs 6, Phrasal Verbs 7
