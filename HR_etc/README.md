@@ -525,3 +525,4 @@
 ### 2024년 5월 6일
 1. I'm going to (do), Will 1
 2. Will 2, I will and I am going to
+3. Will be doing and Will have done, When I do and When I've done
