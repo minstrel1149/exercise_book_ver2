@@ -528,3 +528,4 @@
 3. Will be doing and Will have done, When I do and When I've done
 4. Can/Could and Be able to, Could do and Could have done
 5. Must and Can't, May and Might 1
+6. May and Might 2, Have to and Must
