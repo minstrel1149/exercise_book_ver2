@@ -521,3 +521,6 @@
 4. Present Perfect and Past 2, Past Perfect
 5. Past Perfect Continuous, Have and Have got
 6. Used to (do), Present Tenses with a future meaning
+
+### 2024년 5월 6일
+1. I'm going to (do), Will 1
