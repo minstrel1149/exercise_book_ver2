@@ -530,3 +530,4 @@
 5. Must and Can't, May and Might 1
 6. May and Might 2, Have to and Must
 7. Should, Subjunctive(I suggest to do)
+8. I'd better and It's time, Would
