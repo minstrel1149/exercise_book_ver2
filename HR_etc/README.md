@@ -534,3 +534,4 @@
 
 ### 2024년 5월 7일
 1. Can/Could/Would you..?, If I do and If I did
+2. If I knew and I wish I knew, If I had known and I wish I had known
