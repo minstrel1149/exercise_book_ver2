@@ -538,3 +538,4 @@
 
 ### 2024년 5월 8일
 1. Wish, Passive 1(Is done, Was done)
+2. Passive 2, Passive 3
