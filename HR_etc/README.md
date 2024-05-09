@@ -543,3 +543,6 @@
 4. Reported Speech 1, Reported Speech 2
 5. Questions 1, Questions 2
 6. Auxiliary Verbs, Tag Questions
+
+### 2024년 5월 9일
+1. Verb + -ing, Verb + to
