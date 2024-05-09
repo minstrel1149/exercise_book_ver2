@@ -546,3 +546,6 @@
 
 ### 2024년 5월 9일
 1. Verb + -ing, Verb + to
+
+### 2024년 5월 10일
+1. Verb + Object + to, Verb + -ing or to 1
