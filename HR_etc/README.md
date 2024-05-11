@@ -554,3 +554,4 @@
 1. Verb + -ing or to 2, Verb + -ing or to 3
 2. Prefer and Would rather, Preposition + -ing
 3. be/get used to, Verb + Preposition + -ing
+4. There's no point in -ing/It's worth in -ing, to/for and so that
