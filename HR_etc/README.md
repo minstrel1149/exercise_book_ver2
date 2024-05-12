@@ -558,3 +558,4 @@
 
 ### 2024년 5월 12일
 1. Adjective + to, Afraid to do and Afraid of + -ing
+2. See somebody do and See somebody doing, -ing phrases
