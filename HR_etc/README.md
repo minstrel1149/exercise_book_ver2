@@ -569,3 +569,4 @@
 2. the 3, the 4
 3. Names with and without the 1, Names with and without the 2
 4. Singular and Plural, Noun + Noun
+5. -'s and of, myself/yourself/themselves
