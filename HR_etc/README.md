@@ -563,3 +563,6 @@
 
 ### 2024년 5월 13일
 1. Count Nouns with a/an and some, a/an and the
+
+### 2024년 5월 14일
+1. the 1, the 2
