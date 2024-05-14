@@ -570,3 +570,4 @@
 3. Names with and without the 1, Names with and without the 2
 4. Singular and Plural, Noun + Noun
 5. -'s and of, myself/yourself/themselves
+6. mine/on my own/by myself, there and it
