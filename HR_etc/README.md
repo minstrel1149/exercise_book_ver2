@@ -571,3 +571,6 @@
 4. Singular and Plural, Noun + Noun
 5. -'s and of, myself/yourself/themselves
 6. mine/on my own/by myself, there and it
+
+### 2024년 5월 15일
+1. some and any, no/none/any, nothing/nobody
