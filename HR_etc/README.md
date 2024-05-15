@@ -575,3 +575,4 @@
 ### 2024년 5월 15일
 1. some and any, no/none/any, nothing/nobody
 2. much/many/little/few/a lot/plenty, all/all of/most/most of/no/none of
+3. both/both of/neither/neither of/either/either of, all/every/whole
