@@ -579,3 +579,4 @@
 4. each and every, Relative Clauses 1
 5. Relative Clauses 2, Relative Clauses 3
 6. Relative Clauses 4, Relative Clauses 5
+7. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
