@@ -476,7 +476,7 @@
 2. Relative Clauses 4, Relative Clauses 5
 3. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
 4. Adjectives, Adjectives and Adverbs 1
-5. Adjectives and Adverbs 1, so and such
+5. Adjectives and Adverbs 2, so and such
 6. enough and too, Comparative 1
 
 ### 2024년 4월 29일
@@ -581,3 +581,4 @@
 6. Relative Clauses 4, Relative Clauses 5
 7. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
 8. Adjectives, Adjectives and Adverbs 1
+9. Adjectives and Adverbs 2, so and such
