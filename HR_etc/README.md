@@ -582,3 +582,6 @@
 7. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
 8. Adjectives, Adjectives and Adverbs 1
 9. Adjectives and Adverbs 2, so and such
+
+### 2024년 5월 16일
+1. enough and too, Comparative 1
