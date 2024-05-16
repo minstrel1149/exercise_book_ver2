@@ -585,3 +585,6 @@
 
 ### 2024년 5월 16일
 1. enough and too, Comparative 1
+
+### 2024년 5월 17일
+1. Comparative 2, Comparative 3
