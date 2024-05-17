@@ -588,3 +588,6 @@
 
 ### 2024년 5월 17일
 1. Comparative 2, Comparative 3
+
+### 2024년 5월 18일
+1. Superlative, Word Order 1
