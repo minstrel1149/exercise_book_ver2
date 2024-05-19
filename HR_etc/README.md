@@ -591,3 +591,6 @@
 
 ### 2024년 5월 18일
 1. Superlative, Word Order 1
+
+### 2024년 5월 19일
+1. Word Order 2, still/anymore/yet/already
