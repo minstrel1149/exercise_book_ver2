@@ -594,3 +594,6 @@
 
 ### 2024년 5월 19일
 1. Word Order 2, still/anymore/yet/already
+
+### 2024년 5월 20일
+1. even, although/though/even though/in spite of/despite
