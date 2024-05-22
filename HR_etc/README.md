@@ -600,3 +600,6 @@
 
 ### 2024년 5월 21일
 1. in case, unless/as long as/provided
+
+### 2024년 5월 22일
+1. as, like and as
