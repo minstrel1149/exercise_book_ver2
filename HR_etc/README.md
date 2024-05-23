@@ -603,3 +603,6 @@
 
 ### 2024년 5월 22일
 1. as, like and as
+
+### 2024년 5월 23일
+1. like/as if, during/for/while
