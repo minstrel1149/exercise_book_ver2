@@ -606,3 +606,6 @@
 
 ### 2024년 5월 23일
 1. like/as if, during/for/while
+
+### 2024년 5월 24일
+1. by and until/by the time, at/on/in(Time)
