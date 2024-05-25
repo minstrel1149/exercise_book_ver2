@@ -609,3 +609,6 @@
 
 ### 2024년 5월 24일
 1. by and until/by the time, at/on/in(Time)
+
+### 2024년 5월 25일
+1. on time and in time/at the end and in the end, in/at/on(Position) 1
