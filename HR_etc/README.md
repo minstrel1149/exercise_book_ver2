@@ -615,3 +615,6 @@
 
 ### 2024년 5월 26일
 1. in/at/on(Position) 2, in/at/on(Position) 3
+
+### 2024년 5월 27일
+1. to/at/in and into, in/on/at(Other Uses)
