@@ -621,3 +621,6 @@
 
 ### 2024년 5월 28일
 1. by, Noun + Preposition
+
+### 2024년 5월 29일
+1. Adjective + Preposition 1, Adjective + Preposition 2
