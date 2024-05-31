@@ -627,3 +627,6 @@
 
 ### 2024년 5월 30일
 1. Verb + Preposition 1, Verb + Preposition 2
+
+### 2024년 6월 1일
+1. Verb + Preposition 3, Verb + Preposition 4
