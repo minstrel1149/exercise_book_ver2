@@ -628,8 +628,11 @@
 ### 2024년 5월 30일
 1. Verb + Preposition 1, Verb + Preposition 2
 
-### 2024년 6월 1일
+### 2024년 5월 31일
 1. Verb + Preposition 3, Verb + Preposition 4
 
-### 2024년 6월 2일
+### 2024년 6월 1일
 1. Verb + Preposition 5, Phrasal Verbs 1
+
+### 2024년 6월 2일
+1. Phrasal Verbs 2, Phrasal Verbs 3
