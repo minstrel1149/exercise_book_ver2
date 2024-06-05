@@ -642,3 +642,6 @@
 
 ### 2024년 6월 4일
 1. Phrasal Verbs 6, Phrasal Verbs 7
+
+### 2024년 6월 5일
+1. Phrasal Verbs 8, Phrasal Verbs 9
