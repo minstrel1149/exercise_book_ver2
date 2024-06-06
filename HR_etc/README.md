@@ -645,3 +645,6 @@
 
 ### 2024년 6월 5일
 1. Phrasal Verbs 8, Phrasal Verbs 9
+
+### 2024년 6월 6일
+1. Present Continuous, Simple Present
