@@ -651,3 +651,6 @@
 
 ### 2024년 6월 8일
 1. Present Continuous and Simple Present 1, Present Continuous and Simple Present 2
+
+### 2024년 6월 9일
+1. Simple Past, Past Continuous
