@@ -654,3 +654,6 @@
 
 ### 2024년 6월 9일
 1. Simple Past, Past Continuous
+
+### 2024년 6월 10일
+1. Present Perfect, Present Perfect and Past 1
