@@ -660,3 +660,6 @@
 
 ### 2024년 6월 11일
 1. Present Perfect Continuous, Present Perfect Continuous and Simple
+
+### 2024년 6월 12일
+1. How long have you been, for and since/When and How long
