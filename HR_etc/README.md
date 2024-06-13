@@ -663,3 +663,6 @@
 
 ### 2024년 6월 12일
 1. How long have you been, for and since/When and How long
+
+### 2024년 6월 13일
+1. Present Perfect and Past 2, Past Perfect
