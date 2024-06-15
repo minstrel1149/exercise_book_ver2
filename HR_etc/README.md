@@ -669,3 +669,6 @@
 
 ### 2024년 6월 14일
 1. Past Perfect Continuous, Have and Have got
+
+### 2024년 6월 15일
+1. Used to (do), Present Tenses with a future meaning
