@@ -675,3 +675,6 @@
 
 ### 2024년 6월 17일
 1. I'm going to (do), Will 1
+
+### 2024년 6월 18일
+1. Will 2, I will and I am going to
