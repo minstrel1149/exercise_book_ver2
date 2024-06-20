@@ -681,3 +681,6 @@
 
 ### 2024년 6월 19일
 1. Will be doing and Will have done, When I do and When I've done
+
+### 2024년 6월 20일
+1. Can/Could and Be able to, Could do and Could have done
