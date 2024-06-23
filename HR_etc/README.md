@@ -690,3 +690,6 @@
 
 ### 2024년 6월 22일
 1. May and Might 2, Have to and Must
+
+### 2024년 6월 23일
+1. Should, Subjunctive(I suggest to do)
