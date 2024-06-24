@@ -693,3 +693,6 @@
 
 ### 2024년 6월 23일
 1. Should, Subjunctive(I suggest to do)
+
+### 2024년 6월 24일
+1. I'd better and It's time, Would
