@@ -696,3 +696,6 @@
 
 ### 2024년 6월 24일
 1. I'd better and It's time, Would
+
+### 2024년 6월 25일
+1. Can/Could/Would you..?, If I do and If I did
