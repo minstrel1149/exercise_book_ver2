@@ -699,3 +699,6 @@
 
 ### 2024년 6월 25일
 1. Can/Could/Would you..?, If I do and If I did
+
+### 2024년 6월 26일
+1. If I knew and I wish I knew, If I had known and I wish I had known
