@@ -702,3 +702,6 @@
 
 ### 2024년 6월 26일
 1. If I knew and I wish I knew, If I had known and I wish I had known
+
+### 2024년 6월 27일
+1. Wish, Passive 1(Is done, Was done)
