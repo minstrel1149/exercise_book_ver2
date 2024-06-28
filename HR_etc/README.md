@@ -705,3 +705,6 @@
 
 ### 2024년 6월 27일
 1. Wish, Passive 1(Is done, Was done)
+
+### 2024년 6월 28일
+1. Passive 2, Passive 3
