@@ -708,3 +708,6 @@
 
 ### 2024년 6월 28일
 1. Passive 2, Passive 3
+
+### 2024년 6월 29일
+1. It is said that and He is supposed to, Have something done
