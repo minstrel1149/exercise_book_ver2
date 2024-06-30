@@ -711,3 +711,6 @@
 
 ### 2024년 6월 29일
 1. It is said that and He is supposed to, Have something done
+
+### 2024년 6월 30일
+1. Reported Speech 1, Reported Speech 2
