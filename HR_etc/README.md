@@ -717,3 +717,6 @@
 
 ### 2024년 7월 1일
 1. Questions 1, Questions 2
+
+### 2024년 7월 2일
+1. Auxiliary Verbs, Tag Questions
