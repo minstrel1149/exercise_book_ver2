@@ -726,3 +726,6 @@
 
 ### 2024년 7월 4일
 1. Verb + Object + to, Verb + -ing or to 1
+
+### 2024년 7월 5일
+1. Verb + -ing or to 2, Verb + -ing or to 3
