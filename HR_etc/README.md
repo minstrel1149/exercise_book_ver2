@@ -729,3 +729,6 @@
 
 ### 2024년 7월 5일
 1. Verb + -ing or to 2, Verb + -ing or to 3
+
+### 2024년 7월 6일
+1. Prefer and Would rather, Preposition + -ing
