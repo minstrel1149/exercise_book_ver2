@@ -732,3 +732,6 @@
 
 ### 2024년 7월 6일
 1. Prefer and Would rather, Preposition + -ing
+
+### 2024년 7월 7일
+1. be/get used to, Verb + Preposition + -ing
