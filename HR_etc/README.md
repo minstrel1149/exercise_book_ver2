@@ -735,3 +735,6 @@
 
 ### 2024년 7월 7일
 1. be/get used to, Verb + Preposition + -ing
+
+### 2024년 7월 8일
+1. There's no point in -ing/It's worth in -ing, to/for and so that
