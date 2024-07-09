@@ -738,3 +738,6 @@
 
 ### 2024년 7월 8일
 1. There's no point in -ing/It's worth in -ing, to/for and so that
+
+### 2024년 7월 9일
+1. Adjective + to, Afraid to do and Afraid of + -ing
