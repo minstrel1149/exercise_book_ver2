@@ -747,3 +747,6 @@
 
 ### 2024년 7월 12일
 1. Count and Noncount Nouns 1, Count and Noncount Nouns 2
+
+### 2024년 7월 13일
+1. Count Nouns with a/an and some, a/an and the
