@@ -756,3 +756,6 @@
 
 ### 2024년 7월 15일
 1. the 3, the 4
+
+### 2024년 7월 17일
+1. Names with and without the 1, Names with and without the 2
