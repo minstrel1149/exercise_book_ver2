@@ -759,3 +759,6 @@
 
 ### 2024년 7월 17일
 1. Names with and without the 1, Names with and without the 2
+
+### 2024년 7월 18일
+1. Singular and Plural, Noun + Noun
