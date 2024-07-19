@@ -762,3 +762,6 @@
 
 ### 2024년 7월 18일
 1. Singular and Plural, Noun + Noun
+
+### 2024년 7월 19일
+1. -'s and of, myself/yourself/themselves
