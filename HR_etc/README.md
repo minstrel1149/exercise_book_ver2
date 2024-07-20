@@ -765,3 +765,6 @@
 
 ### 2024년 7월 19일
 1. -'s and of, myself/yourself/themselves
+
+### 2024년 7월 20일
+1. mine/on my own/by myself, there and it
