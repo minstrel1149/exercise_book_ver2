@@ -768,3 +768,6 @@
 
 ### 2024년 7월 20일
 1. mine/on my own/by myself, there and it
+
+### 2024년 7월 21일
+1. some and any, no/none/any, nothing/nobody
