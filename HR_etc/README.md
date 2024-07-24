@@ -774,3 +774,6 @@
 
 ### 2024년 7월 22일
 1. much/many/little/few/a lot/plenty, all/all of/most/most of/no/none of
+
+### 2024년 7월 24일
+1. both/both of/neither/neither of/either/either of, all/every/whole
