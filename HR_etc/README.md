@@ -777,3 +777,6 @@
 
 ### 2024년 7월 24일
 1. both/both of/neither/neither of/either/either of, all/every/whole
+
+### 2024년 7월 25일
+1. each and every, Relative Clauses 1
