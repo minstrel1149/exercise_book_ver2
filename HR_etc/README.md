@@ -780,3 +780,6 @@
 
 ### 2024년 7월 25일
 1. each and every, Relative Clauses 1
+
+### 2024년 7월 27일
+1. Relative Clauses 2, Relative Clauses 3
