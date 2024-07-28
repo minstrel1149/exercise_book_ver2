@@ -783,3 +783,6 @@
 
 ### 2024년 7월 27일
 1. Relative Clauses 2, Relative Clauses 3
+
+### 2024년 7월 28일
+1. Relative Clauses 4, Relative Clauses 5
