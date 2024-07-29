@@ -786,3 +786,6 @@
 
 ### 2024년 7월 28일
 1. Relative Clauses 4, Relative Clauses 5
+
+### 2024년 7월 29일
+1. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
