@@ -789,3 +789,6 @@
 
 ### 2024년 7월 29일
 1. -ing and -ed Phrases, Adjectives Ending in -ing and -ed
+
+### 2024년 7월 30일
+1. Adjectives, Adjectives and Adverbs 1
