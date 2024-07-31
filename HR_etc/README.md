@@ -792,3 +792,6 @@
 
 ### 2024년 7월 30일
 1. Adjectives, Adjectives and Adverbs 1
+
+### 2024년 7월 31일
+1. Adjectives and Adverbs 2, so and such
