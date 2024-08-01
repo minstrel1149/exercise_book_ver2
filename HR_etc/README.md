@@ -795,3 +795,6 @@
 
 ### 2024년 7월 31일
 1. Adjectives and Adverbs 2, so and such
+
+### 2024년 8월 1일
+1. enough and too, Comparative 1
