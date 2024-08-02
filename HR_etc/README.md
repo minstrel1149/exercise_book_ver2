@@ -798,3 +798,6 @@
 
 ### 2024년 8월 1일
 1. enough and too, Comparative 1
+
+### 2024년 8월 2일
+1. Comparative 2, Comparative 3
