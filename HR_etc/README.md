@@ -801,3 +801,6 @@
 
 ### 2024년 8월 2일
 1. Comparative 2, Comparative 3
+
+### 2024년 8월 4일
+1. Superlative, Word Order 1
