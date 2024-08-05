@@ -804,3 +804,6 @@
 
 ### 2024년 8월 4일
 1. Superlative, Word Order 1
+
+### 2024년 8월 5일
+1. Word Order 2, still/anymore/yet/already
