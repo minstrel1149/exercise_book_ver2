@@ -807,3 +807,6 @@
 
 ### 2024년 8월 5일
 1. Word Order 2, still/anymore/yet/already
+
+### 2024년 8월 7일
+1. even, although/though/even though/in spite of/despite
