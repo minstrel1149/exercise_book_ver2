@@ -810,3 +810,6 @@
 
 ### 2024년 8월 7일
 1. even, although/though/even though/in spite of/despite
+
+### 2024년 8월 8일
+1. in case, unless/as long as/provided
