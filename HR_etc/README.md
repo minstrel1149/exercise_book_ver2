@@ -813,3 +813,6 @@
 
 ### 2024년 8월 8일
 1. in case, unless/as long as/provided
+
+### 2024년 8월 10일
+1. as, like and as
