@@ -816,3 +816,6 @@
 
 ### 2024년 8월 10일
 1. as, like and as
+
+### 2024년 8월 11일
+1. like/as if, during/for/while
