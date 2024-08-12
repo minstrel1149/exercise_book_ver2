@@ -819,3 +819,6 @@
 
 ### 2024년 8월 11일
 1. like/as if, during/for/while
+
+### 2024년 8월 12일
+1. by and until/by the time, at/on/in(Time)
