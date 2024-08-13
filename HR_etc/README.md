@@ -822,3 +822,6 @@
 
 ### 2024년 8월 12일
 1. by and until/by the time, at/on/in(Time)
+
+### 2024년 8월 13일
+1. on time and in time/at the end and in the end, in/at/on(Position) 1
