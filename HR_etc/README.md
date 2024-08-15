@@ -825,3 +825,6 @@
 
 ### 2024년 8월 13일
 1. on time and in time/at the end and in the end, in/at/on(Position) 1
+
+### 2024년 8월 15일
+1. in/at/on(Position) 2, in/at/on(Position) 3
