@@ -828,3 +828,6 @@
 
 ### 2024년 8월 15일
 1. in/at/on(Position) 2, in/at/on(Position) 3
+
+### 2024년 8월 16일
+1. to/at/in and into, in/on/at(Other Uses)
