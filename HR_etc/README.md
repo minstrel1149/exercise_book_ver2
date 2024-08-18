@@ -831,3 +831,6 @@
 
 ### 2024년 8월 16일
 1. to/at/in and into, in/on/at(Other Uses)
+
+### 2024년 8월 18일
+1. by, Noun + Preposition
