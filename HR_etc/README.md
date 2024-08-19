@@ -834,3 +834,6 @@
 
 ### 2024년 8월 18일
 1. by, Noun + Preposition
+
+### 2024년 8월 19일
+1. Adjective + Preposition 1, Adjective + Preposition 2
