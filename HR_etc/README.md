@@ -837,3 +837,6 @@
 
 ### 2024년 8월 19일
 1. Adjective + Preposition 1, Adjective + Preposition 2
+
+### 2024년 8월 20일
+1. Verb + Preposition 1, Verb + Preposition 2
