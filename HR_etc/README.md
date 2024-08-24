@@ -846,3 +846,6 @@
 
 ### 2024년 8월 23일
 1. Verb + Preposition 5, Phrasal Verbs 1
+
+### 2024년 8월 24일
+1. Phrasal Verbs 2, Phrasal Verbs 3
