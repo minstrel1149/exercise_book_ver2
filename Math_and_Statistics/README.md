@@ -1711,3 +1711,13 @@
 ### 2023년 10월 29일
 1. Chapter.14 - 대시보드 되짚어보기 - 월드컵
 2. Chapter.14 - 대시보드 되짚어보기 - 매출 분석
+
+
+## Practical Linear Algebra for Data Science(원서)
+### 2024년 8월 29일
+1. Chapter.1 - Introduction
+    - What is Linear Algebra and why learn it?
+    - About this book
+    - Prerequisites
+    - Mathematical proofs versus Intuition from coding
+    - Code exercises
