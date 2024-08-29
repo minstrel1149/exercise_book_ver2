@@ -1721,3 +1721,6 @@
     - Prerequisites
     - Mathematical proofs versus Intuition from coding
     - Code exercises
+2. Chapter.2 - Vectors, Part 1
+    - Creating and visualizing Vectors in Numpy
+    - Operations on Vectors(~ing)
