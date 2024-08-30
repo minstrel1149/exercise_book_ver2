@@ -1721,13 +1721,14 @@
     - Prerequisites
     - Mathematical proofs versus Intuition from coding
     - Code exercises
-2. Chapter.2 - Vectors, Part 1(~ing)
+2. Chapter.2 - Vectors, Part 1
     - Creating and visualizing Vectors in Numpy
     - Operations on Vectors
     - Vector magnitude and Unit Vectors
 
 ### 2024년 8월 30일
-1. Chapter.2 - Vectors, Part 1(~ing)
+1. Chapter.2 - Vectors, Part 1
     - The Vector dot product
     - Other Vector multiplications
-    - Orthogonal Vector decomposition(~ing)
+    - Orthogonal Vector decomposition
+    - Summary and Code exercises
