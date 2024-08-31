@@ -1745,3 +1745,4 @@
     - Correlation and Cosine similarity
     - Time series filtering and Feature detection
     - K-means clustering
+    - Code exercises
