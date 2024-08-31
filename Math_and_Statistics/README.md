@@ -1739,3 +1739,5 @@
     - Linear weighted combination
     - Linear independence
     - Subspace and Span
+    - Basis
+    - Summary and Code exercises
