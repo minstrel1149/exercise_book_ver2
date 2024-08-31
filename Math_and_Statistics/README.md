@@ -1746,3 +1746,8 @@
     - Time series filtering and Feature detection
     - K-means clustering
     - Code exercises
+
+### 2024년 9월 1일
+1. Chapter.5 - Matrices, Part 1
+    - Creating and visualizing Matrices in Numpy
+    - Matrix Math: Addition, Scalar Multiplication, Hadamard Multiplication
