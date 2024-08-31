@@ -1741,3 +1741,7 @@
     - Subspace and Span
     - Basis
     - Summary and Code exercises
+2. Chapter.4 - Vector applications
+    - Correlation and Cosine similarity
+    - Time series filtering and Feature detection
+    - K-means clustering
