@@ -1758,4 +1758,5 @@
 2. Chapter.6 - Matrices, Part 2(~ing)
     - Matrix Norms
     - Matrix Spaces(Column, Row, Nulls)
-    - Rank(~ing)
+    - Rank
+    - Rank applications
