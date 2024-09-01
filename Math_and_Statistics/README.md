@@ -1760,3 +1760,4 @@
     - Matrix Spaces(Column, Row, Nulls)
     - Rank
     - Rank applications
+    - Determinant
