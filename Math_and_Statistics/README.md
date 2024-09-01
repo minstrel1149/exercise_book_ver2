@@ -1753,3 +1753,5 @@
     - Matrix Math: Addition, Scalar multiplication, Hadamard multiplication
     - Standard Matrix multiplication
     - Matrix operations: Transpose and LIVE EVIL
+    - Symmetric Matrices
+    - Summary and Code exercises
