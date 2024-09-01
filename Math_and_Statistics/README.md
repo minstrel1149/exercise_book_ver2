@@ -1761,3 +1761,7 @@
     - Rank
     - Rank applications
     - Determinant
+
+### 2024년 9월 2일
+1. Chapter.6 - Matrices, Part 2
+    - Summary and Code exercises
