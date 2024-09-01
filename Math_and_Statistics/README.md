@@ -1755,3 +1755,6 @@
     - Matrix operations: Transpose and LIVE EVIL
     - Symmetric Matrices
     - Summary and Code exercises
+2. Chapter.6 - Matrices, Part 2(~ing)
+    - Matrix Norms
+    - Matrix Spaces(Column, Row, Nulls)(~ing)
