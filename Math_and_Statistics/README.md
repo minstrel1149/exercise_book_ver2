@@ -1765,3 +1765,6 @@
 ### 2024년 9월 2일
 1. Chapter.6 - Matrices, Part 2
     - Summary and Code exercises
+2. Chapter.7 - Matrix applications
+    - Multivariate Data Covariance Matrices
+    - Geometric Transformations via Matrix-Vector multiplication
