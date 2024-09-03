@@ -1772,3 +1772,4 @@
 ### 2024년 9월 3일
 1. Chapter.7 - Matrix applications
     - Image Feature detection
+    - Summary and Code exercises
