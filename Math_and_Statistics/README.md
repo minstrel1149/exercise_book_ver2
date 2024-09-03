@@ -1773,3 +1773,9 @@
 1. Chapter.7 - Matrix applications
     - Image Feature detection
     - Summary and Code exercises
+
+### 2024년 9월 4일
+1. Chapter.8 - Matrix Inverse
+    - The Matrix Inverse
+    - Types of Inverses and conditions for Invertibility
+    - Computing the Inverse(~ing)
