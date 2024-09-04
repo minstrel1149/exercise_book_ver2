@@ -1787,4 +1787,5 @@
 2. Chapter.9 - Orthogonal Matrices and QR Decomposition
     - Orthgonal Matrices
     - Gram-Schmidt
-    - QR Decomposition(~ing)
+    - QR Decomposition
+    - Summary and Code exercises
