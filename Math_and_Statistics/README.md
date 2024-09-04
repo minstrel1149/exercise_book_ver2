@@ -1784,3 +1784,7 @@
     - Numerical stability of the Inverse
     - Geometric interpretation of the Inverse
     - Summary and Code exercises
+2. Chapter.9 - Orthogonal Matrices and QR Decomposition
+    - Orthgonal Matrices
+    - Gram-Schmidt
+    - QR Decomposition(~ing)
