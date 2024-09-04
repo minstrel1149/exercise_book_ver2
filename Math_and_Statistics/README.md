@@ -1782,3 +1782,5 @@
     - The Inverse is unique
     - Moore-Penrose Pseudoinverse
     - Numerical stability of the Inverse
+    - Geometric interpretation of the Inverse
+    - Summary and Code exercises
