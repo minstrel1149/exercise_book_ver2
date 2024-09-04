@@ -1778,4 +1778,7 @@
 1. Chapter.8 - Matrix Inverse
     - The Matrix Inverse
     - Types of Inverses and conditions for Invertibility
-    - Computing the Inverse(~ing)
+    - Computing the Inverse
+    - The Inverse is unique
+    - Moore-Penrose Pseudoinverse
+    - Numerical stability of the Inverse
