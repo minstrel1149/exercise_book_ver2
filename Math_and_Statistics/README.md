@@ -1789,3 +1789,8 @@
     - Gram-Schmidt
     - QR Decomposition
     - Summary and Code exercises
+
+### 2024년 9월 5일
+1. Row reduction and LU Decomposition(~ing)
+    - Systems of Equations
+    - Row reduction(~ing)
