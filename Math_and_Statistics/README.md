@@ -1791,6 +1791,8 @@
     - Summary and Code exercises
 
 ### 2024년 9월 5일
-1. Row reduction and LU Decomposition(~ing)
+1. Row reduction and LU Decomposition
     - Systems of Equations
-    - Row reduction(~ing)
+    - Row reduction
+    - LU Decomposition
+    - Summary and Code exercises
