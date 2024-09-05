@@ -1791,8 +1791,13 @@
     - Summary and Code exercises
 
 ### 2024년 9월 5일
-1. Row reduction and LU Decomposition
+1. Chapter.10 - Row reduction and LU Decomposition
     - Systems of Equations
     - Row reduction
     - LU Decomposition
     - Summary and Code exercises
+
+### 2024년 9월 6일
+1. Chapter.11 - General Linear Models and Least Squares(~ing)
+    - General Linear Models
+    - Solving GLMs(~ing)
