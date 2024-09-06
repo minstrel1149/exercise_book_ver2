@@ -1800,4 +1800,6 @@
 ### 2024년 9월 6일
 1. Chapter.11 - General Linear Models and Least Squares(~ing)
     - General Linear Models
-    - Solving GLMs(~ing)
+    - Solving GLMs
+    - GLM in a simple example
+    - Least Squares via QR
