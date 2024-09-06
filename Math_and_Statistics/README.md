@@ -1803,3 +1803,4 @@
     - Solving GLMs
     - GLM in a simple example
     - Least Squares via QR
+    - Summary and Code exercises
