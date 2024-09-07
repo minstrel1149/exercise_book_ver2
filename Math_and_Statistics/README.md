@@ -1820,3 +1820,4 @@
     - Eigendecomposition of Singular Matrices
     - Quadratic Form, Definiteness, and Eigenvalues
     - Generalized Eigendecomposition
+    - Summary and Code exercises
