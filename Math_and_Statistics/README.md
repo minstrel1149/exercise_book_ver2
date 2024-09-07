@@ -1810,3 +1810,4 @@
     - Predicting bike rentals based on weather
     - Polynomial Regression
     - Grid Search to find Model Parameters
+    - Summary and Code exercises
