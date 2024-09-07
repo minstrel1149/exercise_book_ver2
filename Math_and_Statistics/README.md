@@ -1814,3 +1814,6 @@
 2. Chapter.13 - Eigendecomposition
     - Interpretation of Eigenvalues and Eigenvectors
     - Finding Eigenvalues
+    - Finding Eigenvectors
+    - Diagonalizing a Square Matrix
+    - The special awesomeness of Symmetric Matrices
