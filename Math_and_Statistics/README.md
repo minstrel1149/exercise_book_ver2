@@ -1811,3 +1811,6 @@
     - Polynomial Regression
     - Grid Search to find Model Parameters
     - Summary and Code exercises
+2. Chapter.13 - Eigendecomposition
+    - Interpretation of Eigenvalues and Eigenvectors
+    - Finding Eigenvalues
