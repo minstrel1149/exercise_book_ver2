@@ -1817,3 +1817,6 @@
     - Finding Eigenvectors
     - Diagonalizing a Square Matrix
     - The special awesomeness of Symmetric Matrices
+    - Eigendecomposition of Singular Matrices
+    - Quadratic Form, Definiteness, and Eigenvalues
+    - Generalized Eigendecomposition
