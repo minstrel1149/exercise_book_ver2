@@ -1834,4 +1834,4 @@
     - PCA using Eigendecomposition and SVD
     - Linear Discriminant Analysis
     - Low-Rank approximations via SVD
-    - Summary and Code exercises(~ing)
+    - Summary and Code exercises
