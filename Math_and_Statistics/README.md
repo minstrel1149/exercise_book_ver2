@@ -1835,3 +1835,9 @@
     - Linear Discriminant Analysis
     - Low-Rank approximations via SVD
     - Summary and Code exercises
+
+### 2024년 9월 9일
+1. Chapter.16 - Python tutorial
+    - Why Python and what are the alternatives
+    - Variables
+    - Functions
