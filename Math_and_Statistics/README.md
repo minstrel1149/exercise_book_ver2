@@ -1830,3 +1830,5 @@
     - SVD from EIG
     - SVD and the MP Pseudoinverse
     - Summary and Code exercises
+2. Chapter.15 - Eigendecomposition and SVD Applications
+    - PCA using Eigendecomposition and SVD
