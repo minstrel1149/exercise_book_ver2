@@ -1832,3 +1832,5 @@
     - Summary and Code exercises
 2. Chapter.15 - Eigendecomposition and SVD Applications
     - PCA using Eigendecomposition and SVD
+    - Linear Discriminant Analysis
+    - Low-Rank approximations via SVD
