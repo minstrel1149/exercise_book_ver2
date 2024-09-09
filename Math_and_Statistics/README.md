@@ -1841,3 +1841,5 @@
     - Why Python and what are the alternatives
     - Variables
     - Functions
+    - Visualization
+    - Print Formatting and F-strings
