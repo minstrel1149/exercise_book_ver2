@@ -1843,3 +1843,5 @@
     - Functions
     - Visualization
     - Print Formatting and F-strings
+    - Control Flow
+    - Measuring computation time
