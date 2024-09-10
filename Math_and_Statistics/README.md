@@ -1845,3 +1845,11 @@
     - Print Formatting and F-strings
     - Control Flow
     - Measuring computation time
+
+### 2024년 9월 11일
+1. Chapter.1 - Introduction
+    - What is Linear Algebra and why learn it?
+    - About this book
+    - Mathematical proofs versus Intuition from coding
+    - Code, printed in the book and Downloadable online
+    - Code exercises
