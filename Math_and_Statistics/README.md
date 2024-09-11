@@ -1853,3 +1853,6 @@
     - Mathematical proofs versus Intuition from coding
     - Code, printed in the book and Downloadable online
     - Code exercises
+2. Chapter.2 - Vectors, Part 1
+    - Creating and visualizing Vectors in Numpy
+    - Operations on Vectors(~ing)
