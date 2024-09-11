@@ -1859,3 +1859,5 @@
     - Vector Magnitude and Unit Vectors
     - The Vector Dot Product
     - Other Vector multiplications
+    - Orthogonal Vector Decomposition
+    - Summary and Code exercises
