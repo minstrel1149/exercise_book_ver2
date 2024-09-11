@@ -1857,4 +1857,5 @@
     - Creating and visualizing Vectors in Numpy
     - Operations on Vectors
     - Vector Magnitude and Unit Vectors
-    - The Vector Dot Product(~ing)
+    - The Vector Dot Product
+    - Other Vector multiplications
