@@ -1861,3 +1861,10 @@
     - Other Vector multiplications
     - Orthogonal Vector Decomposition
     - Summary and Code exercises
+
+### 2024년 9월 12일
+1. Chapter.3 - Vectors, Part 2(~ing)
+    - Vector Sets
+    - Linear Weighted Combination
+    - Linear Independence
+    - Subspace and Span
