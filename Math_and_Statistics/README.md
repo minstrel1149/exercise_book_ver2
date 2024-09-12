@@ -1868,3 +1868,8 @@
     - Linear Weighted Combination
     - Linear Independence
     - Subspace and Span
+
+### 2024년 9월 13일
+1. Chapter.3 - Vectors, Part 2
+    - Basis
+    - Summary and Code Exercises
