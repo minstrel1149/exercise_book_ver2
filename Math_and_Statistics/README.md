@@ -1873,3 +1873,9 @@
 1. Chapter.3 - Vectors, Part 2
     - Basis
     - Summary and Code Exercises
+
+### 2024년 9월 14일
+1. Chapter.4 - Vector applications
+    - Correlation and Cosine similarity
+    - Time Series Filtering and Feature Detection
+    - K-Means Clustering
