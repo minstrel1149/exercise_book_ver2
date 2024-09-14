@@ -1879,3 +1879,6 @@
     - Correlation and Cosine similarity
     - Time Series Filtering and Feature Detection
     - K-Means Clustering
+    - Summary and Code Exercises
+2. Chapter.5 - Matrices, Part 1
+    - Creating and Visualizing Matrices in Numpy
