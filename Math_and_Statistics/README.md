@@ -1880,8 +1880,14 @@
     - Time Series Filtering and Feature Detection
     - K-Means Clustering
     - Summary and Code Exercises
-2. Chapter.5 - Matrices, Part 1
+2. Chapter.5 - Matrices, Part 1(~ing)
     - Creating and Visualizing Matrices in Numpy
     - Matrix Math: Addition, Scalar multiplication, Hadamard multiplication
     - Standard Matrix multiplication
     - Matrix operations: Transpose
+
+### 2024년 9월 15일
+1. Chapter.5 - Matrices, Part 1
+    - Matrix operations: LIVE EVIL
+    - Symmetric Matrices
+    - Summary and Code Exercises
