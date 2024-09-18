@@ -1893,6 +1893,7 @@
     - Summary and Code Exercises
 
 ### 2024년 9월 18일
-1. Chapter.6 - Matrices, Part 2
+1. Chapter.6 - Matrices, Part 2(~ing)
     - Matrix Norms
-    - Matrix Spaces(Column, Row, Nulls)(~ing)
+    - Matrix Spaces(Column, Row, Nulls)
+    - Rank(~ing)
