@@ -1891,3 +1891,8 @@
     - Matrix operations: LIVE EVIL
     - Symmetric Matrices
     - Summary and Code Exercises
+
+### 2024년 9월 18일
+1. Chapter.6 - Matrices, Part 2
+    - Matrix Norms
+    - Matrix Spaces(Column, Row, Nulls)(~ing)
