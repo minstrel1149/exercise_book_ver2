@@ -1904,3 +1904,8 @@
     - Rank Applications
     - Determinant
     - Summary and Code Exercises
+
+### 2024년 9월 20일
+1. Chapter.7 - Matrix Applications
+    - Multivariate Data Covariance Matrices
+    - Geometric Transformation via Matrix-Vector multiplication
