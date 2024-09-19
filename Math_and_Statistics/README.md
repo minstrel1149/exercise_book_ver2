@@ -1902,4 +1902,5 @@
 1. Chapter.6 - Matrices, Part 2
     - Rank
     - Rank Applications
-    - Determinant(~ing)
+    - Determinant
+    - Summary and Code Exercises
