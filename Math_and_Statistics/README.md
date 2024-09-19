@@ -1897,3 +1897,9 @@
     - Matrix Norms
     - Matrix Spaces(Column, Row, Nulls)
     - Rank(~ing)
+
+### 2024년 9월 19일
+1. Chapter.6 - Matrices, Part 2
+    - Rank
+    - Rank Applications
+    - Determinant(~ing)
