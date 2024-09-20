@@ -1909,3 +1909,5 @@
 1. Chapter.7 - Matrix Applications
     - Multivariate Data Covariance Matrices
     - Geometric Transformation via Matrix-Vector multiplication
+    - Image Feature Detection
+    - Summary and Code Exercises
