@@ -1918,3 +1918,7 @@
     - Types of Inverses and Conditions for Invertibility
     - Computing the Inverse
     - The Inverse is unique
+    - Moore-Penrose Pseudoinverse
+    - Numerical stability of the Inverse
+    - Geometric interpretation of the Inverse
+    - Summary and Code Exercises
