@@ -1911,3 +1911,10 @@
     - Geometric Transformation via Matrix-Vector multiplication
     - Image Feature Detection
     - Summary and Code Exercises
+
+### 2024년 9월 21일
+1. Chapter.8 - Matrix Inverse(~ing)
+    - The Matrix Inverse
+    - Types of Inverses and Conditions for Invertibility
+    - Computing the Inverse
+    - The Inverse is unique
