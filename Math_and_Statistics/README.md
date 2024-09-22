@@ -1931,3 +1931,5 @@
     - Summary and Code Exercises
 2. Chapter.10 - Row Reduction and LU Decomposition
     - Systems of Equations
+    - Row Reduction
+    - LU Decomposition
