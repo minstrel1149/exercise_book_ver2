@@ -1928,3 +1928,6 @@
     - Orthogonal Matrices
     - Gram-Schmidt
     - QR Decomposition
+    - Summary and Code Exercises
+2. Chapter.10 - Row Reduction and LU Decomposition
+    - Systems of Equations
