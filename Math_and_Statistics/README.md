@@ -1933,3 +1933,4 @@
     - Systems of Equations
     - Row Reduction
     - LU Decomposition
+    - Summary and Code Exercises
