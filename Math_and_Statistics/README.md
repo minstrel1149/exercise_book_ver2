@@ -1913,7 +1913,7 @@
     - Summary and Code Exercises
 
 ### 2024년 9월 21일
-1. Chapter.8 - Matrix Inverse(~ing)
+1. Chapter.8 - Matrix Inverse
     - The Matrix Inverse
     - Types of Inverses and Conditions for Invertibility
     - Computing the Inverse
@@ -1922,3 +1922,9 @@
     - Numerical stability of the Inverse
     - Geometric interpretation of the Inverse
     - Summary and Code Exercises
+
+### 2024년 9월 22일
+1. Chapter.9 - Orthogonal Matrices and QR Decomposition
+    - Orthogonal Matrices
+    - Gram-Schmidt
+    - QR Decomposition
