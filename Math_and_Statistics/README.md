@@ -1934,3 +1934,8 @@
     - Row Reduction
     - LU Decomposition
     - Summary and Code Exercises
+
+### 2024년 9월 23일
+1. Chapter.11 - General Linear Models and Least Squares
+    - General Linear Models
+    - Solving GLMs
