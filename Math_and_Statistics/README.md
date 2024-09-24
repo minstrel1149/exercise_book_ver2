@@ -1942,3 +1942,7 @@
     - GLM in a simple example
     - Least Squares via QR
     - Summary and Code Exercises
+
+### 2024년 9월 24일
+1. Chapter.12 - Least Squares Applications(~ing)
+    - Predicting Bike rentals based on weather
