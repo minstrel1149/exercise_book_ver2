@@ -1946,3 +1946,8 @@
 ### 2024년 9월 24일
 1. Chapter.12 - Least Squares Applications(~ing)
     - Predicting Bike rentals based on weather
+
+### 2024년 9월 25일
+1. Chapter.12 - Least Squares Applications
+    - Polynomial Regression
+    - Grid Search to find Model Parameter
