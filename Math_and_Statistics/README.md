@@ -1951,3 +1951,6 @@
 1. Chapter.12 - Least Squares Applications
     - Polynomial Regression
     - Grid Search to find Model Parameter
+    - Summary and Code Exercises
+2. Chapter.13 - Eigendecomposition
+    - Interpretations of Eigenvalues and Eigenvectors
