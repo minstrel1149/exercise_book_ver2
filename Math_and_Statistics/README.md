@@ -1954,3 +1954,7 @@
     - Summary and Code Exercises
 2. Chapter.13 - Eigendecomposition
     - Interpretations of Eigenvalues and Eigenvectors
+    - Finding Eigenvalues
+    - Finding Eigenvectors
+    - Diagonalizing a Square Matrix
+    - The special awesomeness of Symmetric Matrices(~ing)
