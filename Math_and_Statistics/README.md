@@ -1961,3 +1961,4 @@
     - Eigendecomposition of Singular Matrices
     - Quadratic form, Defineteness, and Eigenvalues
     - Generalized Eigendecomposition
+    - Summary and Code Exercises
