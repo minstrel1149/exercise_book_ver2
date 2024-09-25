@@ -1957,4 +1957,7 @@
     - Finding Eigenvalues
     - Finding Eigenvectors
     - Diagonalizing a Square Matrix
-    - The special awesomeness of Symmetric Matrices(~ing)
+    - The special awesomeness of Symmetric Matrices
+    - Eigendecomposition of Singular Matrices
+    - Quadratic form, Defineteness, and Eigenvalues
+    - Generalized Eigendecomposition
