@@ -1962,3 +1962,10 @@
     - Quadratic form, Defineteness, and Eigenvalues
     - Generalized Eigendecomposition
     - Summary and Code Exercises
+
+### 2024년 9월 27일
+1. Chapter.14 - Singular Value Decomposition
+    - The Big picture of the SVD
+    - SVD in Python
+    - SVD and Rank-1 Layers of a Matrix
+    - SVD from EIG(~ing)
