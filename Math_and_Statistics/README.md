@@ -1968,4 +1968,6 @@
     - The Big picture of the SVD
     - SVD in Python
     - SVD and Rank-1 Layers of a Matrix
-    - SVD from EIG(~ing)
+    - SVD from EIG
+    - SVD and the MP Pseudoinverse
+    - Summary and Code Exercises
