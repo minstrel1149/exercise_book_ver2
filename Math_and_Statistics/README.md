@@ -1977,4 +1977,4 @@
     - PCA using Eigendecomposition and SVD
     - Linear Discriminant Analysis
     - Low-Rank Approximations via SVD
-    - Summary and Code Exercises(~ing)
+    - Summary and Code Exercises
