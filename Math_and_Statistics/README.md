@@ -1971,3 +1971,9 @@
     - SVD from EIG
     - SVD and the MP Pseudoinverse
     - Summary and Code Exercises
+
+### 2024년 9월 28일
+1. Chapter.15 - Eigendecomposition and SVD Applications
+    - PCA using Eigendecomposition and SVD
+    - Linear Discriminant Analysis
+    - Low-Rank Approximations via SVD
