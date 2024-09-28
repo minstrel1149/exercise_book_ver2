@@ -1978,3 +1978,11 @@
     - Linear Discriminant Analysis
     - Low-Rank Approximations via SVD
     - Summary and Code Exercises
+
+
+## Mathematics for Machine Learning(원서)
+### 2024년 9월 29일
+1. Chapter.1 - Introduction and Motivation(~ing)
+    - Finding words for intuitions
+    - Two ways to read this book
+    - Exercises and Feedback
