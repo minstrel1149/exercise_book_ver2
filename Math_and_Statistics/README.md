@@ -1982,7 +1982,11 @@
 
 ## Mathematics for Machine Learning(원서)
 ### 2024년 9월 29일
-1. Chapter.1 - Introduction and Motivation(~ing)
+1. Chapter.1 - Introduction and Motivation
     - Finding words for intuitions
     - Two ways to read this book
     - Exercises and Feedback
+2. Chapter.2 - Linear Algebra(~ing)
+    - Systems of Linear Equations
+    - Matrices(~ing)
+        - Matrix Addition and Multiplication
