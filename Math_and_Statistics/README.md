@@ -1987,6 +1987,12 @@
     - Two ways to read this book
     - Exercises and Feedback
 2. Chapter.2 - Linear Algebra(~ing)
-    - Systems of Linear Equations
-    - Matrices(~ing)
+    - 2.1 Systems of Linear Equations
+    - 2.2 Matrices
         - Matrix Addition and Multiplication
+        - Inverse and Transpose
+        - Multiplication by a Scalar
+        - Compact representations of Systems of Linear Equations
+    - 2.3 Solving Systems of Linear Equations
+        - Particular and General Solution
+        - Elementary Transformations(~ing)
