@@ -1995,4 +1995,8 @@
         - Compact representations of Systems of Linear Equations
     - 2.3 Solving Systems of Linear Equations
         - Particular and General Solution
-        - Elementary Transformations(~ing)
+        - Elementary Transformations
+        - The Minus-1 Trick
+        - Algorithms for Solving a System of Linear Equations
+    - 2.4 Vector Spaces
+        - Groups
