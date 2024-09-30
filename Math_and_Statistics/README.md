@@ -2013,3 +2013,6 @@
         - Matrix representation of Linear Mappings
         - Basis Change
         - Image and Kernel
+    - 2.8 Affine Spaces
+        - Affine Subspaces
+        - Affine Mappings
