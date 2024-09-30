@@ -2011,4 +2011,5 @@
 1. Chapter.2 - Linear Algebra(~ing)
     - 2.7 Linear Mappings
         - Matrix representation of Linear Mappings
-        - Basis Change(~ing)
+        - Basis Change
+        - Image and Kernel
