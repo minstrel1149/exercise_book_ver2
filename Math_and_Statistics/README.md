@@ -2038,3 +2038,7 @@
         - Rotations in R^2 and R^3
         - Rotations in n-Dimensions
         - Properties of Rotations
+
+### 2024년 10월 2일
+1. Chapter.4 - Matrix Decompositions
+    - 4.1 Determinant and Trace
