@@ -2029,3 +2029,6 @@
     - 3.5 Orthonormal Basis
     - 3.6 Orthogonal Complement
     - 3.7 Inner Product of Functions
+    - 3.8 Orthogonal Projections
+        - Projection onto One-Dimensional Subspaces(Lines)
+        - Projection onto General Subspaces(~ing)
