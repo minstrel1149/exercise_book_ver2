@@ -2008,7 +2008,7 @@
         - Rank
 
 ### 2024년 9월 30일
-1. Chapter.2 - Linear Algebra(~ing)
+1. Chapter.2 - Linear Algebra
     - 2.7 Linear Mappings
         - Matrix representation of Linear Mappings
         - Basis Change
@@ -2016,3 +2016,12 @@
     - 2.8 Affine Spaces
         - Affine Subspaces
         - Affine Mappings
+
+### 2024년 10월 1일
+1. Chapter.3 - Analytic Geometry
+    - 3.1 Norms
+    - 3.2 Inner Products
+        - Dot Product
+        - General Inner Products
+        - Symmetric, Positive Definite Matrices
+    - 3.3 Length and Distances
