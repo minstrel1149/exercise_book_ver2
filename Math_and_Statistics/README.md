@@ -2025,3 +2025,7 @@
         - General Inner Products
         - Symmetric, Positive Definite Matrices
     - 3.3 Length and Distances
+    - 3.4 Angles and Orthogonality
+    - 3.5 Orthonormal Basis
+    - 3.6 Orthogonal Complement
+    - 3.7 Inner Product of Functions
