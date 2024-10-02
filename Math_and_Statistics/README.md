@@ -2042,3 +2042,5 @@
 ### 2024년 10월 2일
 1. Chapter.4 - Matrix Decompositions
     - 4.1 Determinant and Trace
+    - 4.2 Eigenvalues and Eigenvectors
+        - Graphical Intuition in Two Dimensions(~ing)
