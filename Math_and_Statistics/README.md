@@ -2063,4 +2063,6 @@
     - 5.2 Partial Differentiation and Gradients
         - Basic Rules of Partial Differentiation
         - Chain Rule
-    - 5.3 Gradients of Vector-valued Functions(~ing)
+    - 5.3 Gradients of Vector-valued Functions
+    - 5.4 Gradients of Matrices
+    - 5.5 Useful Identities for Computing Gradients
