@@ -2060,3 +2060,7 @@
     - 5.1 Differentiation of Univariate Functions
         - Taylor Series
         - Differentiation Rules
+    - 5.2 Partial Differentiation and Gradients
+        - Basic Rules of Partial Differentiation
+        - Chain Rule
+    - 5.3 Gradients of Vector-valued Functions(~ing)
