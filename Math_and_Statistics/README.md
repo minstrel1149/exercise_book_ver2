@@ -2056,3 +2056,7 @@
         - Eigenvalue Decomposition vs Singular Value Decomposition
     - 4.6 Matrix Approximation
     - 4.7 Matrix Phylogeny
+2. Chapter.5 - Vector Calculus(~ing)
+    - 5.1 Differentiation of Univariate Functions
+        - Taylor Series
+        - Differentiation Rules
