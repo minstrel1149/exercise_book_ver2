@@ -2074,3 +2074,8 @@
         - Automatic Differentiation
     - 5.7 Higher-Order Derivatives
     - 5.8 Linearization and Multivariate Taylor Series
+2. Chapter.6 - Probability and Distributions(~ing)
+    - 6.1 Construction of a Probability Space
+        - Philosophical Issues
+        - Probability and Random Variables
+        - Statistics
