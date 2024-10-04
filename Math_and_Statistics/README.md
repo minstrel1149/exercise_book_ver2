@@ -2066,3 +2066,10 @@
     - 5.3 Gradients of Vector-valued Functions
     - 5.4 Gradients of Matrices
     - 5.5 Useful Identities for Computing Gradients
+
+### 2024년 10월 4일
+1. Chapter.5 - Vector Calculus
+    - 5.6 Backpropagation and Automatic Differentiation
+        - Gradients in a Deep Network
+        - Automatic Differentiation
+    - 5.7 Higher-Order Derivatives
