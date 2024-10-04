@@ -2073,3 +2073,4 @@
         - Gradients in a Deep Network
         - Automatic Differentiation
     - 5.7 Higher-Order Derivatives
+    - 5.8 Linearization and Multivariate Taylor Series
