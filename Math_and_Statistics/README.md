@@ -2102,3 +2102,4 @@
     - 6.6 Conjugacy and the Exponential Family
         - Conjugacy
         - Sufficient Statistics
+        - Exponential Family
