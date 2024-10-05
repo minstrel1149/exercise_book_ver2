@@ -2103,3 +2103,8 @@
         - Conjugacy
         - Sufficient Statistics
         - Exponential Family
+
+### 2024년 10월 6일
+1. Chapter.6 - Probability and Distributions
+    - 6.7 Change of Variables/Inverse Transform
+        - Distribution Function Technique
