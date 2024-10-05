@@ -2099,3 +2099,6 @@
         - Product of Gaussian Densities
         - Sums and Linear Transformations
         - Sampling from Multivariate Gaussian Distributions
+    - 6.6 Conjugacy and the Exponential Family
+        - Conjugacy
+        - Sufficient Statistics
