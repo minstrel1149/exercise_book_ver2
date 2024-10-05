@@ -2095,3 +2095,7 @@
         - Statistical Independence
         - Inner Products of Random Variables
     - 6.5 Gaussian Distribution
+        - Marginals and Conditionals of Gaussians are Gaussians
+        - Product of Gaussian Densities
+        - Sums and Linear Transformations
+        - Sampling from Multivariate Gaussian Distributions
