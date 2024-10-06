@@ -2113,3 +2113,5 @@
     - 7.1 Optimization Using Gradient Descent
         - Step-Size
         - Gradient Descent with Momentum
+        - Stochastic Gradient Descent
+    - 7.2 Constrained Optimization and Lagrange Multipliers
