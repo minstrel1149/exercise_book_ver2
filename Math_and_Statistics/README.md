@@ -2108,3 +2108,4 @@
 1. Chapter.6 - Probability and Distributions
     - 6.7 Change of Variables/Inverse Transform
         - Distribution Function Technique
+        - Change of Variables
