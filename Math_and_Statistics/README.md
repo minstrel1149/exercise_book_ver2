@@ -2109,3 +2109,7 @@
     - 6.7 Change of Variables/Inverse Transform
         - Distribution Function Technique
         - Change of Variables
+2. Chapter.7 - Continuous Optimization(~ing)
+    - 7.1 Optimization Using Gradient Descent
+        - Step-Size
+        - Gradient Descent with Momentum
