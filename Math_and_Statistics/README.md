@@ -2115,3 +2115,9 @@
         - Gradient Descent with Momentum
         - Stochastic Gradient Descent
     - 7.2 Constrained Optimization and Lagrange Multipliers
+
+### 2024년 10월 7일
+1. Chapter.7 - Continuous Optimization
+    - 7.3 Convex Optimization
+        - Linear Programming
+        - Quadratic Programming
