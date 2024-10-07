@@ -2121,3 +2121,4 @@
     - 7.3 Convex Optimization
         - Linear Programming
         - Quadratic Programming
+        - Legendre-Fenchel Transform and Convex Conjugate
