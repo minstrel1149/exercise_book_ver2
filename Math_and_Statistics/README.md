@@ -2122,3 +2122,10 @@
         - Linear Programming
         - Quadratic Programming
         - Legendre-Fenchel Transform and Convex Conjugate
+
+### 2024년 10월 10일
+1. Chapter.8 - When Models Meet Data(~ing)
+    - 8.1 Data, Models, and Learning
+        - Data as Vectors
+        - Models as Functions
+        - Models as Probability Distributions
