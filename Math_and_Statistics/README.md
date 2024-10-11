@@ -2129,3 +2129,7 @@
         - Data as Vectors
         - Models as Functions
         - Models as Probability Distributions
+        - Learning is Finding Parameters
+    - 8.2 Empirical Risk Minimization
+        - Hypothesis Class of Functions
+        - Loss Function for Training
