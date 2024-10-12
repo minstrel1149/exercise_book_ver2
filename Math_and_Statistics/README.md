@@ -2145,3 +2145,6 @@
         - Model Fitting
     - 8.4 Probabilistic Modeling and Inference
         - Probabilistic Models
+        - Latent-Variable Models
+    - 8.5 Directed Graphical Models
+        - 
