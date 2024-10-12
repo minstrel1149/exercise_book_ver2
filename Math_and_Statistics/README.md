@@ -2123,13 +2123,21 @@
         - Quadratic Programming
         - Legendre-Fenchel Transform and Convex Conjugate
 
-### 2024년 10월 10일
+### 2024년 10월 11일
 1. Chapter.8 - When Models Meet Data(~ing)
     - 8.1 Data, Models, and Learning
         - Data as Vectors
         - Models as Functions
         - Models as Probability Distributions
         - Learning is Finding Parameters
-    - 8.2 Empirical Risk Minimization
+    - 8.2 Empirical Risk Minimization(~ing)
         - Hypothesis Class of Functions
         - Loss Function for Training
+
+### 2024년 10월 12일
+1. Chapter.8 - When Models Meet Data(~ing)
+    - 8.2 Empirical Risk Minimization
+        - Regularization to Reduce Overfitting
+        - Cross-Validation to Assess the Generalization Performance
+    - 8.3 Parameter Estimation
+        - Maximum Likelihood Estimation
