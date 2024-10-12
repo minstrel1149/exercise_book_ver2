@@ -2149,3 +2149,7 @@
     - 8.5 Directed Graphical Models
         - Graph Semantics
         - Conditional Independence and d-Separation
+    - 8.6 Model Selection
+        - Nested Cross-Validation
+        - Bayesian Model Selection
+        - Bayes Factors for Model Comparison
