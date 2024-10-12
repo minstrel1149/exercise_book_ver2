@@ -2141,3 +2141,7 @@
         - Cross-Validation to Assess the Generalization Performance
     - 8.3 Parameter Estimation
         - Maximum Likelihood Estimation
+        - Maximum A Posteriori Estimation
+        - Model Fitting
+    - 8.4 Probabilistic Modeling and Inference
+        - Probabilistic Models
