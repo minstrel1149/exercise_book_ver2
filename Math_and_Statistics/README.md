@@ -2135,7 +2135,7 @@
         - Loss Function for Training
 
 ### 2024년 10월 12일
-1. Chapter.8 - When Models Meet Data(~ing)
+1. Chapter.8 - When Models Meet Data
     - 8.2 Empirical Risk Minimization
         - Regularization to Reduce Overfitting
         - Cross-Validation to Assess the Generalization Performance
@@ -2147,4 +2147,5 @@
         - Probabilistic Models
         - Latent-Variable Models
     - 8.5 Directed Graphical Models
-        - 
+        - Graph Semantics
+        - Conditional Independence and d-Separation
