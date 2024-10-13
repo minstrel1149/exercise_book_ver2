@@ -2153,3 +2153,9 @@
         - Nested Cross-Validation
         - Bayesian Model Selection
         - Bayes Factors for Model Comparison
+    
+### 2024년 10월 13일
+1. Chapter.9 - Linear Regression(~ing)
+    - 9.1 Problem Formulation
+    - 9.2 Parameter Estimation(~ing)
+        - Maximum Likelihood Function(~ing)
