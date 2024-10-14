@@ -2159,3 +2159,9 @@
     - 9.1 Problem Formulation
     - 9.2 Parameter Estimation(~ing)
         - Maximum Likelihood Function(~ing)
+
+### 2024년 10월 14일
+1. Chapter.9 - Linear Regression(~ing)
+    - 9.2 Parameter Estimation(~ing)
+        - Maximum Likelihood Function
+        - Overfitting in Linear Regression
