@@ -2165,3 +2165,5 @@
     - 9.2 Parameter Estimation(~ing)
         - Maximum Likelihood Function
         - Overfitting in Linear Regression
+        - Maximum A Posteriori Estimation
+        - MAP Estimation as Regularization
