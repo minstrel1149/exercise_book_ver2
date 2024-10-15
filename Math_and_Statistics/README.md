@@ -2162,8 +2162,14 @@
 
 ### 2024년 10월 14일
 1. Chapter.9 - Linear Regression(~ing)
-    - 9.2 Parameter Estimation(~ing)
+    - 9.2 Parameter Estimation
         - Maximum Likelihood Function
         - Overfitting in Linear Regression
         - Maximum A Posteriori Estimation
         - MAP Estimation as Regularization
+
+### 2024년 10월 15일
+1. Chapter.9 - Linear Regression(~ing)
+    - 9.3 Bayesian Linear Regression(~ing)
+        - Model
+        - Prior Predictions
