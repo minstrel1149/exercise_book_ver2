@@ -2179,3 +2179,5 @@
     - 9.3 Bayesian Linear Regression
         - Posterior Distribution
         - Posterior Predictions
+        - Computing the Marginal Likelihood
+    - 9.4 Maximum Likelihood as Orthogonal Projection
