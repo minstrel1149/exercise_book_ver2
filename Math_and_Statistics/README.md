@@ -2173,3 +2173,9 @@
     - 9.3 Bayesian Linear Regression(~ing)
         - Model
         - Prior Predictions
+
+### 2024년 10월 17일
+1. Chapter.9 - Linear Regression
+    - 9.3 Bayesian Linear Regression
+        - Posterior Distribution
+        - Posterior Predictions
