@@ -2181,3 +2181,9 @@
         - Posterior Predictions
         - Computing the Marginal Likelihood
     - 9.4 Maximum Likelihood as Orthogonal Projection
+
+### 2024년 10월 19일
+1. Chapter.10 - Dimensionality Reduction with PCA(~ing)
+    - 10.1 Problem Setting
+    - 10.2 Maximum Variance Perspective
+        - Direction with Maximal Variance
