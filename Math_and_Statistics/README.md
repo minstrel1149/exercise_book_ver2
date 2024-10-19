@@ -2187,3 +2187,6 @@
     - 10.1 Problem Setting
     - 10.2 Maximum Variance Perspective
         - Direction with Maximal Variance
+        - M-dimensional Subspace with Maximal Variance
+    - 10.3 Projection Perspective(~ing)
+        - Setting and Objective
