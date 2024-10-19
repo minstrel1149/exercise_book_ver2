@@ -2190,3 +2190,9 @@
         - M-dimensional Subspace with Maximal Variance
     - 10.3 Projection Perspective(~ing)
         - Setting and Objective
+
+### 2024년 10월 20일
+1. Chapter.10 - Dimensionality Reduction with PCA
+    - 10.3 Projection Perspective
+        - Finding Optimal Coordinates
+        - Finding the Basis of Principal Subspace
