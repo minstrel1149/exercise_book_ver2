@@ -2201,3 +2201,7 @@
         - Practical Aspects
     - 10.5 PCA in High Dimensions
     - 10.6 Key Steps of PCA in Practice
+    - 10.7 Latent Variable Perspective
+        - Generative Process and Probabilistic Model
+        - Likelihood and Joint Distribution
+        - Posterior Distribution
