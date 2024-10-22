@@ -2212,3 +2212,9 @@
     - 11.2 Parameter Learning via Maximum Likelihood(~ing)
         - Responsibilities
         - Updating the Means
+
+### 2024년 10월 22일
+1. Chapter.11 - Density Estimation with Gaussian Mixture Models(~ing)
+    - 11.2 Parameter Learning via Maximum Likelihood
+        - Updating the Covariances
+        - Updating the Mixture Weights
