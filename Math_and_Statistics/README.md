@@ -2218,3 +2218,9 @@
     - 11.2 Parameter Learning via Maximum Likelihood
         - Updating the Covariances
         - Updating the Mixture Weights
+
+### 2024년 10월 24일
+1. Chapter.11 - Density Estimation with Gaussian Mixture Models(~ing)
+    - 11.3 EM Algorithm
+    - 11.4 Latent-Variable Perspective(~ing)
+        - Generative Process and Probabilistic Model
