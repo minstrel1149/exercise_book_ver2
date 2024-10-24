@@ -2220,7 +2220,10 @@
         - Updating the Mixture Weights
 
 ### 2024년 10월 24일
-1. Chapter.11 - Density Estimation with Gaussian Mixture Models(~ing)
+1. Chapter.11 - Density Estimation with Gaussian Mixture Models
     - 11.3 EM Algorithm
-    - 11.4 Latent-Variable Perspective(~ing)
+    - 11.4 Latent-Variable Perspective
         - Generative Process and Probabilistic Model
+        - Likelihoods
+        - Posterior Distribution
+        - EM Algorithm Revisited
