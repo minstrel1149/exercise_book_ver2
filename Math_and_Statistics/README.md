@@ -2227,3 +2227,7 @@
         - Likelihoods
         - Posterior Distribution
         - EM Algorithm Revisited
+
+### 2024년 10월 25일
+1. Chapter.12 - Classification with Support Vector Machines
+    - 12.1 Seperating Hyperplanes
