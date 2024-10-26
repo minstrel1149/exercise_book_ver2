@@ -2229,5 +2229,12 @@
         - EM Algorithm Revisited
 
 ### 2024년 10월 25일
-1. Chapter.12 - Classification with Support Vector Machines
+1. Chapter.12 - Classification with Support Vector Machines(~ing)
     - 12.1 Seperating Hyperplanes
+
+### 2024년 10월 26일
+1. Chapter.12 - Classification with Support Vector Machine(~ing)
+    - 12.2 Primal Support Vector Machine
+        - Concept of the Marginal
+        - Traditional Derivation of the Marginal
+        - Why we can set the Margin to 1
