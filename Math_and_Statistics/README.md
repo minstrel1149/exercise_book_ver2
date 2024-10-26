@@ -2238,3 +2238,6 @@
         - Concept of the Marginal
         - Traditional Derivation of the Marginal
         - Why we can set the Margin to 1
+        - Soft Margin SVM: Geometric View
+        - Soft Margin SVM: Loss Function View
+    - 12.3 Dual Support Vector Machine
