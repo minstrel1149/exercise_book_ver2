@@ -2233,7 +2233,7 @@
     - 12.1 Seperating Hyperplanes
 
 ### 2024년 10월 26일
-1. Chapter.12 - Classification with Support Vector Machine(~ing)
+1. Chapter.12 - Classification with Support Vector Machine
     - 12.2 Primal Support Vector Machine
         - Concept of the Marginal
         - Traditional Derivation of the Marginal
@@ -2241,3 +2241,5 @@
         - Soft Margin SVM: Geometric View
         - Soft Margin SVM: Loss Function View
     - 12.3 Dual Support Vector Machine
+        - Convex Duality via Lagrange Multipliers
+        - Dual SVM: Convex Hull View
