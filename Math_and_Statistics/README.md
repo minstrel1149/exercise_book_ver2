@@ -2243,3 +2243,5 @@
     - 12.3 Dual Support Vector Machine
         - Convex Duality via Lagrange Multipliers
         - Dual SVM: Convex Hull View
+    - 12.4 Kernels
+    - 12.5 Numerical Solution
