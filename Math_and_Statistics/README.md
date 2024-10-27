@@ -2245,3 +2245,8 @@
         - Dual SVM: Convex Hull View
     - 12.4 Kernels
     - 12.5 Numerical Solution
+
+### 2024년 10월 27일
+1. Chapter.1 - Introduction and Motivation
+    - 1.1 Finding Words for Intuitions
+    - 1.2 Two Ways to Read This Book
