@@ -2264,3 +2264,8 @@
         - Elementary Transformations
         - The Minus-1 Trick
         - Algorithms for Solving a System of Linear Equations
+    - 2.4 Vector Spaces
+        - Groups
+        - Vector Spaces
+        - Vector Subspaces
+    - 2.5 Linear Independence
