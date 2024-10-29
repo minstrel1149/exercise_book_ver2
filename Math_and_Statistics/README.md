@@ -2250,3 +2250,12 @@
 1. Chapter.1 - Introduction and Motivation
     - 1.1 Finding Words for Intuitions
     - 1.2 Two Ways to Read This Book
+
+### 2024년 10월 29일
+1. Chapter.2 - Linear Algebra(~ing)
+    - 2.1 Systems of Linear Equations
+    - 2.2 Matrices
+        - Matrix Addition and Multiplication
+        - Inverse and Transpose
+        - Multiplication by a Scalar
+        - Compact Representations of Systems of Linear Equations
