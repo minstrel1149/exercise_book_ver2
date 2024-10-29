@@ -2259,3 +2259,8 @@
         - Inverse and Transpose
         - Multiplication by a Scalar
         - Compact Representations of Systems of Linear Equations
+    - 2.3 Solving Systems of Linear Equations
+        - Particular and General Solution
+        - Elementary Transformations
+        - The Minus-1 Trick
+        - Algorithms for Solving a System of Linear Equations
