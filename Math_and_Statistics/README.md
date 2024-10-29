@@ -2269,3 +2269,6 @@
         - Vector Spaces
         - Vector Subspaces
     - 2.5 Linear Independence
+    - 2.6 Basis and Rank
+        - Generating Set and Basis
+        - Rank
