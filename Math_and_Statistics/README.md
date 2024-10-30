@@ -2272,3 +2272,9 @@
     - 2.6 Basis and Rank
         - Generating Set and Basis
         - Rank
+
+### 2024년 10월 30일
+1. Chapter.2 - Linear Algebra(~ing)
+    - 2.7 Linear Mappings
+        - Matrix Representation of Linear Mappings
+        - Basis Change(~ing)
