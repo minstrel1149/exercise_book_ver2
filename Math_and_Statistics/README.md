@@ -2279,3 +2279,9 @@
         - Matrix Representation of Linear Mappings
         - Basis Change
         - Image and Kernel
+
+### 2024년 10월 31일
+1. Chapter.2 - Linear Algebra
+    - 2.8 Affine Spaces
+        - Affine Subspaces
+        - Affine Mappings
