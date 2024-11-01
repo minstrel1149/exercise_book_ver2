@@ -2285,3 +2285,13 @@
     - 2.8 Affine Spaces
         - Affine Subspaces
         - Affine Mappings
+
+### 2024년 11월 1일
+1. Chapter.3 - Analytic Geometry(~ing)
+    - 3.1 Norms
+    - 3.2 Inner Products
+        - Dot Product
+        - General Inner Products
+        - Symmetric, Positive Definete Matrices
+    - 3.3 Lengths and Distances
+    - 3.4 Angles and Orthogonality
