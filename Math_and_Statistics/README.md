@@ -2311,5 +2311,6 @@
         - Rotations in R^3
         - Rotations in n-Dimensions
         - Properties of Rotations
-2. Chapter.4 - Matrix Decompositions
+2. Chapter.4 - Matrix Decompositions(~ing)
     - 4.1 Determinant and Trace
+    - 4.2 Eigenvalues and Eigenvectors
