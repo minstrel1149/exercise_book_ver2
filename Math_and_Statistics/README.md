@@ -2306,3 +2306,8 @@
         - Projection onto General Subspaces
         - Gram-Schmidt Orthogonalization
         - Projection onto Affine Subspaces
+    - 3.9 Rotations
+        - Rotations in R^2
+        - Rotations in R^3
+        - Rotations in n-Dimensions
+        - Properties of Rotations
