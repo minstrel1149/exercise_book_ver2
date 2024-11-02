@@ -2295,3 +2295,10 @@
         - Symmetric, Positive Definete Matrices
     - 3.3 Lengths and Distances
     - 3.4 Angles and Orthogonality
+
+### 2024년 11월 2일
+1. Chapter.3 - Analytic Geometry
+    - 3.5 Orthonormal Basis
+    - 3.6 Orthogonal Complement
+    - 3.7 Inner Product of Functions
+    - 3.8 Orthogonal Projections
