@@ -2315,3 +2315,11 @@
     - 4.1 Determinant and Trace
     - 4.2 Eigenvalues and Eigenvectors
         - Graphical Intuition in Two Dimensions
+
+### 2024년 11월 3일
+1. Chapter.4 - Matrix Decompositions
+    - 4.3 Cholesky Decomposition
+    - 4.4 Eigendecomposition and Diagonalization
+        - Geometric Intuition for the Eigendecomposition
+    - 4.5 Singular Value Decomposition
+        - Geometric Intuitions for the SVD
