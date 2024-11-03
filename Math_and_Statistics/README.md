@@ -2323,3 +2323,5 @@
         - Geometric Intuition for the Eigendecomposition
     - 4.5 Singular Value Decomposition
         - Geometric Intuitions for the SVD
+        - Construction of the SVD
+        - Eigenvalue Decomposition vs Singular Value Decomposition
