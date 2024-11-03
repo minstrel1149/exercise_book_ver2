@@ -2325,3 +2325,5 @@
         - Geometric Intuitions for the SVD
         - Construction of the SVD
         - Eigenvalue Decomposition vs Singular Value Decomposition
+    - 4.6 Matrix Approximation
+    - 4.7 Matrix Phylogeny
