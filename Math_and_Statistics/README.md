@@ -2329,8 +2329,15 @@
     - 4.7 Matrix Phylogeny
 
 ### 2024년 11월 4일
-1. Chapter.5 - Vector Calculus
+1. Chapter.5 - Vector Calculus(~ing)
     - 5.1 Differentiation of Univariate Functions
         - Taylor Series
         - Differentiation Rules
     - 5.2 Partial Differentiation and Gradients
+        - Basic Rules of Partial Differentiation
+        - Chain Rule
+
+### 2024년 11월 5일
+1. Chapter.5 - Vector Calculus
+    - 5.3 Gradients of Vector-Valued Functions
+    - 5.4 Gradients of Matrices
