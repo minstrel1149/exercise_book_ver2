@@ -2341,3 +2341,7 @@
 1. Chapter.5 - Vector Calculus
     - 5.3 Gradients of Vector-Valued Functions
     - 5.4 Gradients of Matrices
+    - 5.5 Useful Identities for Computing Gradients
+    - 5.6 BackPropagation and Automatic Differentiation
+        - Gradients in a Deep Network
+        - Automatic Differentiation
