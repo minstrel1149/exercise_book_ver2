@@ -2354,3 +2354,10 @@
         - Philosophical Issues
         - Probability and Random Variables
         - Statistics
+
+### 2024년 11월 7일
+1. Chapter.6 - Probability and Distributions(~ing)
+    - 6.2 Discrete and Continuous Probabilities
+        - Discrete Probabilities
+        - Continuous Probabilities
+        - Contrasting Discrete and Continous Distributions
