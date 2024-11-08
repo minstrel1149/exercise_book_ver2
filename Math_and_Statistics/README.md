@@ -2361,3 +2361,7 @@
         - Discrete Probabilities
         - Continuous Probabilities
         - Contrasting Discrete and Continous Distributions
+
+### 2024년 11월 8일
+1. Chapter.6 - Probability and Distributions(~ing)
+    - 6.3 Sum Rule, Product Rule, and Bayes' Theorem
