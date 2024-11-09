@@ -2383,3 +2383,5 @@
     - 6.6 Conjugacy and Exponential Family
         - Conjugacy
         - Sufficient Statistics
+        - Exponential Family
+    - 6.7 Change of Variables/Inverse Transform
