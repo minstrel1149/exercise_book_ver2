@@ -2385,3 +2385,5 @@
         - Sufficient Statistics
         - Exponential Family
     - 6.7 Change of Variables/Inverse Transform
+        - Distribution Function Technique
+        - Change of Variables
