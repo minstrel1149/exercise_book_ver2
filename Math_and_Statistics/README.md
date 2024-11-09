@@ -2360,7 +2360,7 @@
     - 6.2 Discrete and Continuous Probabilities
         - Discrete Probabilities
         - Continuous Probabilities
-        - Contrasting Discrete and Continous Distributions
+        - Contrasting Discrete and Continuous Distributions
 
 ### 2024년 11월 8일
 1. Chapter.6 - Probability and Distributions(~ing)
@@ -2387,3 +2387,10 @@
     - 6.7 Change of Variables/Inverse Transform
         - Distribution Function Technique
         - Change of Variables
+
+### 2024년 11월 10일
+1. Chapter.7 - Continuous Optimization
+    - 7.1 Optimization Using Gradient Descent
+        - Step-Size
+        - Gradient Descent with Momentum
+        - Stochastic Gradient Descent
