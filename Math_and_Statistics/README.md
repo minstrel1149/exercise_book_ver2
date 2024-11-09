@@ -2370,3 +2370,9 @@
 1. Chapter.6 - Probability and Distributions
     - 6.4 Summary Statistics and Independence
         - Means and Covariances
+        - Empirical Means and Covariances
+        - Three Expressions for the Variance
+        - Sums and Transformations of Random Variables
+        - Statistical Independence
+        - Inner Products of Random Variables
+    - 6.5 Gaussian Distribution
