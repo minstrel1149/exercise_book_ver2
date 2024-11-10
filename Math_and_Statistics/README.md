@@ -2395,3 +2395,5 @@
         - Gradient Descent with Momentum
         - Stochastic Gradient Descent
     - 7.2 Constrained Optimization and Lagrange Multipliers
+    - 7.3 Convex Optimization
+        - Linear Programming
