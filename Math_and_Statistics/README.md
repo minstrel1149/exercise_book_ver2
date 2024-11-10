@@ -2397,3 +2397,5 @@
     - 7.2 Constrained Optimization and Lagrange Multipliers
     - 7.3 Convex Optimization
         - Linear Programming
+        - Quadratic Programming
+        - Legendre-Fenchel Transform and Convex Conjugate
