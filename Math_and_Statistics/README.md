@@ -2404,3 +2404,6 @@
 1. Chapter.8 - When Models Meet Data(~ing)
     - 8.1 Data, Models, and Learning(~ing)
         - Data as Vectors
+        - Models as Functions
+        - Models as Probability Distributions
+        - Learning is Finding Parameters
