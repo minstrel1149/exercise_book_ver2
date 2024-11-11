@@ -2402,8 +2402,16 @@
 
 ### 2024년 11월 11일
 1. Chapter.8 - When Models Meet Data(~ing)
-    - 8.1 Data, Models, and Learning(~ing)
+    - 8.1 Data, Models, and Learning
         - Data as Vectors
         - Models as Functions
         - Models as Probability Distributions
         - Learning is Finding Parameters
+
+### 2024년 11월 12일
+1. Chapter.8 - When Models Meet Data(~ing)
+    - 8.2 Empirical Risk Minimization
+        - Hypothesis Class of Functions
+        - Loss Function for Training
+        - Regularization to Reduce Overfitting
+        - Cross-Validation to Assess the Generalization Performance
