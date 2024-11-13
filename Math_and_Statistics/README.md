@@ -2422,3 +2422,10 @@
         - Maximum Likelihood Estimation
         - Maximum a Posteriori Estimation
         - Model Fitting
+
+### 2024년 11월 14일
+1. Chapter.8 - When Models Meet Data(~ing)
+    - 8.4 Probabilistic Modeling and Inference
+        - Probabilistic Models
+        - Bayesian Inference
+        - Latent-Variable Models
