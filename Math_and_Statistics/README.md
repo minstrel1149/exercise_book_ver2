@@ -2415,3 +2415,10 @@
         - Loss Function for Training
         - Regularization to Reduce Overfitting
         - Cross-Validation to Assess the Generalization Performance
+
+### 2024년 11월 13일
+1. Chapter.8 - When Models Meet Data(~ing)
+    - 8.3 Parameter Estimation
+        - Maximum Likelihood Estimation
+        - Maximum a Posteriori Estimation
+        - Model Fitting
