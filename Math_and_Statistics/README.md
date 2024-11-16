@@ -2429,3 +2429,9 @@
         - Probabilistic Models
         - Bayesian Inference
         - Latent-Variable Models
+
+### 2024년 11월 16일
+1. Chapter.8 - When Models Meet Data
+    - 8.5 Directed Graphical Models
+        - Graph Semantics
+        - Conditional Independence and d-Seperation
