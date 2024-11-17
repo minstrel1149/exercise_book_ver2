@@ -2445,3 +2445,6 @@
     - 9.1 Problem Formulation
     - 9.2 Parameter Estimation
         - Maximum Likelihood Estimation
+        - Overfitting in Linear Regression
+        - Maximum a Posteriori Estimation
+        - MAP Estimation as Regularization
