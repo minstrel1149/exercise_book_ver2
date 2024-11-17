@@ -2455,3 +2455,7 @@
         - Posterior Predictions
         - Computing the Marginal Likelihood
     - 9.4 Maximum Likelihood as Orthogonal Projection
+
+### 2024년 11월 18일
+1. Chapter.10 - Dimensionality Reduction with Principal Component Analysis(~ing)
+    - 10.1 Problem Setting
