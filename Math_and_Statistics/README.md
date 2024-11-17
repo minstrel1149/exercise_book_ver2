@@ -2448,3 +2448,7 @@
         - Overfitting in Linear Regression
         - Maximum a Posteriori Estimation
         - MAP Estimation as Regularization
+    - 9.3 Bayesian Linear Regression
+        - Model
+        - Prior Predictions
+        - Posterior Distribution
