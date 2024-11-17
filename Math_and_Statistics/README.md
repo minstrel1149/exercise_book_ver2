@@ -2459,3 +2459,6 @@
 ### 2024년 11월 18일
 1. Chapter.10 - Dimensionality Reduction with Principal Component Analysis(~ing)
     - 10.1 Problem Setting
+    - 10.2 Maximum Variance Perspective
+        - Direction with Maximal Variance
+        - M-Dimensional Subspace with Maximal Variance
