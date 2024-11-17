@@ -2443,3 +2443,5 @@
 ### 2024년 11월 17일
 1. Chapter.9 - Linear Regression
     - 9.1 Problem Formulation
+    - 9.2 Parameter Estimation
+        - Maximum Likelihood Estimation
