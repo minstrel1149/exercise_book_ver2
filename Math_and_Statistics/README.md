@@ -2469,3 +2469,8 @@
         - Setting and Objective
         - Finding Optimal Coordinates
         - Finding the Basis of the Principal Subspace
+    - 10.4 Eigenvector Computation and Low-Rank Approximations
+        - PCA Using Low-Rank Matrix Approximations
+        - Practical Aspects
+    - 10.5 PCA in High Dimensions
+    - 10.6 Key Steps of PCA in Practice
