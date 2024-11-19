@@ -2464,7 +2464,7 @@
         - M-Dimensional Subspace with Maximal Variance
 
 ### 2024년 11월 19일
-1. Chapter.10 - Dimensionality Reduction with Principal Component Analysis(~ing)
+1. Chapter.10 - Dimensionality Reduction with Principal Component Analysis
     - 10.3 Projection Perspective
         - Setting and Objective
         - Finding Optimal Coordinates
@@ -2478,3 +2478,8 @@
         - Generative Process and Probabilistic Model
         - Likelihood and Joint Distribution
         - Posterior Distribution
+
+### 2024년 11월 20일
+1. Chapter.11 - Density Estimation with Gaussian Mixture Models
+    - 11.1 Gaussian Mixture Model
+    - 11.2 Parameter Learning via Maximum Likelihood
