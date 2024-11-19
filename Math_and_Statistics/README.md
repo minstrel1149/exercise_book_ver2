@@ -2462,3 +2462,10 @@
     - 10.2 Maximum Variance Perspective
         - Direction with Maximal Variance
         - M-Dimensional Subspace with Maximal Variance
+
+### 2024년 11월 19일
+1. Chapter.10 - Dimensionality Reduction with Principal Component Analysis(~ing)
+    - 10.3 Projection Perspective
+        - Setting and Objective
+        - Finding Optimal Coordinates
+        - Finding the Basis of the Principal Subspace
