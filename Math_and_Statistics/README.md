@@ -2490,3 +2490,7 @@
     - 11.3 EM Algorithm
     - 11.4 Latent Variable Perspective
         - Generative Process and Probabilistic Model
+        - Likelihood
+        - Posterior Distribution
+        - Extension to a Full Dataset
+        - EM Algorithm Revisited
