@@ -2494,3 +2494,7 @@
         - Posterior Distribution
         - Extension to a Full Dataset
         - EM Algorithm Revisited
+
+### 2024년 11월 21일
+1. Chapter.12 - Classification with Support Vector Machine(~ing)
+    - 12.1 Seperating Hyperplanes
