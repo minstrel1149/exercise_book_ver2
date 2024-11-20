@@ -2483,3 +2483,7 @@
 1. Chapter.11 - Density Estimation with Gaussian Mixture Models
     - 11.1 Gaussian Mixture Model
     - 11.2 Parameter Learning via Maximum Likelihood
+        - Responsibilities
+        - Updating the Means
+        - Updating the Covariances
+        - Updating the Mixture Weights
