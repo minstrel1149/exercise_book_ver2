@@ -2487,3 +2487,6 @@
         - Updating the Means
         - Updating the Covariances
         - Updating the Mixture Weights
+    - 11.3 EM Algorithm
+    - 11.4 Latent Variable Perspective
+        - Generative Process and Probabilistic Model
