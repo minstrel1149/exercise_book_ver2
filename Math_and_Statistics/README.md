@@ -2504,3 +2504,6 @@
     - 12.2 Primal Support Vector Machine
         - Concept of the Margin
         - Traditional Derivation of the Margin
+        - Why We Can Set the Margin to 1
+        - Soft Margin SVM: Geometric View
+        - Soft Margin SVM: Loss Function View
