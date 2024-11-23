@@ -2507,3 +2507,6 @@
         - Why We Can Set the Margin to 1
         - Soft Margin SVM: Geometric View
         - Soft Margin SVM: Loss Function View
+    - 12.3 Dual Support Vector Machine
+        - Convex Duality via Lagrange Multipliers
+        - Dual SVM: Convex Hull View
