@@ -2498,3 +2498,9 @@
 ### 2024년 11월 21일
 1. Chapter.12 - Classification with Support Vector Machine(~ing)
     - 12.1 Seperating Hyperplanes
+
+### 2024년 11월 22일
+1. Chapter.12 - Classification with Support Vector Machine
+    - 12.2 Primal Support Vector Machine
+        - Concept of the Margin
+        - Traditional Derivation of the Margin
