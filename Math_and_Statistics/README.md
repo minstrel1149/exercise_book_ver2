@@ -2499,7 +2499,7 @@
 1. Chapter.12 - Classification with Support Vector Machine(~ing)
     - 12.1 Seperating Hyperplanes
 
-### 2024년 11월 22일
+### 2024년 11월 23일
 1. Chapter.12 - Classification with Support Vector Machine
     - 12.2 Primal Support Vector Machine
         - Concept of the Margin
@@ -2512,3 +2512,10 @@
         - Dual SVM: Convex Hull View
     - 12.4 Kernels
     - 12.5 Numerical Solution
+
+
+## John E.Freund's Mathematical Statistics
+### 2024년 11월 24일
+1. Chapter.1 = Introduction(~ing)
+    - 1.1 Introduction
+    - 1.2 Combinatorial Methods(~ing)
