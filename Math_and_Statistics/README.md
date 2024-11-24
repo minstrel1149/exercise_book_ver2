@@ -2516,8 +2516,11 @@
 
 ## John E.Freund's Mathematical Statistics
 ### 2024년 11월 24일
-1. Chapter.1 = Introduction
+1. Chapter.1 - Introduction
     - 1.1 Introduction
     - 1.2 Combinatorial Methods
     - 1.3 Binomial Coefficients
     - 1.4 The Theory in Practice
+2. Chapter.2 - Probability
+    - 2.1 Introduction
+    - 2.2 Sample Spaces
