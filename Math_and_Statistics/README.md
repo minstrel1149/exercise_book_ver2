@@ -2528,3 +2528,4 @@
 ### 2024년 11월 25일
 1. Chapter.2 - Probability(~ing)
     - 2.3 Events
+    - 2.4 The Probability of an Event
