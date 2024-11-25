@@ -2529,3 +2529,8 @@
 1. Chapter.2 - Probability(~ing)
     - 2.3 Events
     - 2.4 The Probability of an Event
+
+### 2024년 11월 26일
+1. Chapter.2 - Probability(~ing)
+    - 2.5 Some Rules of Probability
+    - 2.6 Conditional Probability
