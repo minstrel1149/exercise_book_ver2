@@ -2534,3 +2534,8 @@
 1. Chapter.2 - Probability(~ing)
     - 2.5 Some Rules of Probability
     - 2.6 Conditional Probability
+
+### 2024년 11월 27일
+1. Chapter.2 - Probability(~ing)
+    - 2.7 Independent Events
+    - 2.8 Bayes' Theorem
