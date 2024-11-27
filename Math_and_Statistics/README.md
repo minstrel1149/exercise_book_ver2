@@ -2539,3 +2539,7 @@
 1. Chapter.2 - Probability(~ing)
     - 2.7 Independent Events
     - 2.8 Bayes' Theorem
+
+### 2024년 11월 28일
+1. Chapter.2 - Probability
+    - 2.9 The Theory in Practice
