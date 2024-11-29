@@ -2549,3 +2549,4 @@
     - 3.1 Random Variables
     - 3.2 Probability Distributions
     - 3.3 Continuous Random Variables
+    - 3.4 Probability Density Functions
