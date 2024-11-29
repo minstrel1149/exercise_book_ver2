@@ -2553,3 +2553,7 @@
     - 3.5 Multivariate Distributions
     - 3.6 Marginal Distributions
     - 3.7 Conditional Distributions
+
+### 2024년 11월 30일
+1. Chapter.3 - Probability Distributions and Probability Densities
+    - 3.8 The Theory and Practice
