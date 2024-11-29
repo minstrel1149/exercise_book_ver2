@@ -2547,4 +2547,5 @@
 ### 2024년 11월 29일
 1. Chapter.3 - Probability Distributions and Probability Densities(~ing)
     - 3.1 Random Variables
-    - 3.2 Probability Distributions(~ing)
+    - 3.2 Probability Distributions
+    - 3.3 Continuous Random Variables
