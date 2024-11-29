@@ -2543,3 +2543,8 @@
 ### 2024년 11월 28일
 1. Chapter.2 - Probability
     - 2.9 The Theory in Practice
+
+### 2024년 11월 29일
+1. Chapter.3 - Probability Distributions and Probability Densities(~ing)
+    - 3.1 Random Variables
+    - 3.2 Probability Distributions(~ing)
