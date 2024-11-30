@@ -2563,3 +2563,5 @@
     - 4.3 Moments
     - 4.4 Chebyshev's Theorem
     - 4.5 Moment-Generating Functions
+    - 4.6 Product Moments
+    - 4.7 Moments of Linear Combinations of Random Variables
