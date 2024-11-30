@@ -2557,3 +2557,6 @@
 ### 2024년 11월 30일
 1. Chapter.3 - Probability Distributions and Probability Densities
     - 3.8 The Theory and Practice
+2. Chapter.4 - Mathematical Expectation
+    - 4.1 Introduction
+    - 4.2 The Expected Value of a Random Variable
