@@ -2561,4 +2561,5 @@
     - 4.1 Introduction
     - 4.2 The Expected Value of a Random Variable
     - 4.3 Moments
-    - 4.4 Chebyshev's Theorem(~ing)
+    - 4.4 Chebyshev's Theorem
+    - 4.5 Moment-Generating Functions
