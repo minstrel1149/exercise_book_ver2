@@ -2565,3 +2565,5 @@
     - 4.5 Moment-Generating Functions
     - 4.6 Product Moments
     - 4.7 Moments of Linear Combinations of Random Variables
+    - 4.8 Conditional Expectations
+    - 4.9 The Theory in Practice
