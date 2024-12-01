@@ -2576,3 +2576,5 @@
     - 5.4 The Binomial Distribution
     - 5.5 The Negative Binomial and Geometric Distributions
     - 5.6 The Hypergeometric distribution
+    - 5.7 The Poisson Distribution
+    - 5.8 The Multinomial Distribution
