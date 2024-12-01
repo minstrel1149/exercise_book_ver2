@@ -2580,3 +2580,10 @@
     - 5.8 The Multinomial Distribution
     - 5.9 The Multivariate Hypergeometric Distribution
     - 5.10 The Theory in Practice
+
+### 2024년 12월 2일
+1. Chapter.6 - Special Probability Densities(~ing)
+    - 6.1 Introduction
+    - 6.2 The Uniform Distribution
+    - 6.3 The Gamma, Exponential, and Chi-Square Distributions
+    - 6.4 The Beta Distribution
