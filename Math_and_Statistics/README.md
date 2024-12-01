@@ -2574,3 +2574,5 @@
     - 5.2 The Discrete Uniform Distribution
     - 5.3 The Bernoulli Distribution
     - 5.4 The Binomial Distribution
+    - 5.5 The Negative Binomial and Geometric Distributions
+    - 5.6 The Hypergeometric distribution
