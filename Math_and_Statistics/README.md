@@ -2587,3 +2587,7 @@
     - 6.2 The Uniform Distribution
     - 6.3 The Gamma, Exponential, and Chi-Square Distributions
     - 6.4 The Beta Distribution
+
+### 2024년 12월 3일
+1. Chapter.6 - Special Probability Densities(~ing)
+    - 6.5 The Normal Distribution
