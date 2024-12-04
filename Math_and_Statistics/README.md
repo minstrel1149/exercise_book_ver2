@@ -2591,3 +2591,7 @@
 ### 2024년 12월 3일
 1. Chapter.6 - Special Probability Densities(~ing)
     - 6.5 The Normal Distribution
+
+### 2024년 12월 4일
+1. Chapter.6 - Special Probability Densities
+    - 6.6 The Normal Approximation to the Binomial Distribution
