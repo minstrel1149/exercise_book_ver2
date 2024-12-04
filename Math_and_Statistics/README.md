@@ -2596,3 +2596,4 @@
 1. Chapter.6 - Special Probability Densities
     - 6.6 The Normal Approximation to the Binomial Distribution
     - 6.7 The Bivariate Normal Distribution
+    - 6.8 The Theory in Practice
