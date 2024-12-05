@@ -2597,3 +2597,9 @@
     - 6.6 The Normal Approximation to the Binomial Distribution
     - 6.7 The Bivariate Normal Distribution
     - 6.8 The Theory in Practice
+
+### 2024년 12월 5일
+1. Chapter.7 - Functions of Random Variables(~ing)
+    - 7.1 Introduction
+    - 7.2 Distribution Function Technique
+    - 7.3 Transformation Technique: One Variable(~ing)
