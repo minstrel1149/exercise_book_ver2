@@ -2602,4 +2602,4 @@
 1. Chapter.7 - Functions of Random Variables(~ing)
     - 7.1 Introduction
     - 7.2 Distribution Function Technique
-    - 7.3 Transformation Technique: One Variable(~ing)
+    - 7.3 Transformation Technique: One Variable
