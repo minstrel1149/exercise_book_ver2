@@ -2605,5 +2605,7 @@
     - 7.3 Transformation Technique: One Variable
 
 ### 2024년 12월 6일
-1. Chapter.7 - Functions of Random Variables(~ing)
+1. Chapter.7 - Functions of Random Variables
     - 7.4 Transformation Technique: Several Variables
+    - 7.5 Moment-Generating Function Technique
+    - 7.6 The Theory in Application
