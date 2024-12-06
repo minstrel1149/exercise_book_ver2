@@ -2603,3 +2603,7 @@
     - 7.1 Introduction
     - 7.2 Distribution Function Technique
     - 7.3 Transformation Technique: One Variable
+
+### 2024년 12월 6일
+1. Chapter.7 - Functions of Random Variables(~ing)
+    - 7.4 Transformation Technique: Several Variables
