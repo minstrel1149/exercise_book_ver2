@@ -2618,3 +2618,5 @@
     - 8.4 The Chi-Square Distribution
     - 8.5 The t Distribution
     - 8.6 The F Distribution
+    - 8.7 Order Statistics
+    - 8.8 The Theory in Practice
