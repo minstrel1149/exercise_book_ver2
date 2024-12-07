@@ -2616,3 +2616,5 @@
     - 8.2 The Sampling Distribution of the Mean
     - 8.3 The Sampling Distribution of the Mean: Finite Populations
     - 8.4 The Chi-Square Distribution
+    - 8.5 The t Distribution
+    - 8.6 The F Distribution
