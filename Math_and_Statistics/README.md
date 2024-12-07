@@ -2609,3 +2609,8 @@
     - 7.4 Transformation Technique: Several Variables
     - 7.5 Moment-Generating Function Technique
     - 7.6 The Theory in Application
+
+### 2024년 12월 7일
+1. Chapter.8 - Sampling Distributions
+    - 8.1 Introduction
+    - 8.2 The Sampling Distribution of the Mean
