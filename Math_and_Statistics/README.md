@@ -2614,3 +2614,5 @@
 1. Chapter.8 - Sampling Distributions
     - 8.1 Introduction
     - 8.2 The Sampling Distribution of the Mean
+    - 8.3 The Sampling Distribution of the Mean: Finite Populations
+    - 8.4 The Chi-Square Distribution
