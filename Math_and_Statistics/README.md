@@ -2625,3 +2625,6 @@
 1. Chapter.9 - Decision Theory
     - 9.1 Introduction
     - 9.2 The Theory of Games
+    - 9.3 Statistical Games
+    - 9.4 Decision Criteria
+    - 9.5 The Minimax Criterion
