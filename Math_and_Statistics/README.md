@@ -2630,3 +2630,8 @@
     - 9.5 The Minimax Criterion
     - 9.6 The Bayes Criterion
     - 9.7 The Theory in Practice
+
+### 2024년 12월 9일
+1. Chapter.10 - Point Estimation(~ing)
+    - 10.1 Introduction
+    - 10.2 Unbiased Estimators
