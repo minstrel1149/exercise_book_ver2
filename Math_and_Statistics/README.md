@@ -2635,3 +2635,8 @@
 1. Chapter.10 - Point Estimation(~ing)
     - 10.1 Introduction
     - 10.2 Unbiased Estimators
+
+### 2024년 12월 10일
+1. Chapter.10 - Point Estimation(~ing)
+    - 10.3 Efficiency
+    - 10.4 Consistency
