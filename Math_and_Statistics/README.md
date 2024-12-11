@@ -2640,3 +2640,8 @@
 1. Chapter.10 - Point Estimation(~ing)
     - 10.3 Efficiency
     - 10.4 Consistency
+
+### 2024년 12월 11일
+1. Chapter.10 - Point Estimation(~ing)
+    - 10.5 Sufficiency
+    - 10.6 Robustness
