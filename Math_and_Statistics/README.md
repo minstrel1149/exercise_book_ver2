@@ -2645,3 +2645,8 @@
 1. Chapter.10 - Point Estimation(~ing)
     - 10.5 Sufficiency
     - 10.6 Robustness
+
+### 2024년 12월 12일
+1. Chapter.10 - Point Estimation(~ing)
+    - 10.7 The Method of Moments
+    - 10.8 The Method of Maximum Likelihood
