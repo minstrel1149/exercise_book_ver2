@@ -2650,3 +2650,8 @@
 1. Chapter.10 - Point Estimation(~ing)
     - 10.7 The Method of Moments
     - 10.8 The Method of Maximum Likelihood
+
+### 2024년 12월 13일
+1. Chapter.10 - Point Estimation
+    - 10.9 Bayesian Estimation
+    - 10.10 The Theory in Practice
