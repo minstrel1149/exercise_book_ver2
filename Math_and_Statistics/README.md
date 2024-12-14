@@ -2660,3 +2660,5 @@
 1. Chapter.11 - Interval Estimation
     - 11.1 Introduction
     - 11.2 The Estimation of Means
+    - 11.3 The Estimation of Differences between Means
+    - 11.4 The Estimation of Proportions
