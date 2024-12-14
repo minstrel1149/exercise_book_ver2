@@ -2662,3 +2662,7 @@
     - 11.2 The Estimation of Means
     - 11.3 The Estimation of Differences between Means
     - 11.4 The Estimation of Proportions
+    - 11.5 The Estimation of Differences bewteen Proportions
+    - 11.6 The Estimation of Variances
+    - 11.7 The Estimation of the Ratio of Two Variances
+    - 11.8 The Theory in Practice
