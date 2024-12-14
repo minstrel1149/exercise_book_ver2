@@ -2655,3 +2655,8 @@
 1. Chapter.10 - Point Estimation
     - 10.9 Bayesian Estimation
     - 10.10 The Theory in Practice
+
+### 2024년 12월 14일
+1. Chapter.11 - Interval Estimation
+    - 11.1 Introduction
+    - 11.2 The Estimation of Means
