@@ -2666,3 +2666,7 @@
     - 11.6 The Estimation of Variances
     - 11.7 The Estimation of the Ratio of Two Variances
     - 11.8 The Theory in Practice
+2. Chapter.12 - Hypothesis testing
+    - 12.1 Introduction
+    - 12.2 Testing a Statistical Hypothesis
+    - 12.3 Losses and Risks
