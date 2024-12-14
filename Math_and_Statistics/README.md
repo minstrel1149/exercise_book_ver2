@@ -2666,7 +2666,12 @@
     - 11.6 The Estimation of Variances
     - 11.7 The Estimation of the Ratio of Two Variances
     - 11.8 The Theory in Practice
-2. Chapter.12 - Hypothesis testing
+2. Chapter.12 - Hypothesis Testing(~ing)
     - 12.1 Introduction
     - 12.2 Testing a Statistical Hypothesis
     - 12.3 Losses and Risks
+
+### 2024년 12월 15일
+1. Chapter.12 - Hypothesis Testing
+    - 12.4 The Neyman-Pearson Lemma
+    - 12.5 The Power Function of a Test
