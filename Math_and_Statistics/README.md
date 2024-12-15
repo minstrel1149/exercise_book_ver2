@@ -2677,3 +2677,5 @@
     - 12.5 The Power Function of a Test
     - 12.6 Likelihood Ratio Tests
     - 12.7 The Theory in Practice
+2. Chapter.13 - Tests of Hypothesis Involving Means, Variances, and Proportions(~ing)
+    - 13.1 Introduction
