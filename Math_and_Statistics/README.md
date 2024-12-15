@@ -2679,3 +2679,5 @@
     - 12.7 The Theory in Practice
 2. Chapter.13 - Tests of Hypothesis Involving Means, Variances, and Proportions(~ing)
     - 13.1 Introduction
+    - 13.2 Tests Concerning Means
+    - 13.3 Tests Concerning Differences between Means
