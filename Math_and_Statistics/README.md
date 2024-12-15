@@ -2675,3 +2675,5 @@
 1. Chapter.12 - Hypothesis Testing
     - 12.4 The Neyman-Pearson Lemma
     - 12.5 The Power Function of a Test
+    - 12.6 Likelihood Ratio Tests
+    - 12.7 The Theory in Practice
