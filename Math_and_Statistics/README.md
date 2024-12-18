@@ -2685,3 +2685,8 @@
 ### 2024년 12월 16일
 1. Chapter.13 - Tests of Hypothesis Involving Means, Variances and Proportions(~ing)
     - 13.4 Tests Concerning Variances
+
+### 2024년 12월 18일
+1. Chapter.13 - Tests of Hypothesis Involving Means, Variances and Proportions(~ing)
+    - 13.5 Tests Concerning Proportions
+    - 13.6 Tests Concerning Differences among k Proportions
