@@ -2690,3 +2690,9 @@
 1. Chapter.13 - Tests of Hypothesis Involving Means, Variances and Proportions(~ing)
     - 13.5 Tests Concerning Proportions
     - 13.6 Tests Concerning Differences among k Proportions
+
+### 2024년 12월 19일
+1. Chapter.13 - Tests of Hypothesis Involving Means, Variances and Proportions
+    - 13.7 The Analysis of an r x c Table
+    - 13.8 Goodness of Fit
+    - 13.9 The Theory in Practice
