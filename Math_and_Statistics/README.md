@@ -2696,3 +2696,8 @@
     - 13.7 The Analysis of an r x c Table
     - 13.8 Goodness of Fit
     - 13.9 The Theory in Practice
+
+### 2024년 12월 20일
+1. Chapter.14 - Regression and Correlation(~ing)
+    - 14.1 Introduction
+    - 14.2 Linear Regression
