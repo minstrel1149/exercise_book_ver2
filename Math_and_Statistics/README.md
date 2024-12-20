@@ -2701,3 +2701,4 @@
 1. Chapter.14 - Regression and Correlation(~ing)
     - 14.1 Introduction
     - 14.2 Linear Regression
+    - 14.3 The Method of Least Squares
