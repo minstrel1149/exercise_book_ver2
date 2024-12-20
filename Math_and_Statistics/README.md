@@ -2702,3 +2702,7 @@
     - 14.1 Introduction
     - 14.2 Linear Regression
     - 14.3 The Method of Least Squares
+
+### 2024년 12월 21일
+1. Chapter.14 - Regression and Correlation
+    - 14.4 Normal Regression Analysis
