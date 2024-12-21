@@ -2709,3 +2709,4 @@
     - 14.5 Normal Correlation Analysis
     - 14.6 Multiple Linear Regression
     - 14.7 Multiple Linear Regression(Matrix Notation)
+    - 14.8 The Theory in Practice
