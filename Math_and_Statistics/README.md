@@ -2707,3 +2707,4 @@
 1. Chapter.14 - Regression and Correlation
     - 14.4 Normal Regression Analysis
     - 14.5 Normal Correlation Analysis
+    - 14.6 Multiple Linear Regression
