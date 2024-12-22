@@ -2710,3 +2710,8 @@
     - 14.6 Multiple Linear Regression
     - 14.7 Multiple Linear Regression(Matrix Notation)
     - 14.8 The Theory in Practice
+
+### 2024년 12월 22일
+1. Chapter.1 - Introduction(~ing)
+    - 1.1 Introduction
+    - 1.2 Combinatorial Methods(~ing)
