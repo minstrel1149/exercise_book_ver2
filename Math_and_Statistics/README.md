@@ -2717,3 +2717,9 @@
     - 1.2 Combinatorial Methods
     - 1.3 Binomial Coefficients
     - 1.4 The Theory in Practice
+
+### 2024년 12월 23일
+1. Chapter.2 - Probability(~ing)
+    - 2.1 Introduction
+    - 2.2 Sample Spaces
+    - 2.3 Events
