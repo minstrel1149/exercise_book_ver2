@@ -2714,4 +2714,4 @@
 ### 2024년 12월 22일
 1. Chapter.1 - Introduction(~ing)
     - 1.1 Introduction
-    - 1.2 Combinatorial Methods(~ing)
+    - 1.2 Combinatorial Methods
