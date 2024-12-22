@@ -2723,3 +2723,5 @@
     - 2.1 Introduction
     - 2.2 Sample Spaces
     - 2.3 Events
+    - 2.4 The Probability of an Event
+    - 2.5 Some Rules of Probability
