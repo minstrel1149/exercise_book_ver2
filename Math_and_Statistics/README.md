@@ -2730,3 +2730,5 @@
 1. Chapter.2 - Probability
     - 2.6 Conditional Probability
     - 2.7 Independent Events
+    - 2.8 Bayes' Theorem
+    - 2.9 The Theory in Practice
