@@ -2729,3 +2729,4 @@
 ### 2024년 12월 24일
 1. Chapter.2 - Probability
     - 2.6 Conditional Probability
+    - 2.7 Independent Events
