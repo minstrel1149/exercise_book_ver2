@@ -2732,3 +2732,129 @@
     - 2.7 Independent Events
     - 2.8 Bayes' Theorem
     - 2.9 The Theory in Practice
+
+### 2025년 1월 2일
+1. Chapter.3 - Probability Distributions and Probability Densities
+    - 3.1 Random Variables
+    - 3.2 Probability Distributions
+    - 3.3 Continuous Random Variables
+    - 3.4 Probability Density Functions
+    - 3.5 Multivariate Distributions
+    - 3.6 Marginal Distributions
+    - 3.7 Conditional Distributions
+    - 3.8 The Theory in Practice
+
+### 2025년 1월 3일
+1. Chapter.4 - Mathematical Expectation
+    - 4.1 Introduction
+    - 4.2 The Expected Value of a Random Variable
+    - 4.3 Moments
+    - 4.4 Chebyshev's Theorem
+    - 4.5 Moment-Generating Functions
+    - 4.6 Product Moments
+    - 4.7 Moments of Linear Combinations of Random Variables
+    - 4.8 Conditional Expectations
+    - 4.9 The Theory in Practice
+2. Chapter.5 - Special Probability Distributions
+    - 5.1 Introduction
+    - 5.2 The Discrete Uniform Distribution
+    - 5.3 The Bernoulli Distribution
+    - 5.4 The Binomial Distribution
+    - 5.5 The Negative Binomial and Geometric Distributions
+    - 5.6 The Hypergeometric Distribution
+    - 5.7 The Poisson Distribution
+    - 5.8 The Multinomial Distribution
+    - 5.9 The Multivariate Hypergeometric Distribution
+    - 5.10 The Theory in Practice
+
+### 2025년 1월 4일
+1. Chapter.6 - Special Probability Densities
+    - 6.1 Introduction
+    - 6.2 The Uniform Distribution
+    - 6.3 The Gamma, Exponential, and Chi-Square Distributions
+    - 6.4 The Beta Distribution
+    - 6.5 The Normal Distribution
+    - 6.6 The Normal Approximation to the Binomial Distribution
+    - 6.7 The Bivariate Normal Distribution
+    - 6.8 The Theory in Practice
+2. Chapter.7 - Functions of Random Variables
+    - 7.1 Introduction
+    - 7.2 Distribution Function Technique
+    - 7.3 Transformation Technique: One Variable
+    - 7.4 Transformation Technique: Several Variables
+    - 7.5 Moment-Generating Function Technique
+    - 7.6 The Theory in Application
+
+### 2025년 1월 5일
+1. Chapter.8 - Sampling Distributions
+    - 8.1 Introduction
+    - 8.2 The Sampling Distribution of the Mean
+    - 8.3 The Sampling Distribution of the Mean: Finite Populations
+    - 8.4 The Chi-Square Distribution
+    - 8.5 The t Distribution
+    - 8.6 The F Distribution
+    - 8.7 Order Statistics
+    - 8.8 The Theory in Practice
+2. Chapter.9 - Decision Theory
+    - 9.1 Introduction
+    - 9.2 The Theory of Games
+    - 9.3 Statistical Games
+    - 9.4 Decision Criteria
+    - 9.5 The Minimax Criterion
+    - 9.6 The Bayes Criterion
+    - 9.7 The Theory in Practice
+
+### 2025년 1월 6일
+1. Chapter.10 - Point Estimation
+    - 10.1 Introduction
+    - 10.2 Unbiased Estimators
+    - 10.3 Efficiency
+    - 10.4 Consistency
+    - 10.5 Sufficiency
+    - 10.6 Robustness
+    - 10.7 The Method of Moments
+    - 10.8 The Method of Maximum Likelihood
+    - 10.9 Bayesian Estimation
+    - 10.10 The Theory in Practice
+
+### 2025년 1월 7일
+1. Chapter.11 - Interval Estimation
+    - 11.1 Introduction
+    - 11.2 The Estimation of Means
+    - 11.3 The Estimation of Diffences between Means
+    - 11.4 The Estimation of Proportions
+    - 11.5 The Estimation of Differences between Proportions
+    - 11.6 The Estimation of Variances
+    - 11.7 The Estimation of the Ratio of Two Variances
+    - 11.8 The Theory in Practice
+2. Chapter.12 - Hypothesis Testing
+    - 12.1 Introduction
+    - 12.2 Testing a Statistical Hypothesis
+    - 12.3 Losses and Risks
+    - 12.4 The Neyman-Pearson Lemma
+    - 12.5 The Power Function of a Test
+    - 12.6 Likelihood Ratio Tests
+    - 12.7 The Theory in Practice
+
+### 2025년 1월 8일
+1. Chapter.13 - Tests of Hypothesis Involving Means, Variances and Proportions
+    - 13.1 Introduction
+    - 13.2 Tests Concerning Means
+    - 13.3 Tests Concerning Differences between Means
+    - 13.4 Tests Concerning Variances
+    - 13.5 Tests Concerning Proportions
+    - 13.6 Tests Concerning Differences Among k Proportions
+    - 13.7 The Analysis of an r x c Table
+    - 13.8 Goodness of Fit
+    - 13.9 The Theory in Practice
+
+### 2025년 1월 9일
+1. Chapter.14 - Regression and Correlation
+    - 14.1 Introduction
+    - 14.2 Linear Regression
+    - 14.3 The Method of Least Squares
+    - 14.4 Normal Regression Analysis
+    - 14.5 Normal Correlation Analysis
+    - 14.6 Multiple Linear Regression
+    - 14.7 Multiple Linear Regression(Matrix Notation)
+    - 14.8 The Theory in Practice
