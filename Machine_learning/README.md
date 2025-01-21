@@ -1622,3 +1622,8 @@
 1. Chapter.14 - BERT의 이해와 간단한 활용 - 연습을 통한 이해
 2. Chapter.15 - BERT 사전학습 모형에 대한 미세조정 학습 - 연습을 통한 이해
 3. Chapter.16 - 한국어 문서에 대한 BERT 활용 - 연습을 통한 이해
+
+
+## An Introduction to Statistical Learning with Applications in Python (원서)
+### 2025년 1월 21일
+1. Chapter.1 - Introduction(~ing)
