@@ -24,6 +24,7 @@
 11. TOEFL MAP Reading Advance - HR_etc
 12. Cambridge IELTS 12 - HR_etc
 13. Cambridge IELTS 13 - HR_etc
+14. 손자병법 - HR_etc
 
 
 ## Programming
@@ -60,6 +61,9 @@
 8. R과 Python을 활용한 다변량분석 - Math_and_Statistics
 9. 베이즈 데이터 분석 - Math_and_Statistics
 10. Let's 태블로, 데이터 시각화 - Math_and_Statistics
+11. Practical Linear Algebra for Data Science(원서) - Math_and_Statistics
+12. Mathematics for Machine Learning(원서) - Math_and_Statistics
+13. John E.Freund's Mathematical Statistics(원서) - Math_and_Statistics
 
 
 ## Machine_learning
