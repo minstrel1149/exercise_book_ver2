@@ -1627,3 +1627,7 @@
 ## An Introduction to Statistical Learning with Applications in Python (원서)
 ### 2025년 1월 21일
 1. Chapter.1 - Introduction
+
+### 2025년 1월 22일
+1. Chapter.2 - Statistical Learning(~ing)
+    1. Section 2.1 - What is Statistical Learning?(~ing)
