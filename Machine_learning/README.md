@@ -1630,4 +1630,4 @@
 
 ### 2025년 1월 22일
 1. Chapter.2 - Statistical Learning(~ing)
-    1. Section 2.1 - What is Statistical Learning?(~ing)
+    1. Section 2.1 - What is Statistical Learning?
