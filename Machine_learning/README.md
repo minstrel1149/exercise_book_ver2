@@ -1634,4 +1634,4 @@
 
 ### 2025년 1월 23일
 1. Chapter.2 - Statistical Learning(~ing)
-    1. Section 2.2 - Assessing Model Accuracy(~ing)
+    1. Section 2.2 - Assessing Model Accuracy
