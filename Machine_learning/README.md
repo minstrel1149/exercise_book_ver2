@@ -1635,3 +1635,7 @@
 ### 2025년 1월 23일
 1. Chapter.2 - Statistical Learning(~ing)
     1. Section 2.2 - Assessing Model Accuracy
+
+### 2025년 1월 24일
+1. Chapter.2 - Statistical Learning(~ing)
+    1. Section 2.3 - Lab: Introduction to Python(~ing)
