@@ -1641,5 +1641,5 @@
     1. Section 2.3 - Lab: Introduction to Python(~ing)
 
 ### 2025년 1월 25일
-1. Chapter.2 - Statistical Learning(~ing)
-    1. Section 2.3 - Lab: Introduction to Python(~ing)
+1. Chapter.2 - Statistical Learning
+    1. Section 2.3 - Lab: Introduction to Python
