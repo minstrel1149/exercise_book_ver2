@@ -1646,6 +1646,7 @@
 
 ### 2025년 1월 26일
 1. Chapter.3 - Linear Regression(~ing)
-    1. Section 3.1 - Simple Linear Regression(~ing)
+    1. Section 3.1 - Simple Linear Regression
         - Estimating the Coefficients
-        - Assessing the Accuracy of the Coefficients Estimates(~ing)
+        - Assessing the Accuracy of the Coefficients Estimates
+        - Assessing the Accuracy of the Model
