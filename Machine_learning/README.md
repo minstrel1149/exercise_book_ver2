@@ -1643,3 +1643,9 @@
 ### 2025년 1월 25일
 1. Chapter.2 - Statistical Learning
     1. Section 2.3 - Lab: Introduction to Python
+
+### 2025년 1월 26일
+1. Chapter.3 - Linear Regression(~ing)
+    1. Section 3.1 - Simple Linear Regression(~ing)
+        - Estimating the Coefficients
+        - Assessing the Accuracy of the Coefficients Estimates(~ing)
