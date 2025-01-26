@@ -1650,6 +1650,6 @@
         - Estimating the Coefficients
         - Assessing the Accuracy of the Coefficients Estimates
         - Assessing the Accuracy of the Model
-    2. Section 3.2 - Multiple Linear Regression(~ing)
+    2. Section 3.2 - Multiple Linear Regression
         - Estimating the Regression Coefficients
-        - Some Important Questions(~ing)
+        - Some Important Questions
