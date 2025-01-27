@@ -1658,4 +1658,5 @@
 1. Chapter.3 - Linear Regression(~ing)
     1. Section 3.3 - Other Considerations in the Regression Model
         - Qualitative Predictors
-        - Extensions of the Linear Model(~ing)
+        - Extensions of the Linear Model
+        - Potential Problems(~ing)
