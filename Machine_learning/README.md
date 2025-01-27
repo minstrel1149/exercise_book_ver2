@@ -1661,3 +1661,4 @@
         - Extensions of the Linear Model
         - Potential Problems
     2. Section 3.4 - The Marketing Plan
+    3. Section 3.5 - Comparison of Linear Regression with K-Nearest Neighbors
