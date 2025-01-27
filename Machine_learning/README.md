@@ -1653,3 +1653,9 @@
     2. Section 3.2 - Multiple Linear Regression
         - Estimating the Regression Coefficients
         - Some Important Questions
+
+### 2025년 1월 27일
+1. Chapter.3 - Linear Regression(~ing)
+    1. Section 3.3 - Other Considerations in the Regression Model
+        - Qualitative Predictors
+        - Extensions of the Linear Model(~ing)
