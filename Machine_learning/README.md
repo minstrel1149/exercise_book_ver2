@@ -1671,3 +1671,5 @@
         - Multiple Linear Regression
         - Multivariate Goodness of Fit
         - Interaction Terms
+        - Non-Linear Transformation of the Predictors
+        - Qualitative Predictors
