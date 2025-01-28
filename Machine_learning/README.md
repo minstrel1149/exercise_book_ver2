@@ -1662,3 +1662,9 @@
         - Potential Problems
     2. Section 3.4 - The Marketing Plan
     3. Section 3.5 - Comparison of Linear Regression with K-Nearest Neighbors
+
+### 2025년 1월 28일
+1. Chapter.3 - Linear Regression
+    1. Section 3.6 - Lab: Linear Regression
+        - Importing Packages
+        - Simple Linear Regression(~ing)
