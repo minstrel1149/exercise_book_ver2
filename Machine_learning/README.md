@@ -1687,3 +1687,5 @@
         - Making Predictions
         - Multiple Logistic Regression
         - Multinomial Logistic Regression
+    2. Section 4.4 - Generative Models for Classification(~ing)
+        - Linear Discriminant Analysis for p = 1
