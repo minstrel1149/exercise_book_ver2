@@ -1681,6 +1681,9 @@
 
 ### 2025년 2월 2일
 1. Chapter.4 - Classification(~ing)
-    1. Section 4.3 - Logistic Regression(~ing)
+    1. Section 4.3 - Logistic Regression
         - The Logistic Model
         - Estimating the Regression Coefficients
+        - Making Predictions
+        - Multiple Logistic Regression
+        - Multinomial Logistic Regression
