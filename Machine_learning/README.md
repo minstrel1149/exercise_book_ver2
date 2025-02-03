@@ -1689,3 +1689,8 @@
         - Multinomial Logistic Regression
     2. Section 4.4 - Generative Models for Classification(~ing)
         - Linear Discriminant Analysis for p = 1
+
+### 2025년 2월 3일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.4 - Generative Models for Classification
+        - Linear Discriminant Analysis for p > 1
