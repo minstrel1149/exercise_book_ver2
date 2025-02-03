@@ -1694,3 +1694,5 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.4 - Generative Models for Classification
         - Linear Discriminant Analysis for p > 1
+        - Quadratic Discriminant Analysis
+        - Naive Bayes
