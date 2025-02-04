@@ -1696,3 +1696,8 @@
         - Linear Discriminant Analysis for p > 1
         - Quadratic Discriminant Analysis
         - Naive Bayes
+    
+### 2025년 2월 4일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.5 - A Comparison of Classification Methods(~ing)
+        - An Analytical Comparison
