@@ -1701,3 +1701,8 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.5 - A Comparison of Classification Methods(~ing)
         - An Analytical Comparison
+
+### 2025년 2월 5일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.5 - A Comparison of Classification Methods
+        - An Empirical Comparison
