@@ -1710,6 +1710,11 @@
         - Linear Regression on the Bikeshare Data
         - Poisson Regression on the Bikeshare Data
         - Generalized Linear Model in Greater Generality
-    3. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN
+    3. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN(~ing)
         - The Stock Market Data
         - Logistic Regression
+
+### 2025년 2월 6일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN(~ing)
+        - Linear Discriminant Analysis
