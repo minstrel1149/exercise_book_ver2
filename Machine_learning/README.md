@@ -1712,3 +1712,4 @@
         - Generalized Linear Model in Greater Generality
     3. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN
         - The Stock Market Data
+        - Logistic Regression
