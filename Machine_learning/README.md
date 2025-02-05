@@ -1706,3 +1706,7 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.5 - A Comparison of Classification Methods
         - An Empirical Comparison
+    2. Section 4.6 - Generalized Linear Models
+        - Linear Regression on the Bikeshare Data
+        - Poisson Regression on the Bikeshare Data
+        - Generalized Linear Model in Greater Generality
