@@ -1718,3 +1718,9 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN(~ing)
         - Linear Discriminant Analysis
+
+### 2025년 2월 7일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN
+        - Quadratic Discriminant Analysis
+        - Naive Bayes
