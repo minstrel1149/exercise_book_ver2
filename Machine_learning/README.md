@@ -1724,3 +1724,4 @@
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA and KNN
         - Quadratic Discriminant Analysis
         - Naive Bayes
+        - K-Nearest Neighbors
