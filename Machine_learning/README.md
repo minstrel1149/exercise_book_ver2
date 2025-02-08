@@ -1737,3 +1737,7 @@
         - k-Fold Cross-Validation
         - Bias-Variance Trade-Off for k-Fold Cross-Validation
         - Cross-Validation on Classification Problems
+
+### 2025년 2월 9일
+1. Chapter.5 - Resampling Methods(~ing)
+    1. Section 5.2 - The Bootstrap
