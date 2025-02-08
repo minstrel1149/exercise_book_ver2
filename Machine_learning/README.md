@@ -1725,3 +1725,8 @@
         - Quadratic Discriminant Analysis
         - Naive Bayes
         - K-Nearest Neighbors
+
+### 2025년 2월 8일
+1. Chapter.4 - Classification
+    1. Section 4.7 - Lab: Logistic Regression, LDA, QDA ann KNN
+        - Linear and Poisson Regression on the Bikeshare Data
