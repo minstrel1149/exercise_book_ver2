@@ -1734,3 +1734,6 @@
     1. Section 5.1 - Cross-Validation
         - The Validation Set Approach
         - Leave-One-Out Cross-Validation
+        - k-Fold Cross-Validation
+        - Bias-Variance Trade-Off for k-Fold Cross-Validation
+        - Cross-Validation on Classification Problems
