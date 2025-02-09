@@ -1748,5 +1748,5 @@
 
 ### 2025년 2월 10일
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
-    1. Section 6.1 - Subset Selection(~ing)
+    1. Section 6.1 - Subset Selection
         - Best Subset Selection
