@@ -1743,3 +1743,4 @@
     1. Section 5.2 - The Bootstrap
     2. Section 5.3 - Lab: Cross-Validation and the Bootstrap
         - The Validation Set Approach
+        - Cross-Validation
