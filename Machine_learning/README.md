@@ -1739,9 +1739,14 @@
         - Cross-Validation on Classification Problems
 
 ### 2025년 2월 9일
-1. Chapter.5 - Resampling Methods(~ing)
+1. Chapter.5 - Resampling Methods
     1. Section 5.2 - The Bootstrap
     2. Section 5.3 - Lab: Cross-Validation and the Bootstrap
         - The Validation Set Approach
         - Cross-Validation
         - The Bootstrap
+
+### 2025년 2월 10일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.1 - Subset Selection(~ing)
+        - Best Subset Selection
