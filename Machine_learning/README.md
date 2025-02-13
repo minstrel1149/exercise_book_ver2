@@ -1760,3 +1760,8 @@
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
     1. Section 6.1 - Subset Selection
         - Choosing the Optimal Model
+
+### 2025년 2월 13일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.2 - Shrinkage Methods(~ing)
+        - Ridge Regression
