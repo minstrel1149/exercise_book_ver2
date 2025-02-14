@@ -1768,5 +1768,6 @@
 
 ### 2025년 2월 14일
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
-    1. Section 6.2 - Shrinkage Methods(~ing)
-        - The Lasso(~ing)
+    1. Section 6.2 - Shrinkage Methods
+        - The Lasso
+        - Selecting the Tuning Parameter
