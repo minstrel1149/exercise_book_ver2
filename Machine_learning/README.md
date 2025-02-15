@@ -1771,3 +1771,8 @@
     1. Section 6.2 - Shrinkage Methods
         - The Lasso
         - Selecting the Tuning Parameter
+
+### 2025년 2월 15일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.3 - Dimension Reduction Methods
+        - Principal Components Regression(~ing)
