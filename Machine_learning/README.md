@@ -1787,4 +1787,4 @@
 1. Chapter.6 - Linear Model Selection and Regularization
     1. Section 6.5 - Lab: Linear Models and Regularization Methods
         - Subset Selection Methods
-        - Ridge Regression and the Lasso(~ing)
+        - Ridge Regression and the Lasso
