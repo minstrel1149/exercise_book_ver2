@@ -1789,3 +1789,8 @@
         - Subset Selection Methods
         - Ridge Regression and the Lasso
         - PCR and PLS Regression
+
+### 2025년 2월 17일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.1 - Polynomial Regression
+    2. Section 7.2 - Step Functions
