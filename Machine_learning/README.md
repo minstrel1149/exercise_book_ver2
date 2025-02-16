@@ -1788,3 +1788,4 @@
     1. Section 6.5 - Lab: Linear Models and Regularization Methods
         - Subset Selection Methods
         - Ridge Regression and the Lasso
+        - PCR and PLS Regression
