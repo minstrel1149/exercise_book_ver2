@@ -1794,3 +1794,4 @@
 1. Chapter.7 - Moving Beyond Linearity(~ing)
     1. Section 7.1 - Polynomial Regression
     2. Section 7.2 - Step Functions
+    3. Section 7.3 - Basis Functions
