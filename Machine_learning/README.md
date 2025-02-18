@@ -1801,3 +1801,10 @@
     1. Section 7.4 - Regression Splines(~ing)
         - Piecewise Polynomials
         - Constraints and Splines
+
+### 2025년 2월 19일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.4 - Regression Splines
+        - The Spline Basis Representation
+        - Choosing the Numbers and Locations of the Knots
+        - Comparison to Polynomial Regression
