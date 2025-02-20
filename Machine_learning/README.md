@@ -1808,3 +1808,10 @@
         - The Spline Basis Representation
         - Choosing the Numbers and Locations of the Knots
         - Comparison to Polynomial Regression
+
+### 2025년 2월 20일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.5 - Smoothing Splines
+        - An Overview of Smoothing Splines
+        - Choosing the Smoothing Parameter Lambda
+    2. Section 7.6 - Local Regression
