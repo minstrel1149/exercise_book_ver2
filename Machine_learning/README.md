@@ -1822,4 +1822,4 @@
         - GAMs for Regression Problems
         - GAMs for Classification Problems
     2. Section 7.8 - Lab: Non-Linear Modeling
-        - Polynomial Regression and Step Functions(~ing)
+        - Polynomial Regression and Step Functions
