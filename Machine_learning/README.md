@@ -1825,8 +1825,13 @@
         - Polynomial Regression and Step Functions
 
 ### 2025년 2월 22일
-1. Chapter.8 - Moving Beyond Linearity
+1. Chapter.7 - Moving Beyond Linearity
     1. Section 7.8 - Lab: Non-Linear Modeling
         - Splines
         - Smoothing Splines and GAMs
         - Local Regression
+
+### 2025년 2월 23일
+1. Chapter.8 - Tree-Based Methods
+    1. Section 8.1 - The Basics of Decision Trees
+        - Regression Trees
