@@ -1821,5 +1821,10 @@
     1. Section 7.7 - Generalized Additive Models
         - GAMs for Regression Problems
         - GAMs for Classification Problems
-    2. Section 7.8 - Lab: Non-Linear Modeling
+    2. Section 7.8 - Lab: Non-Linear Modeling(~ing)
         - Polynomial Regression and Step Functions
+
+### 2025년 2월 22일
+1. Chapter.8 - Moving Beyond Linearity
+    1. Section 7.8 - Lab: Non-Linear Modeling
+        - Splines
