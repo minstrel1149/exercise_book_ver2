@@ -1828,4 +1828,5 @@
 1. Chapter.8 - Moving Beyond Linearity
     1. Section 7.8 - Lab: Non-Linear Modeling
         - Splines
-        - Smoothing Splines and GAMs(~ing)
+        - Smoothing Splines and GAMs
+        - Local Regression
