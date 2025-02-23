@@ -1832,9 +1832,15 @@
         - Local Regression
 
 ### 2025년 2월 23일
-1. Chapter.8 - Tree-Based Methods
+1. Chapter.8 - Tree-Based Methods(~ing)
     1. Section 8.1 - The Basics of Decision Trees
         - Regression Trees
         - Classification Trees
         - Trees Versus Linear Models
         - Advantages and Disadvantages of Trees
+
+### 2025년 2월 24일
+1. Chapter.8 - Tree-Based Methods(~ing)
+    1. Section 8.2 - Bagging, Random Forests, Boosting, etc(~ing)
+        - Bagging
+        - Random Forests
