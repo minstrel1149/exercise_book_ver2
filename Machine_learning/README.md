@@ -1835,3 +1835,6 @@
 1. Chapter.8 - Tree-Based Methods
     1. Section 8.1 - The Basics of Decision Trees
         - Regression Trees
+        - Classification Trees
+        - Trees Versus Linear Models
+        - Advantages and Disadvantages of Trees
