@@ -1855,4 +1855,4 @@
 ### 2025년 2월 26일
 1. Chapter.8 - Tred-Based Methods(~ing)
     1. Section 8.3 - Lab: Tree-Based Methods(~ing)
-        - Fitting Classification Trees(~ing)
+        - Fitting Classification Trees
