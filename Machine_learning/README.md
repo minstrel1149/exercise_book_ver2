@@ -1853,6 +1853,12 @@
         - Summary of Tree Ensembel Methods
 
 ### 2025년 2월 26일
-1. Chapter.8 - Tred-Based Methods(~ing)
+1. Chapter.8 - Tree-Based Methods(~ing)
     1. Section 8.3 - Lab: Tree-Based Methods(~ing)
         - Fitting Classification Trees
+
+### 2025년 2월 27일
+1. Chapter.8 - Tree-Based Methods(~ing)
+    1. Section 8.3 - Lab: Tree-Based Methods(~ing)
+        - Fitting Regression Trees
+        - Bagging and Random Forests
