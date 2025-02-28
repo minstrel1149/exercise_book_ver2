@@ -1862,3 +1862,9 @@
     1. Section 8.3 - Lab: Tree-Based Methods(~ing)
         - Fitting Regression Trees
         - Bagging and Random Forests
+
+### 2025년 2월 28일
+1. Chapter.8 - Tree-Based Methods
+    1. Section 8.3 - Lab: Tree-Based Methods
+        - Boosting
+        - Bayesian Additive Regression Trees
