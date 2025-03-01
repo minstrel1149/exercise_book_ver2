@@ -1868,3 +1868,9 @@
     1. Section 8.3 - Lab: Tree-Based Methods
         - Boosting
         - Bayesian Additive Regression Trees
+
+### 2025년 3월 1일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Maximal Margin Classifier(~ing)
+        - What Is a Hyperplane?
+        - Classification Using a Seperating Hyperplane
