@@ -1874,3 +1874,10 @@
     1. Maximal Margin Classifier(~ing)
         - What Is a Hyperplane?
         - Classification Using a Seperating Hyperplane
+
+### 2025년 3월 2일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Maximal Margin Classifier
+        - The Maximal Margin Classifier
+        - Construction of the Maximal Margin Classifier
+        - The Non-Separable Case
