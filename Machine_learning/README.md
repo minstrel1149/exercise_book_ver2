@@ -1881,3 +1881,8 @@
         - The Maximal Margin Classifier
         - Construction of the Maximal Margin Classifier
         - The Non-Separable Case
+
+### 2025년 3월 9일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Support Vector Classifier
+        - Overview of the Support Vector Classifier
