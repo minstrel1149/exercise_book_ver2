@@ -1892,3 +1892,9 @@
 1. Chapter.9 - Support Vector Machines(~ing)
     1. Support Vector Machines(~ing)
         - Classification with Non-Linear Decision Boundaries
+
+### 2025년 3월 12일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Support Vector Machines
+        - The Support Vector Machines
+        - An Application to the Heart Disease Data
