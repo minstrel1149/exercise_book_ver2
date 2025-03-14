@@ -1898,3 +1898,9 @@
     1. Support Vector Machines
         - The Support Vector Machines
         - An Application to the Heart Disease Data
+
+### 2025년 3월 14일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. SVMs with More Than Two Classes
+        - One-Versus-One Classification
+        - One-Versus-All Classification
