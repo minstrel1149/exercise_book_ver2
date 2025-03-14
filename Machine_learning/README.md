@@ -1904,3 +1904,4 @@
     1. SVMs with More Than Two Classes
         - One-Versus-One Classification
         - One-Versus-All Classification
+    2. Relationship to Logistic Regression
