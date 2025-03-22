@@ -1905,3 +1905,8 @@
         - One-Versus-One Classification
         - One-Versus-All Classification
     2. Relationship to Logistic Regression
+
+### 2025년 3월 22일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Lab: Support Vector Machines(~ing)
+        - Support Vector Classifier
