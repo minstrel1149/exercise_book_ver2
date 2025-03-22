@@ -1907,8 +1907,10 @@
     2. Relationship to Logistic Regression
 
 ### 2025년 3월 22일
-1. Chapter.9 - Support Vector Machines(~ing)
-    1. Lab: Support Vector Machines(~ing)
+1. Chapter.9 - Support Vector Machines
+    1. Lab: Support Vector Machines
         - Support Vector Classifier
         - Support Vector Machine
         - ROC Curves
+        - SVM with Multiple Classes
+        - Application to Gene Expression Data
