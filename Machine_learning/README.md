@@ -1911,3 +1911,4 @@
     1. Lab: Support Vector Machines(~ing)
         - Support Vector Classifier
         - Support Vector Machine
+        - ROC Curves
