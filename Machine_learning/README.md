@@ -1910,3 +1910,4 @@
 1. Chapter.9 - Support Vector Machines(~ing)
     1. Lab: Support Vector Machines(~ing)
         - Support Vector Classifier
+        - Support Vector Machine
