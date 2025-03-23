@@ -1917,4 +1917,4 @@
 
 ### 2025년 3월 23일
 1. Chapter.10 - Deep Learning(~ing)
-    1. 
+    1. Section 10.1 - Single Layer Neural Networks
