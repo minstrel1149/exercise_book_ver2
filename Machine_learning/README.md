@@ -1871,46 +1871,50 @@
 
 ### 2025년 3월 1일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. Maximal Margin Classifier(~ing)
+    1. Section 9.1 - Maximal Margin Classifier(~ing)
         - What Is a Hyperplane?
         - Classification Using a Seperating Hyperplane
 
 ### 2025년 3월 2일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. Maximal Margin Classifier
+    1. Section 9.1 - Maximal Margin Classifier
         - The Maximal Margin Classifier
         - Construction of the Maximal Margin Classifier
         - The Non-Separable Case
 
 ### 2025년 3월 9일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. Support Vector Classifier
+    1. Section 9.2 - Support Vector Classifier
         - Overview of the Support Vector Classifier
         - Details of the Support Vector Classifier
 
 ### 2025년 3월 11일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. Support Vector Machines(~ing)
+    1. Section 9.3 - Support Vector Machines(~ing)
         - Classification with Non-Linear Decision Boundaries
 
 ### 2025년 3월 12일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. Support Vector Machines
+    1. Section 9.3 - Support Vector Machines
         - The Support Vector Machines
         - An Application to the Heart Disease Data
 
 ### 2025년 3월 14일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. SVMs with More Than Two Classes
+    1. Section 9.4 - SVMs with More Than Two Classes
         - One-Versus-One Classification
         - One-Versus-All Classification
-    2. Relationship to Logistic Regression
+    2. Section 9.5 - Relationship to Logistic Regression
 
 ### 2025년 3월 22일
 1. Chapter.9 - Support Vector Machines
-    1. Lab: Support Vector Machines
+    1. Section 9.6 - Lab: Support Vector Machines
         - Support Vector Classifier
         - Support Vector Machine
         - ROC Curves
         - SVM with Multiple Classes
         - Application to Gene Expression Data
+
+### 2025년 3월 23일
+1. Chapter.10 - Deep Learning(~ing)
+    1. 
