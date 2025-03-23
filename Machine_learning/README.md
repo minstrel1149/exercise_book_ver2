@@ -1919,3 +1919,4 @@
 1. Chapter.10 - Deep Learning(~ing)
     1. Section 10.1 - Single Layer Neural Networks
     2. Section 10.2 - Multi-Layer Neural Networks
+    3. Section 10.3 - Convolutional Neural Networks(~ing)
