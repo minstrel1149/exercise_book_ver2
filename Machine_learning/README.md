@@ -1926,3 +1926,10 @@
     1. Section 10.3 - Convolutional Neural Networks(~ing)
         - Convolution Layers
         - Pooling Layers
+
+### 2025년 3월 25일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.3 - Convolutional Neural Networks
+        - Architecture of a Convolutional Neural Network
+        - Data Augmentation
+        - Results Using a Pretrained Classifier
