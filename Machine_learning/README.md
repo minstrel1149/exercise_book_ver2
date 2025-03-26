@@ -1937,3 +1937,7 @@
 ### 2025년 3월 26일
 1. Chapter.10 - Deep Learning(~ing)
     1. Section 10.4 - Document Classification
+
+### 2025년 3월 27일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.5 - Recurrent Neural Networks(~ing)
