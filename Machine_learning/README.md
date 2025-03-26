@@ -1933,3 +1933,7 @@
         - Architecture of a Convolutional Neural Network
         - Data Augmentation
         - Results Using a Pretrained Classifier
+
+### 2025년 3월 26일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.4 - Document Classification
