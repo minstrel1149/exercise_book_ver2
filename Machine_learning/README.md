@@ -1941,3 +1941,8 @@
 ### 2025년 3월 27일
 1. Chapter.10 - Deep Learning(~ing)
     1. Section 10.5 - Recurrent Neural Networks(~ing)
+
+### 2025년 3월 29일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.5 - Recurrent Neural Networks(~ing)
+        - Sequential Models for Document Classification
