@@ -1951,3 +1951,4 @@
 1. Chapter.10 - Deep Learning(~ing)
     1. Section 10.5 - Recurrent Neural Networks
         - Time Series Forecasting
+        - Summary of RNNs
