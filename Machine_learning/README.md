@@ -1952,3 +1952,7 @@
     1. Section 10.5 - Recurrent Neural Networks
         - Time Series Forecasting
         - Summary of RNNs
+
+### 2025년 3월 31일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.6 - When to Use Deep Learning
