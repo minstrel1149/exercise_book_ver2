@@ -1956,3 +1956,9 @@
 ### 2025년 3월 31일
 1. Chapter.10 - Deep Learning(~ing)
     1. Section 10.6 - When to Use Deep Learning
+
+### 2025년 4월 1일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.7 - Fitting a Neural Network
+        - Backpropagation
+        - Regularization and Stochastic Gradient Descent
