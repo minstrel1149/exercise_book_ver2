@@ -1964,3 +1964,7 @@
         - Regularization and Stochastic Gradient Descent
         - Dropout Learning
         - Network Tuning
+
+### 2025년 4월 3일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.8 - Interpolation and Double Descent
