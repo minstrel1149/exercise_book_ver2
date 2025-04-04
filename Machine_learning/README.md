@@ -1973,3 +1973,4 @@
 1. Chapter.11 - Survival Analysis and Censored Data(~ing)
     1. Survival and Censoring Times
     2. A Closer Look at Censoring
+    3. The Kaplan-Meier Survival Curve
