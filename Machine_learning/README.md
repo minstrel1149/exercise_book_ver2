@@ -1974,3 +1974,6 @@
     1. Survival and Censoring Times
     2. A Closer Look at Censoring
     3. The Kaplan-Meier Survival Curve
+    4. The Log-Rank Test
+    5. Regression Models With a Survival Response(~ing)
+        - The Hazard Function
