@@ -1966,5 +1966,10 @@
         - Network Tuning
 
 ### 2025년 4월 3일
-1. Chapter.10 - Deep Learning(~ing)
+1. Chapter.10 - Deep Learning
     1. Section 10.8 - Interpolation and Double Descent
+
+### 2025년 4월 4일
+1. Chapter.11 - Survival Analysis and Censored Data(~ing)
+    1. Survival and Censoring Times
+    2. A Closer Look at Censoring
