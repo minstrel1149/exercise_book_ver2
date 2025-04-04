@@ -1977,3 +1977,6 @@
     4. The Log-Rank Test
     5. Regression Models With a Survival Response(~ing)
         - The Hazard Function
+        - Proportional Hazards
+        - Example: Brain Cancer Data
+        - Example: Publication Data
