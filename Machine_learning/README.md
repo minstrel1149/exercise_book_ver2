@@ -1971,12 +1971,16 @@
 
 ### 2025년 4월 4일
 1. Chapter.11 - Survival Analysis and Censored Data(~ing)
-    1. Survival and Censoring Times
-    2. A Closer Look at Censoring
-    3. The Kaplan-Meier Survival Curve
-    4. The Log-Rank Test
-    5. Regression Models With a Survival Response(~ing)
+    1. Section 11.1 - Survival and Censoring Times
+    2. Section 11.2 - A Closer Look at Censoring
+    3. Section 11.3 - The Kaplan-Meier Survival Curve
+    4. Section 11.4 - The Log-Rank Test
+    5. Section 11.5 - Regression Models With a Survival Response
         - The Hazard Function
         - Proportional Hazards
         - Example: Brain Cancer Data
         - Example: Publication Data
+
+### 2025년 4월 5일
+1. Chapter.11 - Survival Analysis and Censored Data(~ing)
+    1. Shrinkage for the Cox Model
