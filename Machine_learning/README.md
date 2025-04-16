@@ -2000,3 +2000,8 @@
 1. Chapter.11 - Survival Analysis and Censored Data(~ing)
     1. Section 11.8 - Lab: Survival Analysis(~ing)
         - Publication Data
+
+### 2025년 4월 17일
+1. Chapter.11 - Survival Analysis and Censored Data
+    1. Section 11.8 - Lab: Survival Analysis
+        - Call Center Data(~ing)
