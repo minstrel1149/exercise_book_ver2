@@ -2005,3 +2005,9 @@
 1. Chapter.11 - Survival Analysis and Censored Data
     1. Section 11.8 - Lab: Survival Analysis
         - Call Center Data
+
+### 2025년 4월 18일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.1 - The Challenge of Unsupervised Learning
+    2. Section 12.2 - Principal Components Analysis(~ing)
+        - What Are Principal Components
