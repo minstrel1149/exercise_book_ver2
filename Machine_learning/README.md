@@ -2016,3 +2016,4 @@
 1. Chapter.12 - Unsupervised Learning(~ing)
     1. Section 12.2 - Principal Components Analysis(~ing)
         - Another Interpretation of Principal Components
+        - The Proportion of Variance Explained
