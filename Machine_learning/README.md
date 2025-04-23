@@ -2017,3 +2017,9 @@
     1. Section 12.2 - Principal Components Analysis(~ing)
         - Another Interpretation of Principal Components
         - The Proportion of Variance Explained
+
+### 2025년 4월 23일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.2 - Principal Components Analysis
+        - More on PCA
+        - Other Uses for Principal Components
