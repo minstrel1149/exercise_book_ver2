@@ -2032,3 +2032,8 @@
     2. Section 12.4 - Clustering Methods(~ing)
         - K-Means Clustering
         - Hierarchical Clustering
+
+### 2025년 4월 25일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.4 - Clustering Methods(~ing)
+        - Practical Issues in Clustering
