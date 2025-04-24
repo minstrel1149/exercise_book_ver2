@@ -2029,3 +2029,5 @@
     1. Section 12.3 - Missing Values and Matrix Completion
         - Principal Components with Missing Values
         - Recommender Systems
+    2. Section 12.4 - Clustering Methods(~ing)
+        - K-Means Clustering
