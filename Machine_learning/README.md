@@ -2023,3 +2023,9 @@
     1. Section 12.2 - Principal Components Analysis
         - More on PCA
         - Other Uses for Principal Components
+
+### 2025년 4월 24일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.3 - Missing Values and Matrix Completion
+        - Principal Components with Missing Values
+        - Recommender Systems
