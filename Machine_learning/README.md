@@ -2031,4 +2031,4 @@
         - Recommender Systems
     2. Section 12.4 - Clustering Methods(~ing)
         - K-Means Clustering
-        - Hierarchical Clustering(~ing)
+        - Hierarchical Clustering
