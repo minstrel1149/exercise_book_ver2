@@ -2043,3 +2043,4 @@
     1. Section 12.5 - Lab: Unsupervised Learning(~ing)
         - Principal Component Analysis
         - Matrix Completion
+        - Clustering(~ing)
