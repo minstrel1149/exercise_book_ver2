@@ -2044,3 +2044,8 @@
         - Principal Component Analysis
         - Matrix Completion
         - Clustering(~ing)
+
+### 2025년 4월 27일
+1. Chapter.12 - Unsupervised Learning
+    1. Section 12.5 - Lab: Unsupervised Learning
+        - Clustering
