@@ -2037,3 +2037,8 @@
 1. Chapter.12 - Unsupervised Learning(~ing)
     1. Section 12.4 - Clustering Methods(~ing)
         - Practical Issues in Clustering
+
+### 2025년 4월 26일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.5 - Lab: Unsupervised Learning(~ing)
+        - Principal Component Analysis
