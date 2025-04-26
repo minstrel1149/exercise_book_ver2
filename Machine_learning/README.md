@@ -2042,3 +2042,4 @@
 1. Chapter.12 - Unsupervised Learning(~ing)
     1. Section 12.5 - Lab: Unsupervised Learning(~ing)
         - Principal Component Analysis
+        - Matrix Completion
