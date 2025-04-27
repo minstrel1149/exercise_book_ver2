@@ -2049,3 +2049,4 @@
 1. Chapter.12 - Unsupervised Learning
     1. Section 12.5 - Lab: Unsupervised Learning
         - Clustering
+        - NCI60 Data Example(~ing)
