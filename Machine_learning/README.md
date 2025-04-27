@@ -2050,3 +2050,8 @@
     1. Section 12.5 - Lab: Unsupervised Learning
         - Clustering
         - NCI60 Data Example
+
+### 2025년 4월 28일
+1. Chapter.2 - Statistical Learning(~ing)
+    1. Section 2.1 - What Is Statistical Learning(~ing)
+        - Why Estimate f?
