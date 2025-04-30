@@ -2055,3 +2055,8 @@
 1. Chapter.2 - Statistical Learning(~ing)
     1. Section 2.1 - What Is Statistical Learning(~ing)
         - Why Estimate f?
+
+### 2025년 4월 30일
+1. Chapter.2 - Statistical Learning(~ing)
+    1. Section 2.1 - What Is Statistical Learning(~ing)
+        - How Do We Estimate f?
