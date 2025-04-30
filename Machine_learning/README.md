@@ -2060,3 +2060,6 @@
 1. Chapter.2 - Statistical Learning(~ing)
     1. Section 2.1 - What Is Statistical Learning(~ing)
         - How Do We Estimate f?
+        - The Trade-Off Between Prediction Accuracy and Model Interpretability
+        - Supervised Versus Unsupervised Learning
+        - Regression Versus Classification Problems
