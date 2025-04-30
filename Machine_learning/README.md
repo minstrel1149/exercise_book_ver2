@@ -2058,8 +2058,10 @@
 
 ### 2025년 4월 30일
 1. Chapter.2 - Statistical Learning(~ing)
-    1. Section 2.1 - What Is Statistical Learning(~ing)
+    1. Section 2.1 - What Is Statistical Learning
         - How Do We Estimate f?
-        - The Trade-Off Between Prediction Accuracy and Model Interpretability
+        - The Trade-Off between Prediction Accuracy and Model Interpretability
         - Supervised Versus Unsupervised Learning
         - Regression Versus Classification Problems
+    2. Section 2.2 - Assessing Model Accuracy(~ing)
+        - Measuring the Quality of Fit
