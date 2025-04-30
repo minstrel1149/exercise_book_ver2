@@ -2065,3 +2065,8 @@
         - Regression Versus Classification Problems
     2. Section 2.2 - Assessing Model Accuracy(~ing)
         - Measuring the Quality of Fit
+
+### 2025년 5월 1일
+1. Chapter.2 - Statistical Learning(~ing)
+    1. Section 2.2 - Assessing Model Accuracy(~ing)
+        - The Bias-Variance Trade-Off
