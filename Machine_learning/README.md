@@ -2067,6 +2067,7 @@
         - Measuring the Quality of Fit
 
 ### 2025년 5월 1일
-1. Chapter.2 - Statistical Learning(~ing)
-    1. Section 2.2 - Assessing Model Accuracy(~ing)
+1. Chapter.2 - Statistical Learning
+    1. Section 2.2 - Assessing Model Accuracy
         - The Bias-Variance Trade-Off
+        - The Classification Setting
