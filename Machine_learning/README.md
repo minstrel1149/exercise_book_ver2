@@ -2071,3 +2071,8 @@
     1. Section 2.2 - Assessing Model Accuracy
         - The Bias-Variance Trade-Off
         - The Classification Setting
+
+### 2025년 5월 2일
+1. Chatper.3 - Linear Regression(~ing)
+    1. Section 3.1 - Simple Linear Regression(~ing)
+        - Estimating the Coefficients
