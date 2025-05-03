@@ -2081,3 +2081,4 @@
 1. Chapter.3 - Linear Regression(~ing)
     1. Section 3.1 - Simple Linear Regression(~ing)
         - Assessing the Accuracy of the Coefficient Estimates
+        - Assessing the Accuracy of the Model
