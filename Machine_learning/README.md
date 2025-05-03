@@ -2085,3 +2085,8 @@
     2. Section 3.2 - Multiple Linear Regression(~ing)
         - Estimating the Regression Coefficients
         - Some Important Questions(~ing)
+
+### 2025년 5월 4일
+1. Chapter.3 - Linear Regression(~ing)
+    1. Section 3.2 - Multiple Linear Regression
+        - Some Important Questions
