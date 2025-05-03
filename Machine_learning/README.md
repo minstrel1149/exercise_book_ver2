@@ -2084,3 +2084,4 @@
         - Assessing the Accuracy of the Model
     2. Section 3.2 - Multiple Linear Regression(~ing)
         - Estimating the Regression Coefficients
+        - Some Important Questions(~ing)
