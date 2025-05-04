@@ -2090,5 +2090,6 @@
 1. Chapter.3 - Linear Regression(~ing)
     1. Section 3.2 - Multiple Linear Regression
         - Some Important Questions
-    2. Section 3.3 - Other Considerations in the Regression Model
+    2. Section 3.3 - Other Considerations in the Regression Model(~ing)
         - Qualitative Predictors
+        - Extensions of the Linear Model
