@@ -2097,4 +2097,4 @@
 ### 2025년 5월 5일
 1. Chapter.3 - Linear Regression(~ing)
     1. Section 3.3 - Other Considerations in the Regression Model
-        - Potential Problems(~ing)
+        - Potential Problems
