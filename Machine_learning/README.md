@@ -2098,3 +2098,4 @@
 1. Chapter.3 - Linear Regression(~ing)
     1. Section 3.3 - Other Considerations in the Regression Model
         - Potential Problems
+    2. Section 3.4 - The Marketing Plan
