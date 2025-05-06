@@ -2108,3 +2108,10 @@
         - Simple Linear Regression
         - Multiple Linear Regression
         - Multivariate Goodness of Fit
+
+### 2025년 5월 7일
+1. Chapter.3 - Linear Regression
+    1. Section 3.6 - Lab: Linear Regression
+        - Interaction Terms
+        - Non-Linear Transformations of the Predictors
+        - Qualitative Predictors
