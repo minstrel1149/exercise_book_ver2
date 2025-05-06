@@ -2105,4 +2105,6 @@
 1. Chapter.3 - Linear Regression(~ing)
     1. Section 3.6 - Lab: Linear Regression(~ing)
         - Importing Packages
-        - Simple Linear Regression(~ing)
+        - Simple Linear Regression
+        - Multiple Linear Regression
+        - Multivariate Goodness of Fit
