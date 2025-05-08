@@ -2120,7 +2120,9 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.1 - An Overview of Classification
     2. Section 4.2 - Why Not Linear Regression?
-    3. Section 4.3 - Logistic Regression(~ing)
+    3. Section 4.3 - Logistic Regression
         - The Logistic Model
         - Estimating the Regression Coefficients
         - Making Predictions
+        - Multiple Logistic Regression
+        - Multinomial Logistic Regression
