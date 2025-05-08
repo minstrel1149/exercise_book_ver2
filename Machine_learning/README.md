@@ -2115,3 +2115,8 @@
         - Interaction Terms
         - Non-Linear Transformations of the Predictors
         - Qualitative Predictors
+
+### 2025년 5월 8일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.1 - An Overview of Classification
+    2. Section 4.2 - Why Not Linear Regression?
