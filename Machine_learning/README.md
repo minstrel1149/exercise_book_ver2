@@ -2131,3 +2131,4 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.4 - Generative Models for Classfication(~ing)
         - Linear Discriminant Analysis for p = 1
+        - Linear Discriminant Analysis for p > 1(~ing)
