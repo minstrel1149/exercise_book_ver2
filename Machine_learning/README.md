@@ -2132,3 +2132,4 @@
     1. Section 4.4 - Generative Models for Classfication(~ing)
         - Linear Discriminant Analysis for p = 1
         - Linear Discriminant Analysis for p > 1
+        - Quadratic Discriminant Analysis
