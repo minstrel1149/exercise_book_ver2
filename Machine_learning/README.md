@@ -2129,7 +2129,12 @@
 
 ### 2025년 5월 10일
 1. Chapter.4 - Classification(~ing)
-    1. Section 4.4 - Generative Models for Classfication(~ing)
+    1. Section 4.4 - Generative Models for Classification(~ing)
         - Linear Discriminant Analysis for p = 1
         - Linear Discriminant Analysis for p > 1
         - Quadratic Discriminant Analysis
+
+### 2025년 5월 11일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.4 - Generative Models for Classification
+        - Naive Bayes
