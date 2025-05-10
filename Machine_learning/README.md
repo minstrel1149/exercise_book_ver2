@@ -2126,3 +2126,8 @@
         - Making Predictions
         - Multiple Logistic Regression
         - Multinomial Logistic Regression
+
+### 2025년 5월 10일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.4 - Generative Models for Classfication(~ing)
+        - Linear Discriminant Analysis for p = 1
