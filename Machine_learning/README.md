@@ -2149,3 +2149,5 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.6 - Generalized Linear Models
         - Linear Regression on the Bikeshare Data
+        - Poisson Regression on the Bikeshare Data
+        - Generalized Linear Models in Greater Generality
