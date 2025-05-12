@@ -2138,3 +2138,8 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.4 - Generative Models for Classification
         - Naive Bayes
+
+### 2025년 5월 12일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.5 - A Comparison of Classification Methods
+        - An Analytical Comparison
