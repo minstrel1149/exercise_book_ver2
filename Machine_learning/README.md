@@ -2157,3 +2157,8 @@
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN(~ing)
         - The Stock Market Data
         - Logistic Regression
+
+### 2025년 5월 16일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN(~ing)
+        - Linear Discriminant Analysis
