@@ -2167,3 +2167,4 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN(~ing)
         - Quadratic Discriminant Analysis
+        - Naive Bayes
