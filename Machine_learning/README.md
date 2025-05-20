@@ -2173,3 +2173,8 @@
 1. Chapter.4 - Classification(~ing)
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN(~ing)
         - K-Nearest Neighbors(~ing)
+
+### 2025년 5월 20일
+1. Chapter.4 - Classification(~ing)
+    1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN(~ing)
+        - K-Nearest Neighbors
