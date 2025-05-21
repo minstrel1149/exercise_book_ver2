@@ -2180,6 +2180,6 @@
         - K-Nearest Neighbors
 
 ### 2025년 5월 21일
-1. Chapter.4 - Classification(~ing)
+1. Chapter.4 - Classification
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN
         - Linear and Poisson Regression on the Bikeshare Data
