@@ -2183,3 +2183,8 @@
 1. Chapter.4 - Classification
     1. Section 4.7 - Lab: Logistic Regression, LDA, QDA, and KNN
         - Linear and Poisson Regression on the Bikeshare Data
+
+### 2025년 5월 22일
+1. Chapter.5 - Resampling Methods(~ing)
+    1. Cross-Validation(~ing)
+        - The Validation Set Approach
