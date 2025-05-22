@@ -2188,3 +2188,9 @@
 1. Chapter.5 - Resampling Methods(~ing)
     1. Cross-Validation(~ing)
         - The Validation Set Approach
+
+### 2025년 5월 23일
+1. Chapter.5 - Resampling Methods(~ing)
+    1. Cross-Validation(~ing)
+        - Leave-One-Out Cross-Validation
+        - K-Fold Cross-Validation
