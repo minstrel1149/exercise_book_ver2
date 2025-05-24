@@ -2201,3 +2201,8 @@
         - Bias-Variance Trade-Off for K-Fold Cross-Validation
         - Cross-Validation on Classification Problems
     2. The Bootstrap
+
+### 2025년 5월 25일
+1. Chapter.5 - Resampling Methods(~ing)
+    1. Lab: Cross-Validation and the Bootstrap(~ing)
+        - The Validation Set Approach
