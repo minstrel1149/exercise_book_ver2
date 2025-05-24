@@ -2194,3 +2194,9 @@
     1. Cross-Validation(~ing)
         - Leave-One-Out Cross-Validation
         - K-Fold Cross-Validation
+
+### 2025년 5월 24일
+1. Chapter.5 - Resampling Methods(~ing)
+    1. Cross-Validation(~ing)
+        - Bias-Variance Trade-Off for K-Fold Cross-Validation
+        - Cross-Validation on Classification Problems
