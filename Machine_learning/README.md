@@ -2206,3 +2206,8 @@
 1. Chapter.5 - Resampling Methods(~ing)
     1. Lab: Cross-Validation and the Bootstrap(~ing)
         - The Validation Set Approach
+
+### 2025년 5월 26일
+1. Chapter.5 - Resampling Methods(~ing)
+    1. Lab: Cross-Validation and the Bootstrap(~ing)
+        - Cross-Validation
