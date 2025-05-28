@@ -2186,33 +2186,38 @@
 
 ### 2025년 5월 22일
 1. Chapter.5 - Resampling Methods(~ing)
-    1. Cross-Validation(~ing)
+    1. Section 5.1 - Cross-Validation(~ing)
         - The Validation Set Approach
 
 ### 2025년 5월 23일
 1. Chapter.5 - Resampling Methods(~ing)
-    1. Cross-Validation(~ing)
+    1. Section 5.1 - Cross-Validation(~ing)
         - Leave-One-Out Cross-Validation
         - K-Fold Cross-Validation
 
 ### 2025년 5월 24일
 1. Chapter.5 - Resampling Methods(~ing)
-    1. Cross-Validation
+    1. Section 5.1 - Cross-Validation
         - Bias-Variance Trade-Off for K-Fold Cross-Validation
         - Cross-Validation on Classification Problems
-    2. The Bootstrap
+    2. Section 5.2 - The Bootstrap
 
 ### 2025년 5월 25일
 1. Chapter.5 - Resampling Methods(~ing)
-    1. Lab: Cross-Validation and the Bootstrap(~ing)
+    1. Section 5.3 - Lab: Cross-Validation and the Bootstrap(~ing)
         - The Validation Set Approach
 
 ### 2025년 5월 26일
 1. Chapter.5 - Resampling Methods(~ing)
-    1. Lab: Cross-Validation and the Bootstrap(~ing)
+    1. Section 5.3 - Lab: Cross-Validation and the Bootstrap(~ing)
         - Cross-Validation
 
 ### 2025년 5월 27일
 1. Chapter.5 - Resampling Methods
-    1. Lab: Cross-Validation and the Bootstrap
+    1. Section 5.3 - Lab: Cross-Validation and the Bootstrap
         - The Bootstrap
+
+### 2025년 5월 28일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.1 - Subset Selection(~ing)
+        - Best Subset Selection
