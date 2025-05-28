@@ -2222,3 +2222,4 @@
     1. Section 6.1 - Subset Selection(~ing)
         - Best Subset Selection
         - Stepwise Selection
+        - Choosing the Optimal Model
