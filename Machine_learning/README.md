@@ -2219,7 +2219,12 @@
 
 ### 2025년 5월 28일
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
-    1. Section 6.1 - Subset Selection(~ing)
+    1. Section 6.1 - Subset Selection
         - Best Subset Selection
         - Stepwise Selection
         - Choosing the Optimal Model
+
+### 2025년 5월 31일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.2 - Shrinkage Methods
+        - Ridge Regression
