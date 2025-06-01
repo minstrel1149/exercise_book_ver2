@@ -2226,5 +2226,10 @@
 
 ### 2025년 5월 31일
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
-    1. Section 6.2 - Shrinkage Methods
+    1. Section 6.2 - Shrinkage Methods(~ing)
         - Ridge Regression
+
+### 2025년 6월 1일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.2 - Shrinkage Methods(~ing)
+        - The Lasso(~ing)
