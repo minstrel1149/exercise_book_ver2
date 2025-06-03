@@ -2246,3 +2246,6 @@
         - Partial Least Squares
     2. Section 6.4 - Considerations in High Dimensions
         - High-Dimensional Data
+        - What Goes Wrong in High Dimensions
+        - Regression in High Dimensions
+        - Interpreting Results in High Dimensions
