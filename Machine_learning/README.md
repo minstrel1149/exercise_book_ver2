@@ -2244,3 +2244,5 @@
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
     1. Section 6.3 - Dimension Reduction Methods
         - Partial Least Squares
+    2. Section 6.4 - Considerations in High Dimensions
+        - High-Dimensional Data
