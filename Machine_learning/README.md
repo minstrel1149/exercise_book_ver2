@@ -2239,3 +2239,8 @@
 1. Chapter.6 - Linear Model Selection and Regularization(~ing)
     1. Section 6.3 - Dimension Reduction Methods(~ing)
         - Principal Components Regression
+
+### 2025년 6월 3일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.3 - Dimension Reduction Methods
+        - Partial Least Squares
