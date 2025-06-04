@@ -2249,3 +2249,8 @@
         - What Goes Wrong in High Dimensions
         - Regression in High Dimensions
         - Interpreting Results in High Dimensions
+
+### 2025년 6월 4일
+1. Chapter.6 - Linear Model Selection and Regularization(~ing)
+    1. Section 6.5 - Lab: Linear Models and Regularization Methods(~ing)
+        - Subset Selection Methods(~ing)
