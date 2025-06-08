@@ -2256,6 +2256,7 @@
         - Subset Selection Methods
 
 ### 2025년 6월 8일
-1. Chapter.6 - Linear Model Selection and Regularization(~ing)
-    1. Section 6.5 - Lab: Linear Models and Regularization Methods(~ing)
+1. Chapter.6 - Linear Model Selection and Regularization
+    1. Section 6.5 - Lab: Linear Models and Regularization Methods
         - Ridge Regression and the Lasso
+        - PCR and PLS Regression
