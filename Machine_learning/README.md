@@ -2260,3 +2260,7 @@
     1. Section 6.5 - Lab: Linear Models and Regularization Methods
         - Ridge Regression and the Lasso
         - PCR and PLS Regression
+
+### 2025년 6월 9일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.1 - Polynomial Regression
