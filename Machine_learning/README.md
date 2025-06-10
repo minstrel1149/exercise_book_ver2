@@ -2264,3 +2264,10 @@
 ### 2025년 6월 9일
 1. Chapter.7 - Moving Beyond Linearity(~ing)
     1. Section 7.1 - Polynomial Regression
+
+### 2025년 6월 10일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.2 - Step Functions
+    2. Section 7.3 - Basis Functions
+    3. Section 7.4 - Regression Splines(~ing)
+        - Piecewise Polynomials
