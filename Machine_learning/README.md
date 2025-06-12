@@ -2286,3 +2286,6 @@
         - An Overview of Smoothing Splines
         - Choosing the Smoothing Parameter Lambda
     2. Section 7.6 - Local Regression
+    3. Section 7.7 - Generalized Additive Models
+        - GAMs for Regression Problems
+        - GAMs for Classification Problems
