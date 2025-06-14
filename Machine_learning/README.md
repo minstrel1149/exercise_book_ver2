@@ -2294,3 +2294,8 @@
 1. Chapter.7 - Moving Beyond Linearity(~ing)
     1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
         - Polynomial Regression and Step Functions(~ing)
+
+### 2025년 6월 14일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
+        - Polynomial Regression and Step Functions
