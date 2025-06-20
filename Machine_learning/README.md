@@ -2300,12 +2300,18 @@
     1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
         - Polynomial Regression and Step Functions
 
-### 2025년 6월 15일
+### 2025년 6월 17일
 1. Chapter.7 - Moving Beyond Linearity(~ing)
     1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
         - Splines
 
-### 2025년 6월 16일
+### 2025년 6월 18일
 1. Chapter.7 - Moving Beyond Linearity(~ing)
     1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
         - Smoothing Splines and GAMs(~ing)
+
+### 2025년 6월 20일
+1. Chapter.7 - Moving Beyond Linearity(~ing)
+    1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
+        - Smoothing Splines and GAMs
+        - Local Regression
