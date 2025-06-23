@@ -2311,7 +2311,12 @@
         - Smoothing Splines and GAMs(~ing)
 
 ### 2025년 6월 20일
-1. Chapter.7 - Moving Beyond Linearity(~ing)
-    1. Section 7.8 - Lab: Non-Linear Modeling(~ing)
+1. Chapter.7 - Moving Beyond Linearity
+    1. Section 7.8 - Lab: Non-Linear Modeling
         - Smoothing Splines and GAMs
         - Local Regression
+
+### 2025년 6월 23일
+1. Chapter.8 - Tree-Based Methods
+    1. Section 8.1 - The Basics of Decision Trees
+        - Regression Trees(~ing)
