@@ -2329,4 +2329,5 @@
         - Trees Versus Linear Models
         - Advantages and Disadvantages of Trees
     2. Section 8.2 - Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees(~ing)
-        - Bagging(~ing)
+        - Bagging
+        - Random Forests
