@@ -2326,3 +2326,5 @@
     1. Section 8.2 - The Basics of Decision Trees
         - Regression Trees
         - Classification Trees
+        - Trees Versus Linear Models
+        - Advantages and Disadvantages of Trees
