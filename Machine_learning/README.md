@@ -2317,6 +2317,12 @@
         - Local Regression
 
 ### 2025년 6월 23일
-1. Chapter.8 - Tree-Based Methods
-    1. Section 8.1 - The Basics of Decision Trees
+1. Chapter.8 - Tree-Based Methods(~ing)
+    1. Section 8.1 - The Basics of Decision Trees(~ing)
         - Regression Trees(~ing)
+
+### 2025년 6월 24일
+1. Chapter.8 - Tree-Based Methods(~ing)
+    1. Section 8.2 - The Basics of Decision Trees
+        - Regression Trees
+        - Classification Trees
