@@ -2331,3 +2331,8 @@
     2. Section 8.2 - Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees(~ing)
         - Bagging
         - Random Forests
+
+### 2025년 6월 25일
+1. Chapter.8 - Tree-Based Methods(~ing)
+    1. Section 8.2 - Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees(~ing)
+        - Boosting
