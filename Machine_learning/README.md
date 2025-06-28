@@ -2334,7 +2334,12 @@
 
 ### 2025년 6월 25일
 1. Chapter.8 - Tree-Based Methods(~ing)
-    1. Section 8.2 - Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees(~ing)
+    1. Section 8.2 - Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees
         - Boosting
         - Bayesian Additive Regression Trees
         - Summary of Tree Ensemble Methods
+
+### 2025년 6월 28일
+1. Chapter.8 - Tree-Based Methods(~ing)
+    1. Section 8.3 - Lab: Tree-Based Methods(~ing)
+        - Fitting Classification Trees
