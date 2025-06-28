@@ -2344,3 +2344,4 @@
     1. Section 8.3 - Lab: Tree-Based Methods(~ing)
         - Fitting Classification Trees
         - Fitting Regression Trees
+        - Bagging and Random Forests
