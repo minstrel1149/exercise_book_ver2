@@ -2340,8 +2340,10 @@
         - Summary of Tree Ensemble Methods
 
 ### 2025년 6월 28일
-1. Chapter.8 - Tree-Based Methods(~ing)
-    1. Section 8.3 - Lab: Tree-Based Methods(~ing)
+1. Chapter.8 - Tree-Based Methods
+    1. Section 8.3 - Lab: Tree-Based Methods
         - Fitting Classification Trees
         - Fitting Regression Trees
         - Bagging and Random Forests
+        - Boosting
+        - Bayesian Additive Regression Trees
