@@ -2343,3 +2343,4 @@
 1. Chapter.8 - Tree-Based Methods(~ing)
     1. Section 8.3 - Lab: Tree-Based Methods(~ing)
         - Fitting Classification Trees
+        - Fitting Regression Trees
