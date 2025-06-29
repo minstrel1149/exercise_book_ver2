@@ -2347,3 +2347,9 @@
         - Bagging and Random Forests
         - Boosting
         - Bayesian Additive Regression Trees
+
+### 2025년 6월 29일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Section 9.1 - Maximal Margin Classifier(~ing)
+        - What is a Hyperplane?
+        - Classification Using a Seperating Hyperplane
