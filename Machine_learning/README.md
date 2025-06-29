@@ -2356,3 +2356,6 @@
         - The Maximal Margin Classifier
         - Construction of the Maximal Margin Classifier
         - The Non-Seperable Case
+    2. Section 9.2 - Support Vector Classifier
+        - Overview of the Support Vector Classifier
+        - Details of the Support Vector Classifier
