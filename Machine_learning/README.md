@@ -2359,3 +2359,10 @@
     2. Section 9.2 - Support Vector Classifier
         - Overview of the Support Vector Classifier
         - Details of the Support Vector Classifier
+
+### 2025년 6월 30일
+1. Chapter.9 - Support Vector Machines(~ing)
+    1. Section 9.3 - Support Vector Machines(~ing)
+        - Classification with Non-Linear Decision Boundaries
+        - The Support Vector Machine
+        - An Application to the Heart Disease Data
