@@ -2369,3 +2369,4 @@
     2. Section 9.4 - SVMs with More Than Two Classes
         - One-Versus-One Classification
         - One-Versus-All Classification
+    3. Section 9.5 - Relationship to Logistic Regression
