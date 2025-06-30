@@ -2362,7 +2362,10 @@
 
 ### 2025년 6월 30일
 1. Chapter.9 - Support Vector Machines(~ing)
-    1. Section 9.3 - Support Vector Machines(~ing)
+    1. Section 9.3 - Support Vector Machines
         - Classification with Non-Linear Decision Boundaries
         - The Support Vector Machine
         - An Application to the Heart Disease Data
+    2. Section 9.4 - SVMs with More Than Two Classes
+        - One-Versus-One Classification
+        - One-Versus-All Classification
