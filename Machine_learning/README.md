@@ -2381,3 +2381,5 @@
     1. Section 9.6 - Lab: Support Vector Machines
         - Support Vector Machines
         - ROC Curves
+        - SVM with Multiple Classes
+        - Application to Gene Expression Data
