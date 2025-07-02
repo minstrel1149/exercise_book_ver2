@@ -2383,3 +2383,7 @@
         - ROC Curves
         - SVM with Multiple Classes
         - Application to Gene Expression Data
+
+### 2025년 7월 3일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.1 - Single Layer Neural Networks
