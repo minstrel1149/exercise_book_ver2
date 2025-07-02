@@ -2375,3 +2375,9 @@
 1. Chapter.9 - Support Vector Machines(~ing)
     1. Section 9.6 - Lab: Support Vector Machines(~ing)
         - Support Vector Classifier
+
+### 2025년 7월 2일
+1. Chapter.9 - Support Vector Machines
+    1. Section 9.6 - Lab: Support Vector Machines
+        - Support Vector Machines
+        - ROC Curves
