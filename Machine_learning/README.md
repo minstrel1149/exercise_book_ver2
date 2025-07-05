@@ -2400,3 +2400,5 @@
         - Architecture of a Convolutional Neural Network
         - Data Augmentation
         - Results Using a Pretrained Classifier
+    2. Section 10.4 - Document Classification
+    
