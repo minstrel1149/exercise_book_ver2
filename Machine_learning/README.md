@@ -2391,3 +2391,10 @@
 ### 2025년 7월 4일
 1. Chapter.10 - Deep Learning(~ing)
     1. Section 10.2 - Multilayer Neural Networks
+
+### 2025년 7월 5일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.3 - Convolutional Neural Networks
+        - Convolution Layers
+        - Pooling Layers
+        - Architecture of a Convolutional Neural Network
