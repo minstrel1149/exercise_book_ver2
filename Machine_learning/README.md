@@ -2401,4 +2401,5 @@
         - Data Augmentation
         - Results Using a Pretrained Classifier
     2. Section 10.4 - Document Classification
-    
+    3. Section 10.5 - Recurrent Neural Networks(~ing)
+        - Sequential Models for Document Classification
