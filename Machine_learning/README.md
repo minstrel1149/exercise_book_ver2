@@ -2409,3 +2409,4 @@
     1. Section 10.5 - Recurrent Neural Networks
         - Time Series Forecasting
         - Summary of RNNs
+    2. Section 10.6 - When to Use Deep Learning
