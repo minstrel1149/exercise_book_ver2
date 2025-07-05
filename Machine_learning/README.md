@@ -2398,3 +2398,5 @@
         - Convolution Layers
         - Pooling Layers
         - Architecture of a Convolutional Neural Network
+        - Data Augmentation
+        - Results Using a Pretrained Classifier
