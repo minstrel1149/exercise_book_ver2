@@ -2403,3 +2403,9 @@
     2. Section 10.4 - Document Classification
     3. Section 10.5 - Recurrent Neural Networks(~ing)
         - Sequential Models for Document Classification
+
+### 2025년 7월 6일
+1. Chapter.10 - Deep Learning(~ing)
+    1. Section 10.5 - Recurrent Neural Networks
+        - Time Series Forecasting
+        - Summary of RNNs
