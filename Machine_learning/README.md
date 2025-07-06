@@ -2413,3 +2413,5 @@
     3. Section 10.7 - Fitting a Neural Network
         - Backpropagation
         - Regularization and Stochastic Gradient Descent
+        - Dropout Learning
+        - Network Tuning
