@@ -2410,3 +2410,6 @@
         - Time Series Forecasting
         - Summary of RNNs
     2. Section 10.6 - When to Use Deep Learning
+    3. Section 10.7 - Fitting a Neural Network
+        - Backpropagation
+        - Regularization and Stochastic Gradient Descent
