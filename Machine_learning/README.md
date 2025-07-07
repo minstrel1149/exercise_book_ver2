@@ -2422,3 +2422,9 @@
     1. Section 11.1 - Survival and Censoring Times
     2. Section 11.2 - A Closer Look at Censoring
     3. Section 11.3 - The Kaplan-Meier Survival Curve
+
+### 2025년 7월 8일
+1. Chapter.11 - Survival Analysis and Censored Data(~ing)
+    1. Section 11.4 - The Log-Rank Test
+    2. Section 11.5 - Regression Models with a Survival Response(~ing)
+        - The Hazard Function
