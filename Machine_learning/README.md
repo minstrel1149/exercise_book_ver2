@@ -2435,3 +2435,7 @@
         - Proportional Hazards
         - Example: Brain Cancer Data
         - Example: Publication Data
+
+### 2025년 7월 10일
+1. Chapter.11 - Survival Analysis and Censored Data(~ing)
+    1. Section 11.6 - Shrinkage for the Cox Model
