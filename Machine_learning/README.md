@@ -2428,3 +2428,8 @@
     1. Section 11.4 - The Log-Rank Test
     2. Section 11.5 - Regression Models with a Survival Response(~ing)
         - The Hazard Function
+
+### 2025년 7월 9일
+1. Chapter.11 - Survival Analysis and Censored Data(~ing)
+    1. Section 11.5 - Regression Models with a Survival Response(~ing)
+        - Proportional Hazards
