@@ -2431,5 +2431,7 @@
 
 ### 2025년 7월 9일
 1. Chapter.11 - Survival Analysis and Censored Data(~ing)
-    1. Section 11.5 - Regression Models with a Survival Response(~ing)
+    1. Section 11.5 - Regression Models with a Survival Response
         - Proportional Hazards
+        - Example: Brain Cancer Data
+        - Example: Publication Data
