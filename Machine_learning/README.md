@@ -2439,3 +2439,12 @@
 ### 2025년 7월 10일
 1. Chapter.11 - Survival Analysis and Censored Data(~ing)
     1. Section 11.6 - Shrinkage for the Cox Model
+
+### 2025년 7월 11일
+1. Chapter.11 - Survival Analysis and Censored Data(~ing)
+    1. Section 11.7 - Additional Topics
+        - Area Under the Cruve for Survival Analysis
+        - Choice of Time Scale
+        - Time-Dependent Covariates
+        - Checking the Proportional Hazards Assumption
+        - Survival Trees
