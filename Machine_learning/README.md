@@ -2454,3 +2454,8 @@
     1. Section 11.8 - Lab: Survival Analysis(~ing)
         - Brain Cancer Data
         - Publication Data
+
+### 2025년 7월 13일
+1. Chapter.11 - Survival Analysis and Censored Data
+    1. Section 11.9 - Lab: Survival Analysis
+        - Call Center Data(~ing)
