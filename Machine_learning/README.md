@@ -2459,3 +2459,7 @@
 1. Chapter.11 - Survival Analysis and Censored Data
     1. Section 11.9 - Lab: Survival Analysis
         - Call Center Data
+
+### 2025년 7월 14일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.1 - The Challenge of Unsupervised Learning
