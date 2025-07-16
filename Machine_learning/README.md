@@ -2471,3 +2471,5 @@
     1. Section 12.2 - Principal Components Analysis
         - Another Interpretation of Principal Components
         - The Proportion of Variance Explained
+        - More on PCA
+        - Other Uses for Principal Components
