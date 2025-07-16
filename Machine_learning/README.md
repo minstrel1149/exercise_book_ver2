@@ -2463,5 +2463,11 @@
 ### 2025년 7월 14일
 1. Chapter.12 - Unsupervised Learning(~ing)
     1. Section 12.1 - The Challenge of Unsupervised Learning
-    2. Section 12.2 - Principal Components Analysis
+    2. Section 12.2 - Principal Components Analysis(~ing)
         - What are Principal Components?
+
+### 2025년 7월 16일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.2 - Principal Components Analysis
+        - Another Interpretation of Principal Components
+        - The Proportion of Variance Explained
