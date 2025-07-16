@@ -2474,3 +2474,8 @@
         - More on PCA
         - Other Uses for Principal Components
     2. Section 12.3 - Missing Values and Matrix Completiton
+
+### 2025년 7월 17일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.4 - Clustering Methods(~ing)
+        - K-Means Clustering
