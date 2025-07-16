@@ -2473,3 +2473,4 @@
         - The Proportion of Variance Explained
         - More on PCA
         - Other Uses for Principal Components
+    2. Section 12.3 - Missing Values and Matrix Completiton
