@@ -2493,3 +2493,4 @@
         - Principal Components Analysis
         - Matrix Completion
         - Clustering
+        - NCI60 Data Example
