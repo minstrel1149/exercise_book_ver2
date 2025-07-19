@@ -2489,3 +2489,5 @@
 1. Chapter.12 - Unsupervised Learning(~ing)
     1. Section 12.4 - Clustering Methods
         - Practical Issues in Clustering
+    2. Section 12.5 - Lab: Unsupervised Learning(~ing)
+        - Principal Components Analysis
