@@ -2491,3 +2491,4 @@
         - Practical Issues in Clustering
     2. Section 12.5 - Lab: Unsupervised Learning(~ing)
         - Principal Components Analysis
+        - Matrix Completion
