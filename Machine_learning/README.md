@@ -2484,3 +2484,8 @@
 1. Chapter.12 - Unsupervised Learning(~ing)
     1. Section 12.4 - Clustering Methods(~ing)
         - Hierarchical Clustering
+
+### 2025년 7월 19일
+1. Chapter.12 - Unsupervised Learning(~ing)
+    1. Section 12.4 - Clustering Methods
+        - Practical Issues in Clustering
