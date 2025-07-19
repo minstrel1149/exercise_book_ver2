@@ -2486,7 +2486,7 @@
         - Hierarchical Clustering
 
 ### 2025년 7월 19일
-1. Chapter.12 - Unsupervised Learning(~ing)
+1. Chapter.12 - Unsupervised Learning
     1. Section 12.4 - Clustering Methods
         - Practical Issues in Clustering
     2. Section 12.5 - Lab: Unsupervised Learning(~ing)
@@ -2494,3 +2494,8 @@
         - Matrix Completion
         - Clustering
         - NCI60 Data Example
+
+
+## ALIBI, LIME, SHAP, ELI5, InterpretML을 활용한 XAI
+### 2025년 7월 20일
+1. Chapter.1 - XAI(Explainable AI)

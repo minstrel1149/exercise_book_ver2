@@ -75,3 +75,5 @@
 5. 김기현의 딥러닝 부트캠프 with 파이토치 - Machine_learning
 6. The Elements of Statistical Learning 2/e 번역본 - Machine_learning
 7. 파이썬 텍스트 마이닝 완벽 가이드 - Machine_learning
+8. An Introduction to Statistical Learning with Python(원서) - Machine_learning
+9. ALIBI, LIME, SHAPE, ELI5, InterpretML을 활용한 XAI - Machine_learning
