@@ -2499,3 +2499,4 @@
 ## ALIBI, LIME, SHAP, ELI5, InterpretML을 활용한 XAI
 ### 2025년 7월 20일
 1. Chapter.1 - XAI(Explainable AI)
+2. Chapter.2 - ELI5(Explainable like I'm 5)(~ing)
