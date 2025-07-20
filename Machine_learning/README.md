@@ -2500,3 +2500,6 @@
 ### 2025년 7월 20일
 1. Chapter.1 - XAI(Explainable AI)
 2. Chapter.2 - ELI5(Explainable like I'm 5)(~ing)
+
+### 2025년 7월 21일
+1. Chapter.2 - ELI5(Explainable like I'm 5)
