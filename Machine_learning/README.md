@@ -2503,3 +2503,9 @@
 
 ### 2025년 7월 21일
 1. Chapter.2 - ELI5(Explainable like I'm 5)
+
+### 2025년 7월 22일
+1. Chapter.3 - Global Explainer의 종류와 작동 원리(~ing)
+    - Section 3.1 - PD(Partial Dependence)
+    - Section 3.2 - PV(Partial Dependence Variance)
+    - Section 3.3 - ALE(Accumulated Local Effect)
