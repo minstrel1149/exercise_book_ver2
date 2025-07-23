@@ -2514,4 +2514,4 @@
 1. Chapter.3 - Global Explainer의 종류와 작동 원리
     - Section 3.4 - PI(Permutaion Importance)
 2. Chapter.4 - PD, PV, ALE, PI의 적용과 응용(~ing)
-    - Section 4.1 - PD(Partial Dependence)(~ing)
+    - Section 4.1 - PD(Partial Dependence)
