@@ -2515,3 +2515,7 @@
     - Section 3.4 - PI(Permutaion Importance)
 2. Chapter.4 - PD, PV, ALE, PI의 적용과 응용(~ing)
     - Section 4.1 - PD(Partial Dependence)
+
+### 2025년 7월 24일
+1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용(~ing)
+    - Section 4.2 - PV(Partial Dependence Variance)
