@@ -2522,4 +2522,4 @@
 
 ### 2025년 7월 25일
 1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용(~ing)
-    - Section 4.3 - ALE(Accumulated Local Effect)(~ing)
+    - Section 4.3 - ALE(Accumulated Local Effect)
