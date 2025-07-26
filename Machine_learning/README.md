@@ -2527,3 +2527,8 @@
 ### 2025년 7월 26일
 1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용
     - Section 4.4 - PI(Permutation Importance)
+2. Chapter.5 - LIME(~ing)
+    - Section 5.1 - 데이터에 따른 LIME의 적용
+        - Tabular 데이터의 경우
+        - Text 데이터의 경우
+        - Image 데이터의 경우
