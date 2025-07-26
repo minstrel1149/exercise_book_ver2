@@ -2532,3 +2532,4 @@
         - Tabular 데이터의 경우
         - Text 데이터의 경우
         - Image 데이터의 경우
+    - Section 5.2 - SP-LIME(Submodular Pick LIME)
