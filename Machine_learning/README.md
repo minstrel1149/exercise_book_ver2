@@ -2537,4 +2537,4 @@
 ### 2025년 7월 27일
 1. Chapter.5 - LIME(~ing)
     - Section 5.3 - LIME의 적용과 응용(~ing)
-        - LIME의 적용: Tabular 데이터(~ing)
+        - LIME의 적용: Tabular 데이터
