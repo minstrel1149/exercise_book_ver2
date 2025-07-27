@@ -2538,3 +2538,4 @@
 1. Chapter.5 - LIME(~ing)
     - Section 5.3 - LIME의 적용과 응용(~ing)
         - LIME의 적용: Tabular 데이터
+        - LIME의 적용: Text 데이터
