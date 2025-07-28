@@ -2543,3 +2543,8 @@
 ### 2025년 7월 28일
 1. Chapter.6 - Anchors(~ing)
     - Section 6.1 - Anchors의 결정
+
+### 2025년 7월 29일
+1. Chapter.6 - Anchors(~ing)
+    - Section 6.2 - Anchors의 적용과 응용(~ing)
+        - AnchorTabular(~ing)
