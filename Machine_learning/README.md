@@ -2539,3 +2539,7 @@
     - Section 5.3 - LIME의 적용과 응용
         - LIME의 적용: Tabular 데이터
         - LIME의 적용: Text 데이터
+
+### 2025년 7월 28일
+1. Chapter.6 - Anchors(~ing)
+    - Section 6.1 - Anchors의 결정
