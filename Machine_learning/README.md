@@ -2550,6 +2550,7 @@
         - AnchorTabular(~ing)
 
 ### 2025년 7월 30일
-1. Chapter.6 - Anchors(~ing)
+1. Chapter.6 - Anchors
     - Section 6.2 - Anchors의 적용과 응용
         - AnchorTabular
+        - AnchorText
