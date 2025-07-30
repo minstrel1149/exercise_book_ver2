@@ -2554,3 +2554,5 @@
     - Section 6.2 - Anchors의 적용과 응용
         - AnchorTabular
         - AnchorText
+2. Chapter.7 - IG(Integrated Gradients)(~ing)
+    - Section 7.1 - IG의 생성 원리
