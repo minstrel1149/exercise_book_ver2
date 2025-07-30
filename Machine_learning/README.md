@@ -2554,5 +2554,9 @@
     - Section 6.2 - Anchors의 적용과 응용
         - AnchorTabular
         - AnchorText
-2. Chapter.7 - IG(Integrated Gradients)(~ing)
+2. Chapter.7 - IG(Integrated Gradients)
     - Section 7.1 - IG의 생성 원리
+
+### 2025년 7월 31일
+1. Chapter.8 - SE(Similarity Explanations)(~ing)
+    - GS(Gradient Similarity)
