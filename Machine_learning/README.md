@@ -2558,5 +2558,10 @@
     - Section 7.1 - IG의 생성 원리
 
 ### 2025년 7월 31일
-1. Chapter.8 - SE(Similarity Explanations)(~ing)
-    - GS(Gradient Similarity)
+1. Chapter.8 - SE(Similarity Explanations)
+    - Section 8.1 - GS(Gradient Similarity)
+
+### 2025년 8월 1일
+1. Chapter.9 - Shapley Values(~ing)
+    - Section 9.1 - Shapley Value의 기본 개념
+    - Section 9.2 - 머신러닝에서의 Shapley Value(~ing)
