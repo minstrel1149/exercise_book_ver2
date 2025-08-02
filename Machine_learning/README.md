@@ -2565,3 +2565,7 @@
 1. Chapter.9 - Shapley Values(~ing)
     - Section 9.1 - Shapley Value의 기본 개념
     - Section 9.2 - 머신러닝에서의 Shapley Value(~ing)
+
+### 2025년 8월 2일
+1. Chapter.9 - Shapley Values(~ing)
+    - Section 9.2 - 머신러닝에서의 Shapley Value
