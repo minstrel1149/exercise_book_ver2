@@ -2569,3 +2569,4 @@
 ### 2025년 8월 2일
 1. Chapter.9 - Shapley Values(~ing)
     - Section 9.2 - 머신러닝에서의 Shapley Value
+    - Section 9.3 - Kernel SHAP
