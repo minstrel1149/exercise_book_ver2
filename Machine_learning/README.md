@@ -2570,3 +2570,5 @@
 1. Chapter.9 - Shapley Values(~ing)
     - Section 9.2 - 머신러닝에서의 Shapley Value
     - Section 9.3 - Kernel SHAP
+    - Section 9.4 - Tree SHAP
+    - Section 9.5 - Deep SHAP
