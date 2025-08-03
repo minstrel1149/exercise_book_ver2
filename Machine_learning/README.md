@@ -2567,9 +2567,13 @@
     - Section 9.2 - 머신러닝에서의 Shapley Value(~ing)
 
 ### 2025년 8월 2일
-1. Chapter.9 - Shapley Values(~ing)
+1. Chapter.9 - Shapley Values
     - Section 9.2 - 머신러닝에서의 Shapley Value
     - Section 9.3 - Kernel SHAP
     - Section 9.4 - Tree SHAP
     - Section 9.5 - Deep SHAP
     - Section 9.6 - SHAP Interaction Values
+
+### 2025년 8월 3일
+1. Chapter.10 - SHAP의 적용과 해석(~ing)
+    - Section 10.1 - KernelExplainer(~ing)
