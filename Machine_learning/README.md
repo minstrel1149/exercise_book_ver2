@@ -2572,3 +2572,4 @@
     - Section 9.3 - Kernel SHAP
     - Section 9.4 - Tree SHAP
     - Section 9.5 - Deep SHAP
+    - Section 9.6 - SHAP Interaction Values
