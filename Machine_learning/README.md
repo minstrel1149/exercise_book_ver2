@@ -2577,3 +2577,8 @@
 ### 2025년 8월 3일
 1. Chapter.10 - SHAP의 적용과 해석(~ing)
     - Section 10.1 - KernelExplainer(~ing)
+
+### 2025년 8월 4일
+1. Chapter.10 - SHAP의 적용과 해석(~ing)
+    - Section 10.1 - KernelExplainer
+    - Section 10.2 - shap.Explainer
