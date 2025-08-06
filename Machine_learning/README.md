@@ -2588,3 +2588,7 @@
     - Section 10.3 - TreeExplainer
 2. Chapter.11 - Decision Plot(~ing)
     - Section 11.1 - Decision Plot의 이해(~ing)
+
+### 2025년 8월 7일
+1. Chapter.11 - Decision Plot
+    - Section 11.1 - Decision Plot의 이해
