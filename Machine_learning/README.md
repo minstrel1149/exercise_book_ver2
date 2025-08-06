@@ -2584,5 +2584,7 @@
     - Section 10.2 - shap.Explainer
 
 ### 2025년 8월 6일
-1. Chapter.10 - SHAP의 적용과 해석(~ing)
+1. Chapter.10 - SHAP의 적용과 해석
     - Section 10.3 - TreeExplainer
+2. Chapter.11 - Decision Plot(~ing)
+    - Section 11.1 - Decision Plot의 이해(~ing)
