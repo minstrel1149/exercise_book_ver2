@@ -2597,3 +2597,7 @@
 1. Chapter.12 - CEM(Contrastive Explanation Method)
     - Section 12.1 - CEM PP와 PN
     - Section 12.2 - CEM의 적용
+
+### 2025년 8월 10일
+1. Chapter.13 - CFI(Counterfactual Instances)(~ing)
+    - Section 13.1 - CFI의 적용과 응용(~ing)
