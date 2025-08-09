@@ -2594,6 +2594,6 @@
     - Section 11.1 - Decision Plot의 이해
 
 ### 2025년 8월 9일
-1. Chapter.12 - CEM(Contrastive Explanation Method)(~ing)
+1. Chapter.12 - CEM(Contrastive Explanation Method)
     - Section 12.1 - CEM PP와 PN
-    - Section 12.2 - CEM의 적용(~ing)
+    - Section 12.2 - CEM의 적용
