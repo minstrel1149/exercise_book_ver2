@@ -2625,3 +2625,6 @@
 1. Chapter.14 - CFP(Counterfactual Guided by Prototypes)
     - Section 14.3 - CFP의 적용과 응용
         - CFP의 적용: Tabular 데이터
+
+### 2025년 8월 16일
+1. Chapter.16 - ALIBI Explainer들의 비교와 응용
