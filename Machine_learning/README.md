@@ -2638,3 +2638,5 @@
 2. Chapter.3 - Global Explainer의 종류와 작동 원리
     - Section 3.1 - PD(Partial Dependence)
     - Section 3.2 - PV(Partial Dependence Variance)
+    - Section 3.3 - ALE(Accumulated Local Effect)
+    - Section 3.4 - PI(Permutaion Importance)
