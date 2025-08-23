@@ -2642,5 +2642,9 @@
     - Section 3.4 - PI(Permutaion Importance)
 
 ### 2025년 8월 22일
-1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용
+1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용(~ing)
     - Section 4.0 - Bike 데이터의 적용으로 대체(~ing)
+
+### 2025년 8월 23일
+1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용
+    - Section 4.0 - Bike 데이터의 적용으로 대체
