@@ -2650,10 +2650,14 @@
     - Section 4.0 - Bike 데이터의 적용으로 대체
 
 ### 2025년 8월 24일
-1. Chapter.5 - LIME(~ing)
+1. Chapter.5 - LIME
     - Section 5.1 - 데이터에 따른 LIME의 적용
         - Tabular 데이터의 경우
         - Text 데이터의 경우
         - Image 데이터의 경우
     - Section 5.2 - SP-LIME
     - Section 5.0 - Boston 데이터의 적용으로 대체
+
+### 2025년 8월 25일
+1. Chatper.6 - Anchors(~ing)
+    - Section 6.1 - Anchors의 결정
