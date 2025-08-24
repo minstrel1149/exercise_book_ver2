@@ -2656,4 +2656,4 @@
         - Text 데이터의 경우
         - Image 데이터의 경우
     - Section 5.2 - SP-LIME
-    - Section 5.0 - Boston 데이터의 적용으로 대체(~ing)
+    - Section 5.0 - Boston 데이터의 적용으로 대체
