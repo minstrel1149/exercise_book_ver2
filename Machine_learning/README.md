@@ -2648,3 +2648,11 @@
 ### 2025년 8월 23일
 1. Chapter.4 - PD, PV, ALE, PI의 적용과 응용
     - Section 4.0 - Bike 데이터의 적용으로 대체
+
+### 2025년 8월 24일
+1. Chapter.5 - LIME(~ing)
+    - Section 5.1 - 데이터에 따른 LIME의 적용
+        - Tabular 데이터의 경우
+        - Text 데이터의 경우
+        - Image 데이터의 경우
+    - Section 5.2 - SP-LIME
