@@ -2659,5 +2659,9 @@
     - Section 5.0 - Boston 데이터의 적용으로 대체
 
 ### 2025년 8월 25일
-1. Chatper.6 - Anchors(~ing)
+1. Chatper.6 - Anchors
     - Section 6.1 - Anchors의 결정
+
+### 2025년 8월 26일
+1. Chapter.7 - IG(Integrated Gradients)
+    - Section 7.1 - IG의 생성 원리
