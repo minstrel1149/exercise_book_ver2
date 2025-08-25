@@ -2665,3 +2665,5 @@
 ### 2025년 8월 26일
 1. Chapter.7 - IG(Integrated Gradients)
     - Section 7.1 - IG의 생성 원리
+2. Chapter.8 - SE(Similarity Explanations)
+    - Section 8.1 - GS(Gradient Similarity)
