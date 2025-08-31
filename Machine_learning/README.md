@@ -2679,3 +2679,8 @@
     - Section 9.4 - Tree SHAP
     - Section 9.5 - Deep SHAP
     - Section 9.6 - SHAP Interaction Values
+2. Chapter.10 - SHAP의 적용과 해석(~ing)
+    - Section 10.1 - KernalExplainer
+    - Section 10.2 - Explainer
+    - Section 10.3 - TreeExplainer
+    - Section 10.4 - DeepExplainer
