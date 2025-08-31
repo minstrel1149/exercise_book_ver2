@@ -2672,3 +2672,8 @@
 1. Chatper.9 - Shapley Values(~ing)
     - Section 9.1 - Shapley Values의 기본 개념
     - Section 9.2 - 머신러닝에서의 Shapley Values
+
+### 2025년 8월 31일
+1. Chapter.9 - Shapley Values
+    - Section 9.3 - Kernel SHAP
+    - Section 9.4 - Tree SHAP
