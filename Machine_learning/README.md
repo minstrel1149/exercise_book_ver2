@@ -2687,3 +2687,7 @@
 
 ### 2025년 9월 1일
 1. Chapter.11 - Decision Plot(~ing)
+
+### 2025년 9월 3일
+1. Chapter.11 - Decision Plot
+    - Section 11.0 - Adult 데이터의 적용으로 대체
