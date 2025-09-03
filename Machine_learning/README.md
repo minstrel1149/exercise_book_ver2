@@ -2691,3 +2691,5 @@
 ### 2025년 9월 3일
 1. Chapter.11 - Decision Plot
     - Section 11.0 - Adult 데이터의 적용으로 대체
+2. Section.12 - CEM(Contrastive Explanation Method)
+    - Section 12.1 - CEM PP와 CEM PN
