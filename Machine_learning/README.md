@@ -2697,3 +2697,9 @@
 ### 2025년 9월 4일
 1. Chapter.13 - CFI(Counterfactual Instances)
     - Section 13.1 - CFI의 적용과 응용
+
+### 2025년 9월 5일
+1. Chapter.14 - CFP(Counterfactual Guided by Prototypes)
+    - Section 14.1 - CFP의 이론적 배경
+    - Section 14.2 - k-d Tree와 신뢰점수
+    - Section 14.3 - CFP의 적용과 응용
