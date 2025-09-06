@@ -2703,3 +2703,6 @@
     - Section 14.1 - CFP의 이론적 배경
     - Section 14.2 - k-d Tree와 신뢰점수
     - Section 14.3 - CFP의 적용과 응용
+
+### 2025년 9월 6일
+1. Chapter.16 - ALIBI Explainer들의 비교와 응용
