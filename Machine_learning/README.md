@@ -2710,3 +2710,4 @@
 ### 2025년 9월 7일
 1. Chapter.17 - EBM(Explainable Boosting Machines)
     - Section 17.1 - EBM 모형의 이해
+    - Section 17.2 - EBM의 적용과 응용
