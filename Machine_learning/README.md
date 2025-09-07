@@ -2706,3 +2706,7 @@
 
 ### 2025년 9월 6일
 1. Chapter.16 - ALIBI Explainer들의 비교와 응용
+
+### 2025년 9월 7일
+1. Chapter.17 - EBM(Explainable Boosting Machines)
+    - Section 17.1 - EBM 모형의 이해
