@@ -65,3 +65,41 @@ def initialize_chain():
 
     return chain_with_history
 
+# Streamlit UI
+def main():
+    st.set_page_config(page_title='KB 부동산 보고서 챗봇', page_icon='🏠')
+    st.title('🏠 KB 부동산 보고서 AI 어드바이저')
+    st.caption('2024 KB 부동산 보고서 기반 질의응답 시스템')
+
+    # 세션 상태 초기화
+    if 'messages' not in st.session_state:
+        st.session_state.messages = []
+    
+    # 채팅 기록 표시
+    for message in st.session_state.messages:
+        with st.chat_message(message['role']):
+            st.markdown(message['content'])
+    
+    # 사용자 입력 처리
+    if prompt := st.chat_input('부동산 관련 질문을 입력하세요.'):
+        # 사용자 메시지 표시
+        with st.chat_message('user'):
+            st.markdown(prompt)
+        st.session_state.messages.append({'role':'user', 'content':prompt})
+
+        # 체인 초기화
+        chain = initialize_chain()
+
+        # AI 응답 생성
+        with st.chat_message('assistant'):
+            with st.spinner('답변 생성 중..'):
+                response = chain.invoke(
+                    {'question':prompt},
+                    {'configurable':{'session_id':'streamlit_session'}}
+                )
+                st.markdown(response)
+        
+        st.session_state.messages.append({'role':'assistant', 'content':response})
+
+if __name__ == '__main__':
+    main()
